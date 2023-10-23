@@ -91,13 +91,19 @@ Full-time staff should submit their time off requests at least two weeks in adva
 Part-time staff are more flexible in their time off, as they are working a smaller number of hours. However, part-time staff should submit their time off requests at least two weeks in advance to Kelly Garner and Keelan Cook. Approved requests will be communicated to the staff member with necessary details, and supervisors will adjust schedules accordingly. Records of approved and denied requests will be maintained by the CGCS. Staff members are responsible for returning to work as scheduled, and any changes to approved time off should be communicated in advance. In working part-time, you may also work more hours the week before and week after to make up the time you are missing. Discuss how to do this with Kelly Garner when this becomes pertinent.
 <!-- Written with help of ChatGPT] -->
 
+## What about chapel?
+Full-time and part-time staff receive one paid chapel a week. You are allowed to stay on the clock during this hour and sit under preaching and worship with other SEBTS staff and students. We encourage you to participate in chapel! It is of great benefit to you as you grow in your relationship with the Lord.
+
+## Are there any teaming styles or personality quizzes you find useful?
+
+Why yes! Keelan enjoys a quiz put out by Predictable Success that looks at management and leadership styles. He likes for new employees to take these so he can know a little bit more of how you operate. This is not a complete synopsis of who you are, but it can tell us a little bit about the tasks you may like to do and how you think about your leadership style. Click the button below to take the quiz!
+
+[Predictable Success Quiz](https://predictablesuccess.com/styles-quiz/){: .btn }
+
 ## What expectations do you have of me as an employee?
 As an office, we have certain expectations of our employees. On your job description, you will see your personal responsibilities and expectations. These are sectioned off and found under job purpose, essential responsibilities, other responsibilities, knowledge and skills, public contact, physical demands, and working conditions. On top of these expectations, the office and school also has some general expectations of you as an employee.
 
 [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html){: .btn }
-
-## What about chapel?
-Full-time and part-time staff receive one paid chapel a week. You are allowed to stay on the clock during this hour and sit under preaching and worship with other SEBTS staff and students. We encourage you to participate in chapel! It is of great benefit to you as you grow in your relationship with the Lord.
 
 ---
 
