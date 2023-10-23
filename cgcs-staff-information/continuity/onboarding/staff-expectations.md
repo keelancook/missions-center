@@ -75,10 +75,6 @@ It's important for employees to be aware of these expectations and strive to mee
 
 <!-- Written with help of ChatGPT] -->
 
-## SEBTS Employee Expectations
-
-Insert Employee Manual Here.
-
 ---
 
 [Return to Onboarding](/cgcs-staff-information/continuity/onboarding/onboarding.html)
