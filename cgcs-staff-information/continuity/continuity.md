@@ -35,7 +35,7 @@ Sure! Here are a couple examples:
 [Associate Director](/cgcs-staff-information/continuity/folders/associate-director.html)  
 [Office Manager](/cgcs-staff-information/continuity/folders/office-manager.html)  
 [Admin Assistant to the Director](/cgcs-staff-information/continuity/folders/admin-assistant-to-director.html)  
-[Database Manager](/cgcs-staff-information/continuity/folders/database-coordinator.html)  
+[Database Coordinator](/cgcs-staff-information/continuity/folders/database-coordinator.html)  
 [Digital Communications Specialist](/cgcs-staff-information/continuity/folders/digital-communications-specialist.html)  
 [Student Mobilizer](/cgcs-staff-information/continuity/folders/student-mobilizer.html)  
 [Research Fellow](/cgcs-staff-information/continuity/folders/research-fellow.html)  

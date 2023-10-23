@@ -46,6 +46,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 * HubSpot Database Upkeep
    * This includes maintaining duplicate contacts and ensuring contact information is accurate for students.
    * Create/maintain reports in HubSpot to make sure they are functioning.
+   * This also includes making sure that the Company information is accurate in our system also.
 * Documentation Site Upkeep
    * The documentation site at missions.center is maintained and created by this role. This includes creating new pages and updating old pages.
 
@@ -65,9 +66,19 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 ### Semester Tasks
 * Update HubSpot with new student information.
 * Update HubSpot with graduated student information.
+* Update HubSpot with new information surrounding students connected to the IMB.
+   * You will get this information from David Phillips.
 
 ## Points of Contact
 [Name, Position, Phone #, Email, Notes]: #
+
+| Name         | Position       | Email           |
+| ---------    | ---------      | --------        |
+| Keelan Cook  | CGCS Director  | kcook@sebts.edu |
+| Kelly Garner | CGCS Office Manager | kgarner@sebts.edu |
+| Timothy Waters | Admin Aid to Keelan | twaters@sebts.edu |
+| AD           | CGCS Assoc. Dir. | Email         |
+| David Phillips | Financial Aid Director | dphillips@sebts.edu | 
 
 ### In-house
 * Your direct supervisor for HubSpot and the documentation website is the Associate Director.
@@ -75,8 +86,9 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 * You will work together with other team members on projects throughout your time in the office.
 
 ### Outside the Office
-* This role has some contact with outside offices. IT, Registrar, and HR are offices that you may need to contact for information on HubSpot.
+* This role has some contact with outside offices at SEBTS. IT, Financial Aid, Registrar, and HR are offices that you may need to contact for information on HubSpot.
 * With the development of pathways/pipelines, this role also has contact with members of IMB, NAMB, and NC Baptists. These are our denominational partners and we are seeking to build sending pathways in tandem with these organizations.
+* This role also has contact with HubSpot, from contract teams, to success and aid teams, to troubleshooting teams. All of these offices at HubSpot are here to help you in this role, pointing you in the right direction and to articles that may help with your issues and needs.
 
 ## References
 List any frequently used documents, books, websites, or regulations that are essential to your job. Include links or a printout. Highlight important sections.
