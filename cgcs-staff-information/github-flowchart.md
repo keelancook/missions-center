@@ -87,6 +87,7 @@ CGCS Staff: This page is the navigation page for CGCS Staff to find documentatio
       7. Reporting
       8. Marketing Emails
       9. Automation
+      10. Why Use HubSpot?
    6. WordPress Home
       1. Introduction
       2. Pages
