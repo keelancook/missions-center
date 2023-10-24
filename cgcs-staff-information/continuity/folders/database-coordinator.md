@@ -48,7 +48,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
    * Create/maintain reports in HubSpot to make sure they are functioning.
    * This also includes making sure that the Company information is accurate in our system also.
 * Documentation Site Upkeep
-   * The documentation site at missions.center is maintained and created by this role. This includes creating new pages and updating old pages.
+   * The documentation site at missions.center is maintained by this role. This includes creating new pages and updating old pages.
 
 ### Daily Tasks
 * Check to make sure HubSpot is running smoothly.
@@ -108,6 +108,8 @@ List any frequently used documents, books, websites, or regulations that are ess
    * You can also search HubSpot Knowledgebase in Google and find most of your answers there.
 * GitHub: See GitHub page on missions.center for common links.
    * You can also search GitHub's knowledgebase.
+* Regulations surrounding student data and PII are pertinent. Make sure that you are up to date on these.
+* Regulations for forms, opt-in, GDPR, etc when conducting surveys and sending emails are in place. Currently, all students at SEBTS have given clearance to receive emails from SEBTS. This allows us to send them emails and use their information.
 
 ## Maps and Locations
 * The main location for this role is the CGCS. You may need to know more of campus, but this role is most likely being filled by a student and there are plenty of people to help you out.
@@ -144,7 +146,18 @@ Fall Semester:
 * HubSpot Renewal
    * HubSpot renews on the 9th of November for 2023 to 2024. This is subject to change if we decide to renew early. You need to be aware of this date because you will be in charge of aiding the renewal process and communicating with HubSpot.
 
+Summer Semester:
+* No major events. The goal is to get caught up and prepared for the fall semester.
+* Mission Trips go out during the whole year, and this is one of the times that a lot of trips happen. Be available for any need that may occur.
+
 ## Lessons Learned
+1. Do not be afraid to ask questions, of Keelan, IT, or others at SEBTS.
+2. If you are having an issue with HubSpot, people have probably experienced this before. Utilize HubSpot's customer support calling and documentation. This is a huge resource for you.
+3. Do not be afraid to fail when it comes to GitHub. Sometimes an action does not deploy and it can be fixed. Failing is a way forward in this regard.
+4. Take advantage of conversations you can have in the office. Keelan, Kelly, and other staff members are there for you. Enjoy your time. Having conversations about missions, church, and other topics are a great way to expand your knowledge while at SEBTS.
+5. Student Data Privacy is a primary concern. Make sure this is at the forefront of what you are doing.
+6. Seek ways to serve other staff members. This role is fluid and enables you to do some tasks intermittently.
+7. Be flexible.
 
 ---
 
