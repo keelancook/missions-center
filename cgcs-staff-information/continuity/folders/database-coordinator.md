@@ -70,7 +70,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
    * You will get this information from David Phillips.
 
 ## Points of Contact
-[Name, Position, Phone #, Email, Notes]: #
+[Name, Position, Phone/Email]:
 
 | Name         | Position       | Email           |
 | ---------    | ---------      | --------        |
@@ -78,7 +78,15 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 | Kelly Garner | CGCS Office Manager | kgarner@sebts.edu |
 | Timothy Waters | Admin Aid to Keelan | twaters@sebts.edu |
 | AD           | CGCS Assoc. Dir. | Email         |
-| David Phillips | Financial Aid Director | dphillips@sebts.edu | 
+| David Phillips | Financial Aid Director | dphillips@sebts.edu |
+| Bryan Underwood | Assoc. Dir. of IT | bunderwood@sebts.edu |
+| Eddy Wu | IT Assistant | ewu@sebts.edu |
+| Will Johnston | Director of Registrar | wjohnston@sebts.edu |
+| Alan Garnett | IMB Candidate Consultant | agarnett@imb.org | 
+| Revitalization | NC Baptist Revitalization Person | tlong@ncbaptist.org |
+| Replanting | NC Baptist Replanting/SEND Network | mpittman@ncbaptist.org |
+| Caleb Iverson | Pastor's Center Aid | civersen@sebts.edu |
+| HubSpot Support Line | 1-888-HUBSPOT x3 | 1-888-482-7768 x3 |
 
 ### In-house
 * Your direct supervisor for HubSpot and the documentation website is the Associate Director.
@@ -87,14 +95,32 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 
 ### Outside the Office
 * This role has some contact with outside offices at SEBTS. IT, Financial Aid, Registrar, and HR are offices that you may need to contact for information on HubSpot.
+   * For connecting your email inbox in HubSpot, you will need to first contact IT. The person to contact is Eddy Wu. They need to add the email to the HubSpot Sales group on their end before you can connect the inbox.
+   * For updates on student information, the first place to contact is IT. Bryan Underwood has pulled these reports lately. However, Will Johnston at Registrar also was very helpful in populating student information and can be contacted as a last resort.
 * With the development of pathways/pipelines, this role also has contact with members of IMB, NAMB, and NC Baptists. These are our denominational partners and we are seeking to build sending pathways in tandem with these organizations.
+   * Since these contacts may be changing, you will need to do some research on who to contact at the IMB, NAMB, and NC Baptists. Keelan helped me find these contacts and can help you whenever these are needed.
 * This role also has contact with HubSpot, from contract teams, to success and aid teams, to troubleshooting teams. All of these offices at HubSpot are here to help you in this role, pointing you in the right direction and to articles that may help with your issues and needs.
 
 ## References
 List any frequently used documents, books, websites, or regulations that are essential to your job. Include links or a printout. Highlight important sections.
-[Publication/Website, Link, Notes]: #
+[Publication/Website, Link, Notes]:
+* HubSpot: See HubSpot page on missions.center for common links.
+   * You can also search HubSpot Knowledgebase in Google and find most of your answers there.
+* GitHub: See GitHub page on missions.center for common links.
+   * You can also search GitHub's knowledgebase.
 
 ## Maps and Locations
+* The main location for this role is the CGCS. You may need to know more of campus, but this role is most likely being filled by a student and there are plenty of people to help you out.
+* GTI: Carson Hall
+* Pastor's Center: Carson Hall
+* Center for Faith and Culture: Carson Hall
+* Distance Learning - Appleby Hall
+* Registrar - Stealey Hall
+* Admissions - Stealey Hall
+* Financial Aid - Ledford
+* HR - Stealey Hall
+
+[Campus Map](/files/continuity-files/CampusMap.jpeg){: .btn }
 
 ## Calendar of Events/Tasks
 This can include subscription renewals, important dates/events in the office.  
