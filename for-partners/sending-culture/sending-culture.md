@@ -12,6 +12,20 @@ permalink: sendingculture
 ---
 
 # Sending Culture
+{: .no_toc }
+
+---
+
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 Do you want your church to send to the nations? Does this goal feel unattainable at times? How do we help develop and equip our congregations to live sent lives in our towns and across the world? If you are asking these questions, then this resource is for you! In this resource, we will present material, additional resources, and case studies of current churches that are developing sending cultures and have a pathway for sending to the nations. This resource will walk through steps to take as you seek to send people to the nations. You can utilize this page as a hub for the rest of the resource!
 
