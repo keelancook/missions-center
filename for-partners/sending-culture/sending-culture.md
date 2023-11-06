@@ -31,7 +31,7 @@ Do you want your church to send to the nations? Does this goal feel unattainable
 
 ---
 
-## Initial Stage - Direction
+## Initial Stage - Discovery
 
 ---
 
