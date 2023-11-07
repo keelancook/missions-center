@@ -66,7 +66,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 ### Semester Tasks
 * Update HubSpot with new student information.
 * Update HubSpot with graduated student information.
-* Update HubSpot with new information surrounding students connected to the IMB.
+* Update HubSpot with new information surrounding students connected to the Company.
    * You will get this information from David Phillips.
 
 ## Points of Contact
@@ -82,7 +82,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 | Bryan Underwood | Assoc. Dir. of IT | bunderwood@sebts.edu |
 | Eddy Wu | IT Assistant | ewu@sebts.edu |
 | Will Johnston | Director of Registrar | wjohnston@sebts.edu |
-| Alan Garnett | IMB Candidate Consultant | agarnett@imb.org | 
+| Alan Garnett | Company Candidate Consultant | agarnett@imb.org | 
 | Revitalization | NC Baptist Revitalization Person | tlong@ncbaptist.org |
 | Replanting | NC Baptist Replanting/SEND Network | mpittman@ncbaptist.org |
 | Caleb Iverson | Pastor's Center Aid | civersen@sebts.edu |
@@ -97,8 +97,8 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 * This role has some contact with outside offices at SEBTS. IT, Financial Aid, Registrar, and HR are offices that you may need to contact for information on HubSpot.
    * For connecting your email inbox in HubSpot, you will need to first contact IT. The person to contact is Eddy Wu. They need to add the email to the HubSpot Sales group on their end before you can connect the inbox.
    * For updates on student information, the first place to contact is IT. Bryan Underwood has pulled these reports lately. However, Will Johnston at Registrar also was very helpful in populating student information and can be contacted as a last resort.
-* With the development of pathways/pipelines, this role also has contact with members of IMB, NAMB, and NC Baptists. These are our denominational partners and we are seeking to build sending pathways in tandem with these organizations.
-   * Since these contacts may be changing, you will need to do some research on who to contact at the IMB, NAMB, and NC Baptists. Keelan helped me find these contacts and can help you whenever these are needed.
+* With the development of pathways/pipelines, this role also has contact with members of Company, NAMB, and NC Baptists. These are our denominational partners and we are seeking to build sending pathways in tandem with these organizations.
+   * Since these contacts may be changing, you will need to do some research on who to contact at the Company, NAMB, and NC Baptists. Keelan helped me find these contacts and can help you whenever these are needed.
 * This role also has contact with HubSpot, from contract teams, to success and aid teams, to troubleshooting teams. All of these offices at HubSpot are here to help you in this role, pointing you in the right direction and to articles that may help with your issues and needs.
 
 ## References

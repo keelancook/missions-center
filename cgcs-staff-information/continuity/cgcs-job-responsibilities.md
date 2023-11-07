@@ -37,7 +37,7 @@ To direct the CGCS in becoming the flagship missions center for the SBC. The dir
 #### Responsibilities:
 * Serve as the face of the CGCS.
 * Develop the vision for the CGCS and help staff members implement their part of this vision.
-* Develop and maintain relationships with denominational mission partners (IMB, NAMB, SendNC, NC Baptists, etc.).
+* Develop and maintain relationships with denominational mission partners (Company, NAMB, SendNC, NC Baptists, etc.).
 * Communicate with the cabinet about how SEBTS can utilize the Center to help fulfill the Great Commission.
 * Develop front-facing material and missions resources for students, pastors, leaders, and the pews of SBC churches.
     * Delegating this to staff members to help develop these is possible.
@@ -153,8 +153,8 @@ To oversee the formation of our database (HubSpot) and to help weave HubSpot int
     * To do so, I communicate with other offices, such as Registrar, IT, and HR.
 * Build reports on HubSpot to accurately display student data.
     * These include reports on mission trips, student pathways, and other student breakdowns.
-    * This also helps us to see our intersection with the IMB.
-* Ensure that HubSpot holds accurate data about our current students serving with the IMB.
+    * This also helps us to see our intersection with the Company.
+* Ensure that HubSpot holds accurate data about our current students serving with the Company.
     * This also means that I try to make as accurate as possible the numbers we have sent historically. These are harder to maintain than current students.
 * Onboard new employees in the CGCS to HubSpot and other various tools. I do this in tandem with Admin Assistant and Director.
 * Work with Digital Media Specialist and Admin Assistant to create forms for our website through Gravity Forms on WordPress.
@@ -188,33 +188,33 @@ To tell the history of the CGCS, Southeastern missionary sending, and other miss
 * Produce academic research.
 * Produce academic resources for the SBC at large.
 * Research mission trips sent out from Southeastern.
-* Digitize IMB strategy materials.
+* Digitize Company strategy materials.
 * Digitize Sunday School Board training materials.
 * Work with the CGCS staff members to figure out how to tell the story of Southeastern well.
 
-### IMB MAG Role - Rick and Nancy Fraley
+### Company MAG Role - Rick and Nancy Fraley
 
 #### Role:
-To mobilize college and seminary students to take the next step in going with SEBTS and the IMB. This role serves as a liaison between the IMB, SEBTS, and the CGCS.
+To mobilize college and seminary students to take the next step in going with SEBTS and the Company. This role serves as a liaison between the Company, SEBTS, and the CGCS.
 
 #### Responsibilities:
 * Meet with students to hear their stories.
-* Promote going with SEBTS and the IMB.
+* Promote going with SEBTS and the Company.
 * Work with the director to advance engagement and student involvement on mission trips.
 * Encourage students to use their summer/lives to serve the Lord and help fulfill the Great Commission.
-    * Actively recruit missionaries to all Affinities and Field Support offices of the IMB.
+    * Actively recruit missionaries to all Affinities and Field Support offices of the Company.
 * Record meetings in HubSpot and log student interactions.
 * Collaborate with the Church/Student Mobilization teams who are engaging with pastors, ministry leaders and students near the seminary.
     * Work with local churches and mission pastors to formulate pipelines to the nations.
-    * Work with the IMB to discover how best to serve students in their desire to go with the IMB.
+    * Work with the Company to discover how best to serve students in their desire to go with the Company.
 * Help the seminary build a missionary pipeline that overlays with our A/D process.
     * Actively run this pipeline by working with those in the pipeline learn and participate in the Core Missionary Task locally.
     * Mentor those in the pipeline to becoming healthy sustainable missionaries.
     * Regularly meet with candidates in the missionary pipeline both as a group and individually with same gender candidates for encouragement and mentoring.
     * Create cohorts to facilitate missions opportunities and interest.
 * Supplement the work of the Candidate Consultant in a limited capacity.
-* Participate in all campus activities by being available to speak in classes as invited, attending chapel, representing the IMB in all mission activities, and attending mission fellowship gatherings.
-    * Help IMB offices coordinate on-site visits interdepartmentally.
+* Participate in all campus activities by being available to speak in classes as invited, attending chapel, representing the Company in all mission activities, and attending mission fellowship gatherings.
+    * Help Company offices coordinate on-site visits interdepartmentally.
 
 
 ---

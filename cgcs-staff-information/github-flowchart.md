@@ -37,14 +37,14 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
       2. Mission Trips >> Professor FAQ
       3. Example Syllabus
 3. For Partners: This page introduces the idea of denominational partnerships in documentation and enables them to navigate between the subpages.
-   1. IMB
+   1. Company
    2. NAMB
    3. NC Baptists
    4. Church Resources: This page introduces churches to the idea of resources in documentation and enables them to navigate between the subpages.
       1. Becoming a Pathways Church
       2. Advocacy Team Overview
       3. Church Partnership
-         1. How can a church become partners with the IMB?
+         1. How can a church become partners with the Company?
          2. How can a church become partners with NAMB?
          3. How can a church become partners with NC Baptist?
       4. Does my church need to be revitalized?
@@ -70,7 +70,7 @@ CGCS Staff: This page is the navigation page for CGCS Staff to find documentatio
       6. Digital Communications Specialist
       7. Student Mobilizer
       8. Research Fellow
-      9. IMB MAG Role
+      9. Company MAG Role
    4. GitHub Home
       1. Introduction
       2. What is a repository?

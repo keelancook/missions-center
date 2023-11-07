@@ -1,5 +1,5 @@
 ---
-title: IMB MAG Role
+title: Company MAG Role
 author: Lane Willis
 type: page
 nav_order: 9
@@ -10,7 +10,7 @@ search_exclude: true
 
 ---
 
-# IMB MAG Role
+# Company MAG Role
 {: .no_toc }
 
 ---
@@ -33,7 +33,7 @@ search_exclude: true
 
 ## Duties and Responsibilities
 Job Descriptions:  
-[Word File](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.docx){: .btn .mr-2 }
+[Word File](/files/job-descriptions/Company-mag-role/Company%20MAG%20Role%20Job%20Description.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.pdf){: .btn }
 
 Job Responsibilities:  
