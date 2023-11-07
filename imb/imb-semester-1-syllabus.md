@@ -14,7 +14,7 @@ This cohort is designed to provide the competencies and spiritual formation nece
 
 ## Student Learning Objectives
 After completing this course, students should be able to:
-* Explain the IMB and its sending process for Southern Baptist churches.
+* Explain the Company and its sending process for Southern Baptist churches.
 * Examine and integrate the core missionary task into a philosophy of mission and disciple-making.
 * Develop a plan to cultivate a vibrant spiritual life through disciplines of spiritual formation.
 * Comprehend and evaluate means of entry for cross-cultural evangelism and missions.
@@ -34,14 +34,14 @@ Cohort participants are expected to come to all meetings having completed assign
 Everyone must participate in some form of practical cross-cultural disciple-making experience that will inform and enhance our group discussion. The purpose of this cohort is more than transmitting information about missions, and it is expected that all cohort participants will engage in real cross-cultural disciple-making practices during the cohort. Cohort time will be dedicated to discussing these experiences, and coming able to share will be expected.
 
 ## Personal Growth Plan
-Each participant will be given a personal growth plan based on the results of pre-assessment and individual consultation before the beginning of the cohort. These personal growth plans will include materials required by the IMB for missionary preparedness, such as *Deepen Discipleship*. In addition, students may also have additional modules in their personal growth plan. These modules will be completed concurrently with the cohort meetings but will be done outside of them. Participants will work directly with cohort facilitators concerning the personal growth plan.
+Each participant will be given a personal growth plan based on the results of pre-assessment and individual consultation before the beginning of the cohort. These personal growth plans will include materials required by the Company for missionary preparedness, such as *Deepen Discipleship*. In addition, students may also have additional modules in their personal growth plan. These modules will be completed concurrently with the cohort meetings but will be done outside of them. Participants will work directly with cohort facilitators concerning the personal growth plan.
 
 ## Advocacy Teams
 For cohort participants who desire to be sent as a missionary, developing an advocacy team is an additional requirement. One of the most important safeguards for long-term missionary care is the ongoing support of those who sent the missionary. Advocacy teams are an important part of providing this care. Too often, sent ones delay the development of a support team until it is too late to create the kind of close connection necessary for superior care, or worse, they do not develop a support team at all. This cohort makes the development of such a team a requirement for the good of those being sent. To find out more about building an advocacy team and the expectations for team members, visit this page: [Advocacy Team Overview](https://pathways.ml/docs/advocacy-team-overview/).
 
-## IMB Application Paperwork
-For those participants who are actively applying for the IMB, all application paperwork will also be required. For semester one, IMB application paperwork includes the following:
-* Both IMB questionnaires
+## Company Application Paperwork
+For those participants who are actively applying for the Company, all application paperwork will also be required. For semester one, Company application paperwork includes the following:
+* Both Company questionnaires
 * Financial statement
 * Autobiography
 * Background Check

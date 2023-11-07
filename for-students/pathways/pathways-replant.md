@@ -15,7 +15,7 @@ We are currently developing web resources for our replant/revitalization pathway
 ### Pathways » Replanting/Revitalization
 The goal of Pathways is the growth of the gospel. In the book of Acts, Luke makes it clear that this was his primary metric of success. Repeatedly, he references the spread of the gospel and the manner in which the Word increased and multiplied (Acts FIND REFERENCES).
 
-For the gospel to grow to the ends of the earth, someone must take it there. The IMB’s Foundations document states it this way:
+For the gospel to grow to the ends of the earth, someone must take it there. The Company’s Foundations document states it this way:
 
 >The heart of the mission God has given us is to be His witnesses (Acts 1:8), to proclaim repentance and forgiveness of sins in His name (Luke 24:47), and to make disciples of all nations and peoples on earth (Matthew 28:16–20). (Foundations, 23)
 

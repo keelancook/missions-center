@@ -101,7 +101,7 @@ To be the manager of office personnel, finances, budgets, and travel logistics f
 ### Administrative Assistant - Timothy Waters
 
 #### Role:
-To be the administrative aid to Keelan as the director of the CGCS and as a professor. This role also is a front-facing role that does event planning, inter-office facilitation, and student interaction.
+To be the administrative aid to Keelan as the director of the CGCS and as a professor. This role also is a front-facing role that does project management, inter-office facilitation, and student interaction.
 
 #### Responsibilities:
 * Handle Keelan's calendar and meeting planning.

@@ -39,7 +39,7 @@ Sure! Here are a couple examples:
 [Digital Communications Specialist](/cgcs-staff-information/continuity/folders/digital-communications-specialist.html)  
 [Student Mobilizer](/cgcs-staff-information/continuity/folders/student-mobilizer.html)  
 [Research Fellow](/cgcs-staff-information/continuity/folders/research-fellow.html)  
-[Company MAG Role](/cgcs-staff-information/continuity/folders/imb-mag-role.html)  
+[Company MAG Role](/cgcs-staff-information/continuity/folders/Company-mag-role.html)  
 
 ---
 

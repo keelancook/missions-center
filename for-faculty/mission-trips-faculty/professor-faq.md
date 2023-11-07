@@ -30,7 +30,7 @@ nav_order: 2
  ---
 
 ### Where can I go on a mission trip? Is there anywhere out of bounds?
-   * You are allowed to go anywhere in the world. Safety of our students is of utmost importance, so consider this as you are choosing where to go. You should also look to partner with workers on the ground where you are going. First choice would be to partner with IMB personnel. Places that are out of bounds might include war zones, places deemed unsafe by the IMB or other agencies, or secure locations that would put teams you visit at risk.
+   * You are allowed to go anywhere in the world. Safety of our students is of utmost importance, so consider this as you are choosing where to go. You should also look to partner with workers on the ground where you are going. First choice would be to partner with Company personnel. Places that are out of bounds might include war zones, places deemed unsafe by the Company or other agencies, or secure locations that would put teams you visit at risk.
 
 ### Where have we gone on mission trips before?
    * We have gone to many countries in Africa, Europe, the Middle East, South Asia, Southeast Asia, and South America. We have also gone on trips to many locations in the North America such as Utah, Alaska, Florida, Houston, NYC, Toronto, Mexico, and Clarkston.
@@ -39,10 +39,10 @@ nav_order: 2
    * The primary goal of a mission trip is to partner with workers on the field to do evangelism and outreach to a certain area. We want to expose our students to cross-cultural communication and evangelism while on these trips. We want to see the Gospel spread to the ends of the earth! This is our primary call and goal when going on a mission trip. This can be done through a myriad of ways: door-knocking, VBS, sports camps, open-air preaching, etc.
 
 ### Who should we be working with when going on a mission trip?
-   * We highly advise you to work with IMB or NAMB workers who reside in your destination. These two organizations are our partners on the field who know the context and can best guide you to applicable ministry strategies. In doing so, you will also be aiding those workers who are on the field, potentially giving them needed aid and uplifting encouragement.
+   * We highly advise you to work with denominational partners who reside in your destination. These two organizations are our partners on the field who know the context and can best guide you to applicable ministry strategies. In doing so, you will also be aiding those workers who are on the field, potentially giving them needed aid and uplifting encouragement.
 
-### Do we have to work with IMB or NAMB?
-   * You do not have to work with IMB or NAMB contacts. If you are not going to be doing so, you must give a defense for why you are not working with these organizations. The defense must be given to the associate director or director of the CGCS and cleared with them.
+### Do we have to work with SBC Organizations?
+   * You do not have to work with SBC contacts. If you are not going to be doing so, you must give a defense for why you are not working with these organizations. The defense must be given to the associate director or director of the CGCS and cleared with them.
 
 ### What is an appropriate length for a mission trip?
    * This depends on whether your mission trip is going to be over Spring Break, Fall Break, or Summer Break. Spring and Fall Break will limit you to a maximum amount of days before students have to return. Ideally, a trip will have at least 5 full days of in country "work." You are allowed to have a trip be longer if you so desire. The minimum expectation though is 5 days in country.
@@ -60,7 +60,7 @@ nav_order: 2
    * The short answer is yes. Contact the director of the CGCS to discuss this.
 
 ### What strategies can we implement when going on a mission trip?
-   * Our core strategy when going on a mission trip is to partner with local believers or local missionaries who work in the target area. We will partner with them, coming alongside their strategies and rhythms to get the Gospel to the nations. The IMB utilizes a strategic method called the Core Missionary Task (Entry, evangelism, discipleship, healthy church formation, leadership training, and partnership and exit). Partnering with IMB teams in one of these categories is a great way to implement strategy. Other strategies include aiding in-country churches with VBS, caring for in-country missionaries, diaspora work, replanting/revitalization work, and being involved in open-air preaching. The goal of our strategy should always be the fulfillment of the Great Commission. So, whatever strategy you choose to implement, it should have as its thrust, the Great Commission.
+   * Our core strategy when going on a mission trip is to partner with local believers or local missionaries who work in the target area. We will partner with them, coming alongside their strategies and rhythms to get the Gospel to the nations. The Company utilizes a strategic method called the Core Missionary Task (Entry, evangelism, discipleship, healthy church formation, leadership training, and partnership and exit). Partnering with Company teams in one of these categories is a great way to implement strategy. Other strategies include aiding in-country churches with VBS, caring for in-country missionaries, diaspora work, replanting/revitalization work, and being involved in open-air preaching. The goal of our strategy should always be the fulfillment of the Great Commission. So, whatever strategy you choose to implement, it should have as its thrust, the Great Commission.
 
 ### What expectations does the CGCS have of faculty members?
    * See professor expectation list **[by clicking here](/for-faculty/mission-trips-faculty/professor-expectations.html)**. There are expectations before the trip, during the trip, and after the trip. Please read these carefully.
