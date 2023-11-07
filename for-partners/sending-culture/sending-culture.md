@@ -47,9 +47,16 @@ Rome was not built in a day, and you cannot change the culture of your church ov
 #### What are some practical changes we can make to drip missions and sending into our atmosphere?
 What do we mean by drip? A drip is something small, that if captured, swells over time. Think about a leaky faucet. Even if it is a small drip, over the course of a month, this small drip can cost you major dollars if it is consistent. This is what we want to do with our congregations. Consistently drip missions and sending. This will help it to become a part of the culture. This needs to be both top down and bottom up. Do this from the pulpit and in your discipleship/evangelism.
 1. Begin praying for missionaries and unreached peoples. This can be during your service, during prayer meetings, in discipleship, and in other people's homes.
-   * Insert resource for unreached prayer.
-   * Insert resource to pray for missionaries.
+   * Unreached
+      * [Unreached of the Day](https://joshuaproject.net/pray/unreachedoftheday/today)
+      * [Monthly Prayer Guide](https://www.imb.org/prayerpoints/)
+   * Missionaries
+      * [16 Ways to Pray for Missionaries](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/)
+      * [Ways to Pray for Missionaries](https://www.wycliffe.org/prayer/how-to-pray-for-missionaries)
+      * [How Can I serve with Missionaries Through Prayer? Pt 1](https://open.spotify.com/episode/1xxDbpM1MgiwUl9OL299p1)
+      * [How Can I serve with Missionaries Through Prayer? Pt 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd)
 2. Read missionary biographies.
+   * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/).
 3. Tell missionary stories as illustrations in your sermons.
 4. Allow missionaries that you have sent or that your congregation knows of to send in videos and testimonies about how God is working around the world.
 5. Use statistics about the lost as examples to grip the hearts of your congregation.
@@ -85,6 +92,7 @@ At some point, the issue of size and money may come up, especially when thinking
 ---
 
 ## Second Stage - Development
+Goal: For you to **identify** members of your congregation to then **equip** them to go to the nations.
 
 ---
 
@@ -94,11 +102,12 @@ At some point, the issue of size and money may come up, especially when thinking
 
 ### Equipping
 
-#### How do we equip our members who have been called or who we have identified?\
+#### How do we equip our members who have been called or who we have identified?
 
 ---
 
 ## Third Stage - Deployment
+Goal: For you to **send** the members of your congregation to unreached places and then to **support** them while they are actively serving in this capacity.
 
 ---
 
@@ -137,12 +146,17 @@ At some point, the issue of size and money may come up, especially when thinking
 ---
 
 ### Books
+
+#### Sending Culture-Related Books
 *Replicate* by Robby Gallaty
 *When Missions Shapes the Mission: You and Your Church Can Reach the World* by David Horner
 *The Sending Church Defined* by Bradley Bell????
 *Missional Church: A Vision for the Sending of the Church in North America* by Darrell L. Guder?????
 *Sending Well: A Field Guide to Great Church Planter Coaching* by Dino Senesi????
 
+#### Missionary Biographies
+* [Article about Missionary Biographies](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
+* [Missionary Sermons by Danny Akin](https://www.danielakin.com/all-of-my-missionary-sermons/)
 
 ### Articles
 * [Less Talk, More Action: Moving Past the Rhetoric of Multiplication](https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication) by Keelan Cook
