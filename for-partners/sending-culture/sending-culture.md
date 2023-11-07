@@ -59,6 +59,9 @@ What do we mean by drip? A drip is something small, that if captured, swells ove
 9. If you send out a monthly/quarterly update, highlight a testimony or unreached people group.
 10. Some churches have adopted the mantra "you are sent" at the end of service to indicate to people that their commitment as an ambassador and witness does not stop within the walls of the church.
 11. Start going yourself. Do evangelism in your local area and seek to display a heart for the nations by going to do ministry around the globe.
+12. Create a discipleship plan that focuses on raising up laborers that see the heart of God for the lost.
+13. Hold a local outreach day where members of the congregation can get involved in local ministry/missions.
+14. Create cohorts where like-minded individuals can grow and be equipped.
 
 ### Goal 
 
@@ -75,7 +78,9 @@ Whatever your objection, we need to stop saying no, and think deeply about how t
 ### Size
 
 #### How big does my church have to be to pull this off?
+To start dripping missions, your church does not have to be a specific size. You can do many of these tasks with any size congregation and in any service. I recognize that changing the order of service or the amount of time you spend in service may be taboo to some. Thus, you can start small. Add an unreached people group to the prayer list. Add a missionary you know to the prayer list. Ask your congregation to pray for these requests.
 
+At some point, the issue of size and money may come up, especially when thinking about taking short-term trips, supporting missionaries, or equipping missionaries. Do not worry. You are not alone. One idea is to link arms with other churches that are in similar stations and send a missionary together. Cooperate and jointly do the work! In this way, churches of all sizes and ages can participate in the sending process!
 
 ---
 
