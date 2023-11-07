@@ -31,7 +31,7 @@ This is the parent page for documentation within the CGCS. It includes navigatio
   6. [Digital Communications Specialist](/cgcs-staff-information/continuity/folders/digital-communications-specialist.html)
   7. [Student Mobilizer](/cgcs-staff-information/continuity/folders/student-mobilizer.html)
   8. [Research Fellow](/cgcs-staff-information/continuity/folders/research-fellow.html)
-  9. [Company MAG Role](/cgcs-staff-information/continuity/folders/imb-mag-role.html)
+  9. [Company MAG Role](/cgcs-staff-information/continuity/folders/Company-mag-role.html)
 * [GitHub Home](/cgcs-staff-information/github/github.html)
   1. [Introduction](/cgcs-staff-information/github/github-introduction.html)
   2. [What is a repository?](/cgcs-staff-information/github/github-repository.html)

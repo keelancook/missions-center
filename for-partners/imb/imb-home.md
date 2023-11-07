@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IMB
+title: Company
 author: Keelan Cook
 parent: For Partners
 has_children: true
@@ -12,11 +12,11 @@ created: 2020-12-01
 
 ![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
 
-This page will be a resource for our partners serving with the IMB. We desire for you to be able to utilize this page as an aid in your work fulfilling the Great Commission. As this site is under development, please be patient with us as we accumulate and post resources!
+This page will be a resource for our partners serving with the Company. We desire for you to be able to utilize this page as an aid in your work fulfilling the Great Commission. As this site is under development, please be patient with us as we accumulate and post resources!
 
 ---
 
-## IMB Resources
+## Company Resources
 
 ---
 

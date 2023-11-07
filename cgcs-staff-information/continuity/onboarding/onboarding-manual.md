@@ -33,7 +33,7 @@ has_toc: false
 At its core, the Center for Great Commission Studies is the missions hub of Southeastern. For more information about the CGCS, [click here.](https://www.thecgcs.org/about/)
 
 ## What is the mission of the CGCS?
-The mission of the CGCS exists to mobilize and equip students, faculty, and staff in the fulfillment of the Great Commission. We accomplish this in the classroom, in our community, and among the nations in partnership with local churches, state conventions, NAMB, and the IMB.
+The mission of the CGCS exists to mobilize and equip students, faculty, and staff in the fulfillment of the Great Commission. We accomplish this in the classroom, in our community, and among the nations in partnership with local churches, state conventions, NAMB, and the Company.
 
 ## What does the 5-year plan of the CGCS look like?
 The 5-Year plan of the CGCS can be found [here.](/files/5-Year%20Plan.pdf)

@@ -57,8 +57,8 @@ Below are the current job descriptions for employees within the CGCS. This page 
 
 ### Company MAG Role
 
-[Word File](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.docx){: .btn .mr-2 }
-[PDF Version](/files/job-descriptions/imb-mag-role/IMB%20MAG%20Role%20Job%20Description.pdf){: .btn }
+[Word File](/files/job-descriptions/Company-mag-role/Company%20MAG%20Role%20Job%20Description.docx){: .btn .mr-2 }
+[PDF Version](/files/job-descriptions/Company-mag-role/Company%20MAG%20Role%20Job%20Description.pdf){: .btn }
 
 ---
 
