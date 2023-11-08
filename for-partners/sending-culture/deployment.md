@@ -46,4 +46,4 @@ For you to **send** the members of your congregation to unreached places and the
 
 ---
 
-[Return to Sending Culture Home](/for-partners/sending-culture/sending-culture.html)
+[Return to Sending Culture Home](/sendingculture)

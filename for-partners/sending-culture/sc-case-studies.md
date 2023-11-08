@@ -43,4 +43,4 @@ search_exclude: true
 
 ---
 
-[Return to Sending Culture Home](/for-partners/sending-culture/sending-culture.html)
+[Return to Sending Culture Home](/sendingculture)

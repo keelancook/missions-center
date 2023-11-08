@@ -42,4 +42,4 @@ For you to **identify** members of your congregation to then **equip** them to g
 
 ---
 
-[Return to Sending Culture Home](/for-partners/sending-culture/sending-culture.html)
+[Return to Sending Culture Home](/sendingculture)
