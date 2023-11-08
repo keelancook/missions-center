@@ -5,6 +5,7 @@ layout: page
 created: 2023-11-01
 parent: Church Resources
 grand_parent: For Partners
+has_children: true
 nav_order: 1
 permalink: sendingculture
 
