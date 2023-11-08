@@ -26,3 +26,20 @@ search_exclude: true
 </details>
 
 ---
+
+## Goal
+For you to **identify** members of your congregation to then **equip** them to go to the nations.
+
+---
+
+## Identification
+
+### How do we identify members of our congregation who could be fit for sending?
+
+## Equipping
+
+### How do we equip our members who have been called or who we have identified?
+
+---
+
+[Return to Sending Culture Home](/for-partners/sending-culture/sending-culture.html)

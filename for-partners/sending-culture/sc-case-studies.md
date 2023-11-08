@@ -26,3 +26,21 @@ search_exclude: true
 </details>
 
 ---
+
+## Summit
+* Image Link
+* Sending Culture?
+* Development?
+* Deployment?
+
+## Imago Dei
+
+## North Wake
+
+## Church in Tampa?
+
+## Houston Area?
+
+---
+
+[Return to Sending Culture Home](/for-partners/sending-culture/sending-culture.html)
