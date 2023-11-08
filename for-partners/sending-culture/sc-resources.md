@@ -45,6 +45,7 @@ search_exclude: true
 * [Developing a Standard for Missionary Sending: What does a Cross-cultural Missionary Look Like?](https://www.theupstreamcollective.org/blog/what-does-a-cross-cultural-missionary-look-like) by Nathan Sloan
 * [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/) by William Whaley
 * [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church) by Tim Keller
+* [How a Small Church Can be a Sending Church](https://www.thegospelcoalition.org/article/small-church-sending/)
 
 ## Podcasts
 * [How the Church Can Engage Their Communities](https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl)
