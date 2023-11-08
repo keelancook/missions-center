@@ -20,4 +20,4 @@ Pathways » International Missions is a cooperative equipping cohort facilitated
 
 ---
 
-[Return to Student Home Page](/for-students/for-students.html)
+[Return to Student Home Page](/students)

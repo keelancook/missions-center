@@ -38,4 +38,4 @@ Listed below is a checklist of information that you will need before you submit 
 
 ---
 
-[Return to Student Home Page](/for-students/for-students.html)
+[Return to Student Home Page](/students)

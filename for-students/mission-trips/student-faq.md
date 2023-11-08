@@ -144,4 +144,4 @@ nav_order: 2
 
 ---
 
-[Return to Student Home Page](/for-students/for-students.html)
+[Return to Student Home Page](/students)
