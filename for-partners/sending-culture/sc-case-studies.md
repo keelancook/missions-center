@@ -4,7 +4,10 @@ author: Lane Willis
 layout: page
 created: 2023-11-08
 parent: Developing a Sending Culture
+grand_parent: For Partners
 nav_order: 4
+nav_exclude: true
+search_exclude: true
 
 ---
 

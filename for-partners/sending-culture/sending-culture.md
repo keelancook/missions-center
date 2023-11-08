@@ -3,11 +3,12 @@ title: Developing a Sending Culture
 author: Lane Willis
 layout: page
 created: 2023-11-01
-parent: Church Resources
-grand_parent: For Partners
+parent: For Partners
 has_children: true
 nav_order: 1
 permalink: sendingculture
+nav_exclude: true
+search_exclude: true
 
 ---
 
