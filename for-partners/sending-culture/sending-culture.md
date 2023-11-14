@@ -57,7 +57,7 @@ What do we mean by drip? A drip is something small, that if captured, swells ove
       * [How Can I serve with Missionaries Through Prayer? Pt 1](https://open.spotify.com/episode/1xxDbpM1MgiwUl9OL299p1)
       * [How Can I serve with Missionaries Through Prayer? Pt 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd)
 2. Read missionary biographies.
-   * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/).
+   * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
 3. Tell missionary stories as illustrations in your sermons.
 4. Allow missionaries that you have sent or that your congregation knows of to send in videos and testimonies about how God is working around the world.
 5. Use statistics about the lost as examples to grip the hearts of your congregation.
