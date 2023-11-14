@@ -58,15 +58,18 @@ What do we mean by drip? A drip is something small, that if captured, swells ove
       * [How Can I serve with Missionaries Through Prayer? Pt 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd)
 2. Read missionary biographies.
    * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
-3. Tell missionary stories as illustrations in your sermons.
+3. Tell missionary stories as illustrations in your sermons. These can come from biographies or from current missionaries you know.
 4. Allow missionaries that you have sent or that your congregation knows of to send in videos and testimonies about how God is working around the world.
 5. Use statistics about the lost as examples to grip the hearts of your congregation.
+   * [World Missions Clock](https://missionsclock.sebts.edu/)
+   * [Joshua Project](https://joshuaproject.net/people_groups/dashboard)
+   * [IMB Research](https://www.imb.org/research/reports/)
 6. Have commissioning time when sending out short-term teams/trips.
 7. Take short-term trips if this has not begun.
 8. Have a section in your bulletin dedicated to the nations.
 9. If you send out a monthly/quarterly update, highlight a testimony or unreached people group.
 10. Some churches have adopted the mantra "you are sent" at the end of service to indicate to people that their commitment as an ambassador and witness does not stop within the walls of the church.
-11. Start going yourself. Do evangelism in your local area and seek to display a heart for the nations by going to do ministry around the globe.
+11. **Start going yourself.** Do evangelism in your local area and seek to display a heart for the nations by going to do ministry around the globe.
 12. Create a discipleship plan that focuses on raising up laborers that see the heart of God for the lost.
 13. Hold a local outreach day where members of the congregation can get involved in local ministry/missions.
 14. Create cohorts where like-minded individuals can grow and be equipped.
@@ -80,6 +83,8 @@ The desired outcome of creating a sending culture is to see the Lord raise up mo
 
 #### What are common objections?
 "My church cannot send because we are too small. My church cannot send because we do not have enough money. My church cannot send because we do not have enough time. My church cannot send because we are too old. My church cannot send because there are too many young children."
+
+The objections above are quite common today. Many churches feel the need to improve their own lot before going to the nations. If we think about our own conversion and testimony, Jesus does not expect us to be perfect or to fix ourselves before coming to Him. He invites all those who are weary, heavy laden, and sinful to turn to Him in repentance and belief. It is the same thing here. God wants to use all believers as ambassadors and witnesses to the nations. God's heart is for the nations to know the love of Jesus and to worship the one true God. He chooses to use believers to spread the Gospel (2 Corinthians 5:10-21, Romans 10:13-15).
 
 Whatever your objection, we need to stop saying no, and think deeply about how the Bible calls us to go and make disciples. The Bible says that all nations are to be reached with the Gospel. Jesus came to seek and to save the lost. We need to model our lives after Jesus and seek to go to the lost nations of the globe.
 
