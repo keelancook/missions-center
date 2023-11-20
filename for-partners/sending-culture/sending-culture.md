@@ -60,10 +60,12 @@ What do we mean by drip? A drip is something small, that if captured, swells ove
    * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
 3. Tell missionary stories as illustrations in your sermons. These can come from biographies or from current missionaries you know.
 4. Allow missionaries that you have sent or that your congregation knows of to send in videos and testimonies about how God is working around the world.
-5. Use statistics about the lost as examples to grip the hearts of your congregation.
+5. Use statistics about the lost and where they are as examples to grip the hearts of your congregation.
    * [World Missions Clock](https://missionsclock.sebts.edu/)
    * [Joshua Project](https://joshuaproject.net/people_groups/dashboard)
    * [IMB Research](https://www.imb.org/research/reports/)
+   * [Global Research](https://grd.imb.org/)
+   * [Global Gates](https://globalgates.info/)
 6. Have commissioning time when sending out short-term teams/trips.
 7. Take short-term trips if this has not begun.
 8. Have a section in your bulletin dedicated to the nations.
@@ -88,9 +90,9 @@ The objections above are quite common today. Many churches feel the need to impr
 
 Whatever your objection, we need to stop saying no, and think deeply about how the Bible calls us to go and make disciples. The Bible says that all nations are to be reached with the Gospel. Jesus came to seek and to save the lost. We need to model our lives after Jesus and seek to go to the lost nations of the globe.
 
-### Size
+### Church Size
 
-#### How big does my church have to be to pull this off?
+#### How large does my church congregation need to be to pull this off?
 To start dripping missions, your church does not have to be a specific size. You can do many of these tasks with any size congregation and in any service. I recognize that changing the order of service or the amount of time you spend in service may be taboo to some. Thus, you can start small. Add an unreached people group to the prayer list. Add a missionary you know to the prayer list. Ask your congregation to pray for these requests.
 
 At some point, the issue of size and money may come up, especially when thinking about taking short-term trips, supporting missionaries, or equipping missionaries. Do not worry. You are not alone. One idea is to link arms with other churches that are in similar stations and send a missionary together. Cooperate and jointly do the work! In this way, churches of all sizes and ages can participate in the sending process!
