@@ -49,7 +49,7 @@ This is the parent page for documentation within the CGCS. It includes navigatio
   8. [Marketing Emails](/cgcs-staff-information/hubspot/marketing-emails-hubspot.html)
   9. [Automation](/cgcs-staff-information/hubspot/automation.html)
   10. [Why Use HubSpot?](/cgcs-staff-information/hubspot/why-use-hubspot.html)
-  11. [Pathways Present Tense](/cgcs-staff-information/hubspot/pathways-present-tense.html)
+  11. [Pathways Present Tense](/presentpathways/)
 * [WordPress Home](/cgcs-staff-information/wordpress/wordpress.html)
   1. [Introduction](/cgcs-staff-information/wordpress/wordpress-introduction.html)
   2. [Pages](/cgcs-staff-information/wordpress/wordpress-pages.html)
