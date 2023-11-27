@@ -13,7 +13,7 @@ search_exclude: true
 This flowchart is an unlinked table of contents that gives the staff a way to see and understand the setup of the GitHub pages.
 
 ## Home Page
-  * Landing page for the CGCS Knowledge base. Has links to the main website and welcome information.
+* Landing page for the CGCS Knowledge base. Has links to the main website and welcome information.
 
 ## Sidebar Pages:
 1. For Students: This page is the top page for students overall.
@@ -88,6 +88,7 @@ CGCS Staff: This page is the navigation page for CGCS Staff to find documentatio
       8. Marketing Emails
       9. Automation
       10. Why Use HubSpot?
+      11. Pathways Present Tense
    6. WordPress Home
       1. Introduction
       2. Pages
