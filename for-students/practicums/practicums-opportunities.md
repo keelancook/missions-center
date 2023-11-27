@@ -9,12 +9,32 @@ created: 2022-10-13
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
+## Practicum Opportunities
 
+### Global Studies Suggested Opportunities
+For a good visual of these opportunities, [click here.](https://www.thecgcs.org/fulfill-your-practicum/)
+* There is also more information about each of these opportunities at the link above.
 
-Many of the degrees at Southeastern require students to participate in an extended missions practicum. Our desire is to provide infromation for frequently asked questions and a list of available opportunites for students in need of a missions practicum.
+#### 3 Credit Hours/30 Day Opportunities
+* GenSend
+* Southeastern Mission Trip (any of our trips will count as 3 credit hours)
+* IMB Summer Internship
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
+#### 6 Credit Hours/60 Day Opportunities
+* GenSend Summer
+* IMB Summer Internship
+
+#### 9 Credit Hours/90 Day Opportunities
+* Semester Hands On
+* GenSend Semester
+
+### Graduate Level Suggested Opportunities
+1. Southeastern Mission Trip
+* This is the easiest way to fulfill your practicum at SEBTS. Most mission trips count towards this credit.
+2. IMB Summer Internship
+3. Hands On
+4. Journeyman
+5. GenSend Summer
 
 ---
 
