@@ -33,7 +33,8 @@ search_exclude: true
 
 ## Duties and Responsibilities
 Job Descriptions:  
-Insert Files Here. Still waiting on this one.
+[Word File](/files/job-descriptions/student-mobilizer/Student%20Mobilizer.docx){: .btn .mr-2 }
+[PDF Version](/files/job-descriptions/student-mobilizer/Student%20Mobilizer.pdf){: .btn }
 
 Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#student-mobilizer---chloe-rutherford){: .btn }

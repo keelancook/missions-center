@@ -49,6 +49,8 @@ Below are the current job descriptions for employees within the CGCS. This page 
 
 ### Student Mobilizer
 
+[Word File](/files/job-descriptions/student-mobilizer/Student%20Mobilizer.docx){: .btn .mr-2 }
+[PDF Version](/files/job-descriptions/student-mobilizer/Student%20Mobilizer.pdf){: .btn }
 
 ### CGCS Research Fellow
 
