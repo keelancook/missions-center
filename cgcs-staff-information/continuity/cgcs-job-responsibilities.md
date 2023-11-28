@@ -47,7 +47,6 @@ To direct the CGCS in becoming the flagship missions center for the SBC. The dir
 * Approve proposed mission trips.
 * Work with local churches in developing missional culture and missional activity.
 * Serve as a resource for missions knowledge and missions strategy to students, professors, and local churches.
-* 
 
 ### Associate Director - 
 
