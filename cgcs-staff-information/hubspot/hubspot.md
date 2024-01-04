@@ -24,7 +24,7 @@ This is the landing page for everything HubSpot. It holds a table of contents fo
 8. [Marketing Emails](/cgcs-staff-information/hubspot/marketing-emails-hubspot.html)
 9. [Automation](/cgcs-staff-information/hubspot/automation.html)
 10. [Why Use HubSpot?](/cgcs-staff-information/hubspot/why-use-hubspot.html)
-11. [Pathways Present Tense](/presentpathways/)
+11. [Pathways Present Tense](/presentpathways)
 
 ---
 
