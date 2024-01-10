@@ -97,7 +97,7 @@ To start dripping missions, your church does not have to be a specific size. You
 
 At some point, the issue of size and money may come up, especially when thinking about taking short-term trips, supporting missionaries, or equipping missionaries. Do not worry. You are not alone. One idea is to link arms with other churches that are in similar stations and send a missionary together. Cooperate and jointly do the work! In this way, churches of all sizes and ages can participate in the sending process!
 
-Stephen Witmer, in the his article, [How A Small Church Can Be a Sending Church](https://www.thegospelcoalition.org/article/small-church-sending/), puts it this way, "Let’s be honest, small churches. If we’re not as fruitful in global missions as we could be, it’s not because our numbers are too small. It’s because our passion for the global glory of Christ is too small. Our concern for those who die apart from him is too small. Our willingness to be inconvenienced and to give sacrificially is too small." We must be willing to put it all on the line for the sake of King Jesus!
+Stephen Witmer, in the his article, [*How A Small Church Can Be a Sending Church*](https://www.thegospelcoalition.org/article/small-church-sending/), puts it this way, "Let’s be honest, small churches. If we’re not as fruitful in global missions as we could be, it’s not because our numbers are too small. It’s because our passion for the global glory of Christ is too small. Our concern for those who die apart from him is too small. Our willingness to be inconvenienced and to give sacrificially is too small." We must be willing to put it all on the line for the sake of King Jesus!
 
 ---
 
@@ -110,9 +110,21 @@ Goal: For you to **identify** members of your congregation to then **equip** the
 
 #### How do we identify members of our congregation who could be fit for sending?
 
+What does a potential missionary look like? Is there a cookie cutter outline? Are there qualities that every missionary has? Are there qualities that every missionary needs? Are these qualities already present or do we help to cultivate them? How much time and effort will this take? These questions and more arise when we think about identifying members of our congregation that could be fit for sending. These questions may seem insurmountable. Yet, the Bible gives us many examples of local congregations raising up laborers to be sent out. The first example that comes to mind is Acts 13, where the church in Antioch sets aside Paul and Barnabas under the inspiration of the Holy Spirit. Then, in the rest of Acts, we see Paul encouraging local churches to raise up laborers to do this kind of ministry also (Timothy, Apollos, and others in Paul's band). Romans 10 also puts pressure on us as believers. For how can people hear if they are people bringing the Gospel to them? This mandate is for the church. The church is called by God to be a kingdom outpost that raises up laborers to go with the Gospel. Thus, identification is an important role played by the church.
+
+Keelan Cook has written an article about this titled, [*Identifying to Send: Examine These Three Areas in a Person's Life*](https://keelancook.com/2020/03/23/identifying-to-send/). This article lists out the 3 C's for identification: Character, Calling, and Competency. Take a look at this article to see how you can begin identifying members of your congregation today!
+
 ### Equipping
 
 #### How do we equip our members who have been called or who we have identified?
+
+Equipping can seem like a giant task for pastors. Some might think that they have no additional space to equip laborers to be missionaries when they are dealing with weddings, funerals, and the everyday rhythms of ministry. Yet, God has called the church to equip laborers in many ways that the nations might be reached with the Gospel. Today, there are many ways this can be done. Members of our congregations can go to seminaries, Bible colleges, and more. Yet, it is also important that this be a partnership and that local churches get involved in this process.
+
+Again, Keelan Cook has written an article about this very topic titled, [*How One Church Prepares its Missionaries Before they Go*](https://keelancook.com/2016/02/03/how-one-church-prepares-its-missionaries-before-they-go/).
+
+Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academics/the-equip-network/) which discusses how local churches can be more involved in their members theological education. Feel free to reach out to this office to see how your church might be able to participate today!
+
+The Sent Life Podcast recently released a podcast about the crucial role of the church in developing missionaries. You can find that podcast [here.](https://www.thecgcs.org/resources/podcast/the-crucial-role-of-the-church-in-developing-missionaries/)
 
 ---
 
