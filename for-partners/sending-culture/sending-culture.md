@@ -124,7 +124,14 @@ Equipping can seem like a giant task for pastors. Some might think that they hav
 Again, Keelan Cook has written an article about this very topic titled, [*How One Church Prepares its Missionaries Before they Go*](https://keelancook.com/2016/02/03/how-one-church-prepares-its-missionaries-before-they-go/).
    <Do we want to expand/just put this article here Keelan?>
 
-Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academics/the-equip-network/) which discusses how local churches can be more involved in their members theological education. Feel free to reach out to this office to see how your church might be able to participate today!
+Keelan Cook, the Director of the CGCS, has developed some introductory material for equipping your members in groups called cohorts. Below are a few links to that introductory material!
+
+[Cohort Introduction](/imb/pathways-imb-intro.html)
+[Cohort Instructional Guide](/imb/pathways-imb-instructional-guide.html)
+[Cohort Syllabus](/imb/imb-semester-1-syllabus.html)
+[Cohort FAQ](/imb/pathways-imb-faq.html)
+
+Another great resource is hosted at Southeastern in the Distance Learning Office. Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academics/the-equip-network/) which discusses how local churches can be more involved in their members theological education. Feel free to reach out to the Distance Learning office to see how your church might be able to participate today!
 
 The Sent Life Podcast recently released a podcast about the crucial role of the church in developing missionaries. You can find that podcast [here.](https://www.thecgcs.org/resources/podcast/the-crucial-role-of-the-church-in-developing-missionaries/)
 
