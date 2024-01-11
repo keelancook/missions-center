@@ -113,6 +113,7 @@ Goal: For you to **identify** members of your congregation to then **equip** the
 What does a potential missionary look like? Is there a cookie cutter outline? Are there qualities that every missionary has? Are there qualities that every missionary needs? Are these qualities already present or do we help to cultivate them? How much time and effort will this take? These questions and more arise when we think about identifying members of our congregation that could be fit for sending. These questions may seem insurmountable. Yet, the Bible gives us many examples of local congregations raising up laborers to be sent out. The first example that comes to mind is Acts 13, where the church in Antioch sets aside Paul and Barnabas under the inspiration of the Holy Spirit. Then, in the rest of Acts, we see Paul encouraging local churches to raise up laborers to do this kind of ministry also (Timothy, Apollos, and others in Paul's band). Romans 10 also puts pressure on us as believers. For how can people hear if they are people bringing the Gospel to them? This mandate is for the church. The church is called by God to be a kingdom outpost that raises up laborers to go with the Gospel. Thus, identification is an important role played by the church.
 
 Keelan Cook has written an article about this titled, [*Identifying to Send: Examine These Three Areas in a Person's Life*](https://keelancook.com/2020/03/23/identifying-to-send/). This article lists out the 3 C's for identification: Character, Calling, and Competency. Take a look at this article to see how you can begin identifying members of your congregation today!
+   <Do we want to expand/just put this article here Keelan?>
 
 ### Equipping
 
@@ -121,10 +122,13 @@ Keelan Cook has written an article about this titled, [*Identifying to Send: Exa
 Equipping can seem like a giant task for pastors. Some might think that they have no additional space to equip laborers to be missionaries when they are dealing with weddings, funerals, and the everyday rhythms of ministry. Yet, God has called the church to equip laborers in many ways that the nations might be reached with the Gospel. Today, there are many ways this can be done. Members of our congregations can go to seminaries, Bible colleges, and more. Yet, it is also important that this be a partnership and that local churches get involved in this process.
 
 Again, Keelan Cook has written an article about this very topic titled, [*How One Church Prepares its Missionaries Before they Go*](https://keelancook.com/2016/02/03/how-one-church-prepares-its-missionaries-before-they-go/).
+   <Do we want to expand/just put this article here Keelan?>
 
 Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academics/the-equip-network/) which discusses how local churches can be more involved in their members theological education. Feel free to reach out to this office to see how your church might be able to participate today!
 
 The Sent Life Podcast recently released a podcast about the crucial role of the church in developing missionaries. You can find that podcast [here.](https://www.thecgcs.org/resources/podcast/the-crucial-role-of-the-church-in-developing-missionaries/)
+
+Many missions organizations have requirements for a missionary before they are sent. I would advise you to look into some of these requirements and see if you can put some of those into your discipleship process. This would make it easier for your congregation to complete the application process for missions organizations. One church has done this with the IMB, calling it "Creating Your IMB Portfolio." Even if the member of the congregation does not go with the IMB, they have utilized some of the documentation required as a way to help equip the members of their congregation. If you have questions about this, feel free to reach out the the CGCS or the IMB!
 
 ---
 
