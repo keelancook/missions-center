@@ -128,7 +128,7 @@ Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academic
 
 The Sent Life Podcast recently released a podcast about the crucial role of the church in developing missionaries. You can find that podcast [here.](https://www.thecgcs.org/resources/podcast/the-crucial-role-of-the-church-in-developing-missionaries/)
 
-Many missions organizations have requirements for a missionary before they are sent. I would advise you to look into some of these requirements and see if you can put some of those into your discipleship process. This would make it easier for your congregation to complete the application process for missions organizations. One church has done this with the IMB, calling it "Creating Your IMB Portfolio." Even if the member of the congregation does not go with the IMB, they have utilized some of the documentation required as a way to help equip the members of their congregation. If you have questions about this, feel free to reach out the the CGCS or the IMB!
+Many missions organizations have requirements for a missionary before they are sent. I would advise you to look into some of these requirements and see if you can put some of those into your discipleship process. This would make it easier for your congregation to complete the application process for missions organizations. One church has done this with the IMB, calling it "Creating Your IMB Portfolio." Even if the member of the congregation does not go with the IMB, they have utilized some of the documentation required as a way to help equip the members of their congregation. It was once said that what your members are not doing in the US, they will not do overseas. Thus, in your equipping, you want to be targeting training toward what they will be doing on the field, and expect that of your members while they are at home. The IMB requires an applicant to fill out a witnessing journal that displays evangelistic conversations before going to the field. This is one easy way to get equip your members to go! If you have questions about this, feel free to reach out the the CGCS or the IMB!
 
 ---
 
@@ -140,8 +140,17 @@ Goal: For you to **send** the members of your congregation to unreached places a
 ### Sending
 
 #### What does the sending process look like?
+The sending process depends on the organization that the member of your congregation decides to go with to the field. Some missionaries go alone and are sent out by their church. Other missionaries are sent by their church through the IMB. Other missionaries are sent by their church through other organizations such as CRU, Reaching and Teaching, Baptists on Mission, Wycliffe, and more. Each organzation has a different process for approval and sending. You do not have to know all these processees off the top of your head, but if a member of your congregation decides to go with an organization, you should get to know more about what they do and how the local church can partner with them.
 
 #### Who needs to be involved?
+The head pastor, missions pastor (if applicable), the small group/Sunday school class, and the whole congregation should have some level of involvement in the sending process. Involving the church in the process of sending will help you drip missions to the congregation as a whole and show that going is not just for hyper-Christians, but involve everyone. The extent with which people are involved may vary, but you want to ensure some sort of involvement by the whole church.
+
+##### Pastoral Involvement
+The head pastor and missions pastor will most likely take point on sending, and many organizations require references and recommendations by local pastors before sending. If your church is large enough, you may have a missions team that is involved with this part of the process or a missions committee that can take on some of this burden. However, as pastors, the Lord has called you to shepherd the flock He has given to you, and those you are sending are a part of this flock. It is your duty to equip, train, and love them as they embark on this process. I heard it put this way recently, "Those we are sending are the beautiful feet in our congregation. Even when they are sent out, they are still a part of our body and we must care for them in that way." Thus, pastors, those who are sent out by your church are still your sheep and a part of the flock. Caring for them might look different, but you are still to care well for them as they are sent. During the sending process, this may also involve prayer, fundraising support, and presenting members before the congregation to affirm the call that the Lord has placed on their lives.
+
+##### Small Group/Sunday School Involvement
+
+##### Congregational Involvement
 
 ### Supporting
 
@@ -183,6 +192,7 @@ Goal: For you to **send** the members of your congregation to unreached places a
 #### Missionary Biographies
 * [Article about Missionary Biographies](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
 * [Missionary Sermons by Danny Akin](https://www.danielakin.com/all-of-my-missionary-sermons/)
+* [The Impact of Missionary Biographies Podcast](https://open.spotify.com/episode/74l8fKQRj9BHqXuMZiqptw)
 
 ### Articles
 * [Less Talk, More Action: Moving Past the Rhetoric of Multiplication](https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication) by Keelan Cook
@@ -193,7 +203,7 @@ Goal: For you to **send** the members of your congregation to unreached places a
 ### Podcasts
 * [How the Church Can Engage Their Communities](https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl)
 * [Evangelizing our Foreign-Born Neighbors](https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u)
-* [Equipping Leaders for teh Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX)
+* [Equipping Leaders for the Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX)
 * [Calling out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO)
 * [All Churches Can and Should Plant New Churches](https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL)
 * [The Sending Church Defined](https://open.spotify.com/episode/38EqywTpTK1Q3BVlGyGRAn)
