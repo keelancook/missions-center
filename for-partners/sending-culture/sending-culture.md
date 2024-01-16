@@ -156,10 +156,13 @@ The head pastor, missions pastor (if applicable), the small group/Sunday school 
 The head pastor and missions pastor will most likely take point on sending, and many organizations require references and recommendations by local pastors before sending. If your church is large enough, you may have a missions team that is involved with this part of the process or a missions committee that can take on some of this burden. However, as pastors, the Lord has called you to shepherd the flock He has given to you, and those you are sending are a part of this flock. It is your duty to equip, train, and love them as they embark on this process. I heard it put this way recently, "Those we are sending are the beautiful feet in our congregation. Even when they are sent out, they are still a part of our body and we must care for them in that way." Thus, pastors, those who are sent out by your church are still your sheep and a part of the flock. Caring for them might look different, but you are still to care well for them as they are sent. During the sending process, this may also involve prayer, fundraising support, and presenting members before the congregation to affirm the call that the Lord has placed on their lives.
 
 ##### Small Group/Sunday School Involvement
+Sending involves more than just pastors. You can involve small groups and Sunday school classes as well. To do so, invite the small groups and Sunday school classes to pray weekly for the Lord to raise up laborers to go to the Harvest. This also helps create a culture for sending and is a way to drip missions to your congregation. When you know of someone who is thinking about going, or is in the process of applying, encourage that small group or Sunday school class to pray weekly for this family. If they are raising financial support, encourage that group to ask how they can be involved with this process. Encourage the leader of the small group to be involved with the family as they are getting ready to go overseas. They will still need community when they are overseas and when they return.
 
 ##### Congregational Involvement
+- Commissioning participation.
 
 ### Supporting
+Supporting and sending may seem similar. However, by supporting, we mean the time after the family has left to go overseas. How do you care for and support those who have been sent out from your church? What are the best ways to support overseas workers? Do you email them? Visit them? Video chat with them? How often should we do this? Do we support those we have sent financially? How do I as a pastor view those members who have been sent out? This section deals with how we support those who have been sent out of our congregations!
 
 #### How do we support those we have sent?
 
