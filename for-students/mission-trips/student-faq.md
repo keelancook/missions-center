@@ -33,7 +33,7 @@ nav_order: 2
    * When looking at your degree requirements, you may have noticed a section telling you to choose a practicum option. A missions practicum is a class that blends hands-on learning with academic instruction. These come in three forms: North American Practicum, International Practicum, and Missions Practicum. The North American Practicum requirement is fulfilled by going on a mission trip to a location in North America with SEBTS. The International Practicum requirement is fulfilled by going on a mission trip to a location internationally with SEBTS. The missions practicum is an option of going on a trip with denominational organizations or your church. See question 7 for more details about this option.
 
 ### How do I enroll in a missions practicum?
-   * If you go on a mission trip with SEBTS, enrollment is completed for you by the CGCS. This will add you to the CampusNet page and make sure you receive credit for the class with Registrar. If you choose to do the missions practicum with a denominational organization or your church option, you will contact the Field Credit Office at fieldcredit@sebts.edu.
+   * If you go on a mission trip with SEBTS, enrollment is completed for you by the CGCS. This will add you to the CampusNet page and make sure you receive credit for the class with Registrar. If you choose to do the missions practicum with a denominational organization or your church option, you can contact the Field Credit Office at [here](mailto:fieldcredit@sebts.edu).
 
 ### Do I have to go on an international trip to fulfill my missions practicum requirement?
    * If you are in an internationally focused degree, the answer is yes. If you are in a less specific degree like Missiology, then you can go on an international or North American trip to fulfill your requirements. If you are in a North American-focused degree, you are required to go on a North American trip.
@@ -118,7 +118,7 @@ nav_order: 2
    * No! You are required to pay the cost of the trip. Tuition for all mission trips run through the CGCS is waived.
 
 ### Are there scholarships for mission trips?
-   * Yes and no. All mission trips are scholar-shipped in that we subsidize a large chunk of the cost for each student on every trip. There is additional funding available for minority students who apply and are accepted into the Kingdom Diversity Missions Initiative program. For more information, click here.
+   * Yes and no. All mission trips are scholar-shipped in that we subsidize a large chunk of the cost for each student on every trip. There is additional funding available for minority students who apply and are accepted into the Kingdom Diversity Missions Initiative program. For more information, **[click here](https://www.sebts.edu/about/kingdom-diversity/)**.
 
 ### How do I or donors make payments for mission trips?
    * Payments for mission trips can be made in multiple ways. Checks can be written out to SEBTS and brought by the CGCS, or you can go online to pay by **[clicking here](https://www.thecgcs.org/donate-pay/)**.
