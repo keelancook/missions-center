@@ -119,8 +119,7 @@ Goal: For you to **identify** members of your congregation to then **equip** the
 
 What does a potential missionary look like? Is there a cookie cutter outline? Are there qualities that every missionary has? Are there qualities that every missionary needs? Are these qualities already present or do we help to cultivate them? How much time and effort will this take? These questions and more arise when we think about identifying members of our congregation that could be fit for sending. These questions may seem insurmountable. Yet, the Bible gives us many examples of local congregations raising up laborers to be sent out. The first example that comes to mind is Acts 13, where the church in Antioch sets aside Paul and Barnabas under the inspiration of the Holy Spirit. Then, in the rest of Acts, we see Paul encouraging local churches to raise up laborers to do this kind of ministry also (Timothy, Apollos, and others in Paul's band). Romans 10 also puts pressure on us as believers. For how can people hear if they are people bringing the Gospel to them? This mandate is for the church. The church is called by God to be a kingdom outpost that raises up laborers to go with the Gospel. Thus, identification is an important role played by the church.
 
-Keelan Cook has written an article about this titled, [*Identifying to Send: Examine These Three Areas in a Person's Life*](https://keelancook.com/2020/03/23/identifying-to-send/). This article lists out the 3 C's for identification: Character, Calling, and Competency. Take a look at this article to see how you can begin identifying members of your congregation today!
-   <Do we want to expand/just put this article here Keelan?>
+Keelan Cook has written an article about this titled, [*Identifying to Send: Examine These Three Areas in a Person's Life*](https://keelancook.com/2020/03/23/identifying-to-send/). This article lists out the 3 C's for identification: Character, Calling, and Competency. In this article, Keelan delineates how churches can identify potential missionaries and help them begin a journey towards going. Take a look at this article to see how you can begin identifying members of your congregation today!
 
 ### Equipping
 
@@ -128,14 +127,13 @@ Keelan Cook has written an article about this titled, [*Identifying to Send: Exa
 
 Equipping can seem like a giant task for pastors. Some might think that they have no additional space to equip laborers to be missionaries when they are dealing with weddings, funerals, and the everyday rhythms of ministry. Yet, God has called the church to equip laborers in many ways that the nations might be reached with the Gospel. Today, there are many ways this can be done. Members of our congregations can go to seminaries, Bible colleges, and more. Yet, it is also important that this be a partnership and that local churches get involved in this process.
 
-Again, Keelan Cook has written an article about this very topic titled, [*How One Church Prepares its Missionaries Before they Go*](https://keelancook.com/2016/02/03/how-one-church-prepares-its-missionaries-before-they-go/).
-   <Do we want to expand/just put this article here Keelan?>
+As a sequal to his above article, Keelan Cook has written, [*How One Church Prepares its Missionaries Before they Go*](https://keelancook.com/2016/02/03/how-one-church-prepares-its-missionaries-before-they-go/). This article builds on the idea of identification to then help equip those whom you have identified. This is just one example for how a church might do this. Check out the case studies below for how other churches have helped equip their members to be missionaries!
 
-Keelan Cook, the Director of the CGCS, has developed some introductory material for equipping your members in groups called cohorts. Below are a few links to that introductory material!
+We also have some introductory material made available for cohorts. Cohorts are groups formed around a similar calling for the purpose of training and equipping. Check out the links below to see how you might be able to implement a cohort into your equipping process.
 
-[Cohort Introduction](/imb/pathways-imb-intro.html)
-[Cohort Instructional Guide](/imb/pathways-imb-instructional-guide.html)
-[Cohort Syllabus](/imb/imb-semester-1-syllabus.html)
+[Cohort Introduction](/imb/pathways-imb-intro.html)  
+[Cohort Instructional Guide](/imb/pathways-imb-instructional-guide.html)  
+[Cohort Syllabus](/imb/imb-semester-1-syllabus.html)  
 [Cohort FAQ](/imb/pathways-imb-faq.html)
 
 Another great resource is hosted at Southeastern in the Distance Learning Office. Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academics/the-equip-network/) which discusses how local churches can be more involved in their members theological education. Feel free to reach out to the Distance Learning office to see how your church might be able to participate today!
