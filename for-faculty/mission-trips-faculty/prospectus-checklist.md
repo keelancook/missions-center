@@ -54,10 +54,9 @@ Listed below is a checklist of information that you will need before you submit 
 
 ---
 
-**For a downloadable PDF of this checklist, [click here.](/files/Prospectus%20Checklist.pdf)**
+### **For a downloadable PDF of this checklist, [click here.](/files/Prospectus%20Checklist.pdf)**
 
 ---
-
 ### For the **initial mission trip prospectus**, [click here.](https://www.thecgcs.org/prospectus/)
 
 ---
@@ -88,7 +87,7 @@ Listed below is a checklist of information that you will need before you submit 
 
 ---
 
-**For a downloadable PDF of this checklist, [click here.](/files/Prospectus%20Checklist.pdf)**
+### **For a downloadable PDF of this checklist, [click here.](/files/Prospectus%20Checklist.pdf)**
 
 ---
 
