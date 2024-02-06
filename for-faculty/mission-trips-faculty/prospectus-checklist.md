@@ -29,9 +29,10 @@ nav_order: 3
 
 ---
 
-Each year the Center for Great Commission Studies (CGCS) sponsors several mission trips. We go, literally, around the globe. Some of the trips will focus on evangelizing the lost, while others will focus on discipling national leaders to reach their own people. Some trips will be to unreached people groups, while others will be to fields that are yielding a great harvest. At the center of this variety, however, is a unifying focus: that healthy, reproductive churches be planted among every people group of the world. The goal of SEBTS mission trips is primarily to equip students to fulfill their lifetime roles in the Great Commission, and secondarily to assist denominational partners in their strategic task. In light of that, professors are encouraged to organize trips in conjunction with denominational partners and their personnel. Those wishing to organize trips through other means must seek approval for, and offer justification for, such trips in the mission trip prospectus.  
+The Center for Great Commission Studies (CGCS) sponsors several mission trips each year. We go, literally, around the globe. Some trips will focus on evangelizing the lost, while others will concentrate on discipling national leaders to reach their own people. Some trips will be to unreached people groups, while others will be to fields yielding a great harvest. At the center of this variety, however, is a unifying focus: that healthy, reproductive churches are planted among every people group of the world. SEBTS mission trips aim primarily to equip students to fulfill their lifetime roles in the Great Commission and, secondarily, to assist IMB missionaries in their strategic tasks. Considering this goal, professors are encouraged to organize trips in conjunction with IMB and/or NAMB personnel. Those wishing to organize trips through other field partners must seek approval and offer justification for such trips in the mission trip prospectus.
 
-Faculty and adjuncts can submit a proposal for a trip fitting the overall goals and focus of SEBTS mission trips. The following prospectus form should be filled out and submitted to the Director of the CGCS. All mission trip prospectuses for the upcoming academic year are reviewed by the Director and the Associate Director of the CGCS at the end of the previous Spring semester. Therefore, professors must submit their prospectus to the CGCS by the end of the Spring semester. This timeline allows professors and students to plan for the trip, for SEBTS to advertise the trip, and for travel agents to find acceptable ticket fares. Any questions about how to prepare this mission trip prospectus may be addressed to the CGCS.
+
+Faculty and adjuncts can submit a proposal for a trip fitting the overall goals and focus of SEBTS mission trips. The Director and the Associate Director of the CGCS review all mission trip prospectuses. Therefore, professors must submit their initial prospectus to the CGCS at least **one calendar year** before the date of the trip. This timeline allows professors and students to plan for the trip, for SEBTS to advertise the trip, and for travel agents to find acceptable ticket fares. Please address any questions to the CGCS about how to prepare this mission trip prospectus.
 
 ---
 
@@ -54,13 +55,13 @@ Listed below is a checklist of information that you will need before you submit 
 
 ---
 
-### Initial Prospectus Checklist PDf
+### Initial Prospectus Checklist PDF
 
 For a downloadable PDF of this checklist, [click here.](/files/Prospectus%20Checklist.pdf)
 
 ---
 
-### Initial Prospectus Checklist Link
+### Initial Prospectus Form
 
 For the **initial mission trip prospectus**, [click here.](https://www.thecgcs.org/prospectus/)
 
@@ -70,9 +71,9 @@ For the **initial mission trip prospectus**, [click here.](https://www.thecgcs.o
 
 ---
 
-Each year the Center for Great Commission Studies (CGCS) sponsors several mission trips. We go, literally, around the globe. Some of the trips will focus on evangelizing the lost, while others will focus on discipling national leaders to reach their own people. Some trips will be to unreached people groups, while others will be to fields that are yielding a great harvest. At the center of this variety, however, is a unifying focus: that healthy, reproductive churches be planted among every people group of the world. The goal of SEBTS mission trips is primarily to equip students to fulfill their lifetime roles in the Great Commission, and secondarily to assist denominational partners in their strategic task. In light of that, professors are encouraged to organize trips in conjunction with denominational partners and their personnel. Those wishing to organize trips through other means must seek approval for, and offer justification for, such trips in the mission trip prospectus.  
+The Center for Great Commission Studies (CGCS) sponsors several mission trips each year. We go, literally, around the globe. Some trips will focus on evangelizing the lost, while others will concentrate on discipling national leaders to reach their own people.
 
-Faculty and adjuncts can submit a proposal for a trip fitting the overall goals and focus of SEBTS mission trips. The following prospectus form should be filled out and submitted to the Director of the CGCS. All mission trip prospectuses for the upcoming academic year are reviewed by the Director and the Associate Director of the CGCS at the end of the previous Spring semester. Therefore, professors must submit their prospectus to the CGCS by the end of the Spring semester. This timeline allows professors and students to plan for the trip, for SEBTS to advertise the trip, and for travel agents to find acceptable ticket fares. Any questions about how to prepare this mission trip prospectus may be addressed to the CGCS.
+With this detailed prospectus, faculty and adjuncts can submit a finalized proposal for a trip fitting the overall goals and focus of SEBTS mission trips. Professors must submit their detailed prospectus to the CGCS at least **four months** before the date of the trip. This timeline allows professors and students to plan for the trip, for SEBTS to advertise the trip, and for travel agents to finalize acceptable ticket fares. Please address any questions to the CGCS about how to prepare this mission trip prospectus.
 
 ---
 
