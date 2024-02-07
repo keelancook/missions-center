@@ -29,35 +29,36 @@ nav_order: 1
 
 ---
 
-1. **Make sure your passport is up to date.** This means that the passport expiration date is at least 6 months after the trip.
-2. Attend mandatory briefing held by professor.
+1. **Make sure your passport is up to date.** Up-to-date means that the passport expiration date is at least 6 months **after** the trip concludes. 
+2. Attend mandatory pre-trip meetings held by the professor. 
 3. Complete pre-trip syllabus requirements.
-   * This could include required reading, papers, or lectures.
+   * These requirements could include required reading, papers, or lectures.
 4. Prepare 1-2 prayer requests for the upcoming mission trip.
-5. Pray for the Lord to open the hearts and minds of the people you will be attempting to reach with the Gospel.
+5. Pray for the Lord to open the hearts and minds of the people you will attempt to reach with the Gospel.
 6. Prepare spiritually and physically.
 7. Complete Trip orientation and documentation.
-   * Some locations require visas, immunizations, and more. Make sure these are up to date before leaving.
-8. Pack well.
-9. Promote your trip to others and invite them to join you in praying for you, your team, and those who you will be ministering to on the trip.
+   * Some locations require visas, immunizations, and more.  You will be informed of these requirements once you apply for a trip. Make sure your passport is up to date before applying.
+8. Pack well. The trip leader/professor will provide a packing guide.
+9. Promote your trip to others and invite them to join you in praying for you, your team, and those to whom you will minister on the trip. 
+10. A fund-raising template can be provided upon request to help raise funds for your trip.  
 
 ## During the Trip
 
 ---
 
  1. Have quiet time every morning before going out to do ministry.
- 2. Keep a daily journal.
-    * The journal will include a witnessing log, significant events, insights, and praises.
-    * This is to be a practice of expectation, thanksgiving, and prayer in your lives.
-    * This will be submitted to CampusNet after the trip is complete.
+ 2. Keep a daily journal. In most cases, this is required as part of the syllabus. 
+    * The journal will include a witnessing log, noteworthy events, insights, and praises.
+    * Journaling is to be a practice of expectation, thanksgiving, and prayer in your lives. 
+    * You will submit the journal in CampusNet after the trip is complete.
  3. Write a donor letter to thank those who made going more affordable for SEBTS students.
  4. Fully participate in all activities.
  5. Be humble, kind, compassionate, and tender-hearted.
- 6. Do not give handouts to locals. This could end up hurting the people more than it helps. Ask local workers/pastors what the best way to aid those in need.
+ 6. Do not give handouts to locals. This giving could end up hurting the people more than it helps. Ask local workers/pastors about the best way to aid those in need. 
  7. Maintain security if in a secure location.
  8. Partner well with local workers and nationals in ministry.
  9. If instructed, take photos and videos to send to the CGCS Communication Specialist.
-10. Do not be a cause of conflict, but seek cooperation and love with all you interact with.
+10. Do not be a cause of conflict but seek cooperation and love with all you interact with.
 11. You are on a trip representing SEBTS and the CGCS. Do not hurt the reputation of the school while on the field.
 12. Abide by all the policies in the student handbook. These are not removed while on a mission trip with the school.
 
