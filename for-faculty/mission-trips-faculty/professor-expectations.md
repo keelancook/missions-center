@@ -29,30 +29,29 @@ nav_order: 1
 
 ---
 
-Since CGCS mission trips are classes at Southeastern, our professors serve as the course instructor and trip leaders. Before a trip is approved, created, and opened, professors do initial groundwork to create a trip proposal. The CGCS wants all professors to have the option of developing a trip that could potentially be approved as a school trip. Occasionally, the CGCS will generate a trip based on a direct field request to our office and connect a professor to that requrest. However, our goal is for professors to develop their own trips with former students or denominational field connections they may have.
+Since CGCS mission trips are classes at Southeastern, our professors serve as the course instructors and trip leaders. Before a trip is approved, created, and opened, professors do initial groundwork to create a trip proposal. The CGCS wants all professors to develop a trip that could be approved as a school trip. Occasionally, the CGCS will generate a trip based on a direct field request to our office and connect a professor to that request. However, our goal is for professors to develop their own trips with former students or denominational field connections they may have. 
 
 ### Trip Expectations: What makes a good mission trip?
 
-**Context:** Southeastern partners closely with our denominational partners in field ministry. For this reason, we highly prioritize short-term trip options that work directly with denominational partners or state convention and association teams. While we may at times run a trip to serve with another partner, those trips will be the exception, not the norm. In addition, we love serving alongside Southeastern alumni on the field in Great Commission ministry. For that reason, the ideal trip is to serve internationally with a partnering field team with Southeastern graduates or students or a North American church plant or replant with alumni involved.
+**Context:** Southeastern partners closely with our denominational partners in field ministry. For this reason, we highly prioritize short-term trip options that work directly with denominational partners or state convention and association teams. While we may sometimes run a trip to serve with another partner, those trips will be the exception, not the norm. In addition, we love serving alongside Southeastern alumni on the field in Great Commission ministry. For that reason, the ideal trip is to serve internationally with a partnering field team with Southeastern graduates or students or a North American church plant or replant with alumni involved. 
 
-**Type of ministry:** Southeastern mission trips can be very flexible in the strategies and work employed on the ground; however, they are still a missions elective which requires them to include a significant amount of field-based missions activity. In other words, a CGCS mission trip is not study tour. It is a ministry practicum. In most instances, the ideal activity involve entry and evangelism work. We always like to see students getting the opportunity to share the gospel cross-culturally or in various North American contexts. Trips can also serve missionary teams in other parts of the missionary task, such as: discipling new believers, leadership development, or healthy church formation.
+**Type of ministry:** Southeastern mission trips can be very flexible in the strategies and work employed on the ground; however, they are still a missions elective that requires them to include a significant amount of field-based missions activity. In other words, a CGCS mission trip is not a study tour. It is a ministry practicum. In most instances, the ideal activity involves entry and evangelism work. We always like to see students getting the opportunity to share the gospel cross-culturally or in various North American contexts. Trips can also serve missionary teams in other parts of the missionary task, such as discipling new believers, leadership development, or healthy church formation. 
 
 
 ### Before the Trip is Approved and Promoted
-As a professor is generating a trip prospectus, the following are things to do in preparation. If you want the information below in a checklist form **[click here.](/for-faculty/mission-trips-faculty/prospectus-checklist.html)**
+As a professor generates an initial trip prospectus, the following are things to do in preparation. If you want the information below in a checklist form, **[click here.](/for-faculty/mission-trips-faculty/prospectus-checklist.html)**
 
-1. Research food costs, place of stay, local travel, and ministry expenses.
-   * While the CGCS does book air travel and transportation for the mission trip, the professor needs to research travel before submitting the prospectus to give an accurate projection for the cost of travel. This includes submitting a potential flight path and pricing. These details are extremely important for us to accurately plan trips and can run a mission trip overbudget by tens of thousands of dollars if the professor has not done the work in advance of researching costs.
-   * You also need to research medical availability and access while on the trip for the various locations you will be visiting.
-   * You will need to calculate a food/expense estimate PER DAY for trip members. This is often best done by asking the connection with the field team for an estimate.
+1. Research food costs, place of stay, local travel, and ministry expenses. 
+   * While the CGCS does book air travel and transportation for the mission trip, the professor needs to research travel before submitting the prospectus to give an accurate projection for the cost of travel. This prospectus includes providing a potential flight path and pricing. These details are vital for us to plan trips accurately, and it can run a mission trip over budget by tens of thousands of dollars if the professor has not done the work in advance of researching costs. 
+   * You will need to calculate a food/expense estimate PER DAY for trip members. This estimation is often best done by asking the connection with the field team for an estimate. 
    * You will need to include an estimate for ground transportation. 
-     * This could include van rentals, daily public transportation expenses, ground transport to and from airport, etc.
-   * You will need to include multiple options for place of stay. 
-     * Our preference would be for you to go to places where housing is provided by the team on the ground.
-     * This could either be group housing or discounted housing provided by local workers. You may also research AirBnBs or other group lodging.
-     * A last option would be to stay in hotels, but this should be avoided as it is not the best stewardship of funds.
-     * If a reasonable play of stay cannot be secured, the trip option will not work.
-   * This also includes information about visas, immunizations, and the country's needs.
+      * This estimate could include van rentals, daily public transportation expenses, ground transport to and from the airport, etc. 
+   * You will need to include multiple options for a place to stay. 
+      * We would prefer you to go to places where the team on the ground can provide housing. 
+      * Preferred lodging could be group housing or discounted housing provided by local workers. You may also research Airbnbs or other group lodging. 
+      * A last option would be to stay in hotels, but you should try to avoid this option as it is not the best stewardship of funds. 
+      * If you cannot secure a reasonable place of stay, the trip option will not work. 
+   * This research should also include information about visas, immunizations, and any other requirements to enter the country. You can find this information on the  **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)** and the [CDC website](https://wwwnc.cdc.gov/travel/) under Destinations.
    * You also need to research **[medical availability](https://wwwnc.cdc.gov/travel/)** and access while on the trip for the various locations you will be visiting.
    * You also need to research the safety of the area you will be going. You can check some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)**
 2. Be aware of local culture. Work directly with the field partners on the ground where the mission trip will be located, identifying needs and goals of current teams on the ground.

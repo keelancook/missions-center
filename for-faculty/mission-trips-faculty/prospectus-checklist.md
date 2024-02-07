@@ -31,7 +31,6 @@ nav_order: 3
 
 The Center for Great Commission Studies (CGCS) sponsors several mission trips each year. We go, literally, around the globe. Some trips will focus on evangelizing the lost, while others will concentrate on discipling national leaders to reach their own people. Some trips will be to unreached people groups, while others will be to fields yielding a great harvest. At the center of this variety, however, is a unifying focus: that healthy, reproductive churches are planted among every people group of the world. SEBTS mission trips aim primarily to equip students to fulfill their lifetime roles in the Great Commission and, secondarily, to assist IMB missionaries in their strategic tasks. Considering this goal, professors are encouraged to organize trips in conjunction with IMB and/or NAMB personnel. Those wishing to organize trips through other field partners must seek approval and offer justification for such trips in the mission trip prospectus.
 
-
 Faculty and adjuncts can submit a proposal for a trip fitting the overall goals and focus of SEBTS mission trips. The Director and the Associate Director of the CGCS review all mission trip prospectuses. Therefore, professors must submit their initial prospectus to the CGCS at least **one calendar year** before the date of the trip. This timeline allows professors and students to plan for the trip, for SEBTS to advertise the trip, and for travel agents to find acceptable ticket fares. Please address any questions to the CGCS about how to prepare this mission trip prospectus.
 
 ---
