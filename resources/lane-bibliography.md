@@ -71,19 +71,19 @@ Tennent, Timothy. 2010. Invitation to World Missions: A Trinitarian Missiology f
 
 Bardo, Olivia. 2022. “Is Church in the Metaverse?” Sojourners, October 2022. 
 
-Elwell, J. Sage. 2019. “A Deep Dive into Digital Culture.” Edited by Lagerkvist. Religious Studies Review 45, no. 3 (September): 337–40. https://doi.org/10.1111/rsr.14102. 
+Elwell, J. Sage. 2019. “A Deep Dive into Digital Culture.” Edited by Lagerkvist. Religious Studies Review 45, no. 3 (September):337–40. https://doi.org/10.1111/rsr.14102. 
 
 Jun, Guichun. 2020. “Virtual Reality Church as a New Mission Frontier in the Metaverse: Exploring Theological Controversies and Missional Potential of Virtual Reality Church.” Transformation Volume 37, no. September (September): 1–9. https://doi.org/10.1177/0265378820963155. 
 
-Lim, Wan Phing. n.d. “Church in the Metaverse: Are You Ready? | Our Daily Bread Ministries.” Accessed March 5, 2024. https://ourdailybread.org/spotlight-malaysia/church-in-the-metaverse-are-you-ready/. 
+Lim, Wan Phing. n.d. “Church in the Metaverse: Are You Ready? Our Daily Bread Ministries.” Accessed March 5, 2024. https://ourdailybread.org/spotlight-malaysia/church-in-the-metaverse-are-you-ready/. 
 
-Moles, Dennis. n.d. “Being Jesus Online | Discovery Series.” Accessed March 5, 2024. https://discoveryseries.org/courses/being-jesus-online/lessons/being-jesus-online-introduction/. 
+Moles, Dennis. n.d. “Being Jesus Online. Discovery Series.” Accessed March 5, 2024. https://discoveryseries.org/courses/being-jesus-online/lessons/being-jesus-online-introduction/. 
 
 Reed, Jeff. 2023. “Meeting God in the Metaverse.” Evangelical Missions Quarterly 59, no. 3 (September): 38–42. 
 
 Stafford, Tim. 2010. “The Face-to-Face Gospel and the Death of Distance.” Christianity Today 54, no. 6 (June): 30–33. 
 
-“The Church Digital || Guidance for Church Online, Digital, Metaverse and Phygital/Hybrid Church.” n.d. The Church Digital. Accessed March 5, 2024. https://thechurch.digital. 
+“The Church Digital. Guidance for Church Online, Digital, Metaverse and Phygital/Hybrid Church.” n.d. The Church Digital. Accessed March 5, 2024. https://thechurch.digital. 
 
 “Digital Church Report - The Church.Digital,” The Church.Digital, accessed March 6, 2024, https:// thechurch.digital/digitalchurchreport. 
 
@@ -97,7 +97,7 @@ Zsupan-Jerome, Daniella. 2020. “The Community of the Church: Walking in Step w
 
 ## Other 
 
-“People Groups of the World | Joshua Project.” 2024. Accessed March 5, 2024. https://joshuaproject.net/. 
+“People Groups of the World. Joshua Project.” 2024. Accessed March 5, 2024. https://joshuaproject.net/. 
 
 ## Resources to Look Into 
 
