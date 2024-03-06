@@ -99,7 +99,7 @@ Zsupan-Jerome, Daniella. 2020. “The Community of the Church: Walking in Step w
 
 “People Groups of the World. Joshua Project.” 2024. Accessed March 5, 2024. https://joshuaproject.net/. 
 
-## Resources to Look Into 
+## Resources I have Yet to Look Into 
 
 Kim, Jay Y., and Scot McKnight. 2020. Analog Church: Why We Need Real People, Places, and Things in the Digital Age. Downers Grove, Illinois: IVP. 
 
