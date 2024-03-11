@@ -85,7 +85,11 @@ Bardo, Olivia. 2022. “Is Church in the Metaverse?” Sojourners, October 2022.
 
 Elwell, J. Sage. 2019. “A Deep Dive into Digital Culture.” Edited by Lagerkvist. Religious Studies Review 45, no. 3 (September):337–40. https://doi.org/10.1111/rsr.14102. 
 
+Herron, Daniel. “Lessons from The Robloxian Christians Online Church.” Faith and Leadership, November 21, 2018. https://faithandleadership.com/daniel-herron-lessons-the-robloxian-christians-online-church. 
+
 Jun, Guichun. 2020. “Virtual Reality Church as a New Mission Frontier in the Metaverse: Exploring Theological Controversies and Missional Potential of Virtual Reality Church.” Transformation Volume 37, no. September (September): 1–9. https://doi.org/10.1177/0265378820963155. 
+
+Kim, Do-hoon. “The Meaning of Being a Church in the Virtual World – A Study on Douglas Estes’ ‘SimChurch’” Jangshinnondan 45, no.4 (2013): 141-168. doi: 10.15757/kpjt.2013.45.4.006 
 
 Lim, Wan Phing. n.d. “Church in the Metaverse: Are You Ready? Our Daily Bread Ministries.” Accessed March 5, 2024. https://ourdailybread.org/spotlight-malaysia/church-in-the-metaverse-are-you-ready/. 
 
