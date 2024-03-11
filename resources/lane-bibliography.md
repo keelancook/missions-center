@@ -67,6 +67,18 @@ SBC. 2000. “Baptist Faith & Message 2000 - The Baptist Faith and Message.” H
 
 Tennent, Timothy. 2010. Invitation to World Missions: A Trinitarian Missiology for the Twenty-First Century. Kregel Academic & Professional. 
 
+## Embodiment 
+
+Allen. “Embodied Souls, Ensouled Bodies: An Exercise in Christological Anthropology and Its Significance for the Mind/Body Debate - The Gospel Coalition.” Accessed March 11, 2024. https://www.thegospelcoalition.org/themelios/review/embodied-souls-ensouled-bodies-an-exercise-in-christological-anthropology-and-its-significance-for-the-mind-body-debate/. 
+
+Allison, Gregg. “Embodied: Living As Whole People A Podcast.” Think Biblically - Biola University Blogs, November 19, 2021. https://www.biola.edu/blogs/think-biblically/2021/embodied-living-as-whole-people. 
+
+Greer, Lainey. “What Is Embodiment?” Lainey Greer, August 11, 2019. https://laineygreer.com/what-is-embodiment/. 
+
+James, Samuel. Digital Liturgies: Rediscovering Christian Wisdom in an Online Age. Crossway, 2023. 
+
+Just, Bryan. “Embodied Souls and Ensouled Bodies.” Intersections, January 20, 2023. https://www.cbhd.org/intersections/embodied-souls-and-ensouled-bodies. 
+
 ## Digital Church 
 
 Bardo, Olivia. 2022. “Is Church in the Metaverse?” Sojourners, October 2022. 
