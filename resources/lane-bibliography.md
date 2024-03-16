@@ -121,14 +121,13 @@ Kim, Jay Y., and Scot McKnight. 2020. Analog Church: Why We Need Real People, Pl
 
 Mahan, Jeffrey. 2021. Church as Network: Christian Life and Connection in Digital Culture. Lanham: Rowman & Littlefield Publishers. 
 
+## Presentation, Outline, and Supporting Quotes
 
 [Presentation Slides](/files/ems-lane/Shortened%20EMS%20Presentation.pdf)
 
 [EMS Outline](/files/ems-lane/EMS%20Outline%20Final.pdf)
 
-[EMS Supporting Quotes/Research](/files/ems-lane/EMS%20QR%20Code.png)
-
-[EMS Powerpoint](/files/ems-lane/Shortened%20EMS%20Presentation.pptx)
+[EMS Supporting Quotes/Research](/files/ems-lane/EMS%20Presentation%20Supporting%20Quotes.pdf)
 
 
 ---
