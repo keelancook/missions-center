@@ -122,7 +122,24 @@ nav_order: 2
    * No! You are required to pay the cost of the trip. Tuition for all mission trips run through the CGCS is waived.
 
 ### Are there scholarships for mission trips?
-   * Yes and no. All mission trips are scholar-shipped in that we subsidize a large chunk of the cost for each student on every trip. There is additional funding available for minority students who apply and are accepted into the Kingdom Diversity Missions Initiative program. For more information, **[click here](https://www.sebts.edu/about/kingdom-diversity/)**.
+   * Yes and no. All mission trips are scholar-shipped in that we subsidize a large chunk of the cost for each student on every trip. There is additional funding available for minority students who apply and are accepted into the Kingdom Diversity Missions Initiative program.
+
+### What is the Kingdom Diversity Missions Initiative (KDMI)?
+   * The Kingdom Diversity Missions Initiative is a program providing additional funding for minority students who are going on their first mission trip. The Initiative has an application process for students to follow. For more information on this process, contact **[the CGCS here](mailto: cgcs@sebts.edu)**.
+
+### Who is eligible for the Kingdom Diversity Missions Initiative (KDMI)?
+   * A limited number of KDMI awards are made available each academic year under the following parameters: 
+      * Student must be from an underrepresented culture or a woman in a doctoral program. 
+         * Students of African descent 
+         * Students of Asian descent 
+         * Students of Hispanic/Latin descent
+         * Students of Native American descent
+         * Students of Middle Eastern descent 
+         * All women studying at the doctoral level 
+         * International Students 
+         * First generation immigrants 
+   * Scholarships are open to prospective and current students. 
+   * Students must show a minimum cumulative GPA of 2.5 in all previous undergraduate and graduate coursework. However, if your cumulative GPA is between 2.5 and 2.75, include an explanation of your GPA at the end of your personal statement. 
 
 ### How do I or donors make payments for mission trips?
    * Payments for mission trips can be made in multiple ways. Checks can be written out to SEBTS and brought by the CGCS, or you can go online to pay by **[clicking here](https://www.thecgcs.org/donate-pay/)**.
