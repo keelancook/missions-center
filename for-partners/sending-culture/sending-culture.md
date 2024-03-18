@@ -206,11 +206,12 @@ Supporting and sending may seem similar. However, by supporting, we mean the tim
 
 #### Sending Culture-Related Books
 
-*Replicate* by Robby Gallaty
-*When Missions Shapes the Mission: You and Your Church Can Reach the World* by David Horner
-*The Sending Church Defined* by Bradley Bell????
-*Missional Church: A Vision for the Sending of the Church in North America* by Darrell L. Guder?????
-*Sending Well: A Field Guide to Great Church Planter Coaching* by Dino Senesi????
+* *Replicate* by Robby Gallaty  
+* *When Missions Shapes the Mission: You and Your Church Can Reach the World* by David Horner
+* *The Sending Church Defined* by Bradley Bell????
+* *Missional Church: A Vision for the Sending of the Church in North America* by Darrell L. Guder
+* *Sending Well: A Field Guide to Great Church Planter Coaching* by Dino Senesi
+* *Pipeline: Engaging the Church In Missionary Mobilization* by David and Lorene Wilson
 
 #### Missionary Biographies
 
