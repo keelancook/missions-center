@@ -170,7 +170,7 @@ Sending involves more than just pastors. You can involve small groups and Sunday
 
 ##### Congregational Involvement
 
-* Commissioning participation.
+In order to reach more of your congregation with the idea of sending, you will want to put sending in front of the congregation as a whole. An easy way to do this is to commission teams to go out during your main worship service. By bringing them forward, praying over them, and inviting the congregation to pray for the team as well, you are putting missions front and center. You are showing those in your congregation that sending is important enough to be talked about on Sunday and should be a part of their lives. Often, those going on a mission trip will raise funds for their trip 
 
 ### Supporting
 
