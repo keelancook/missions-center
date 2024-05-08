@@ -226,6 +226,8 @@ Supporting and sending may seem similar. However, by supporting, we mean the tim
 * [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/) by William Whaley
 * [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church) by Tim Keller
 * [The Local Church and Missionary Sending](https://rtim.org/the-local-church-and-missionary-sending/) by Brian Pate
+* [The What and Why of Advocacy Teams: Nurturing and Supporting Sent Ones](https://www.theupstreamcollective.org/post/the-what-and-why-of-advocacy-teams-nurturing-and-supporting-sent-ones)
+* [Remember the Missionaries: Caring for Those We Send](https://research.lifeway.com/2024/03/20/remember-the-missionaries-caring-for-those-we-send/)
 
 ### Podcasts
 
