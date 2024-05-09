@@ -170,13 +170,26 @@ Sending involves more than just pastors. You can involve small groups and Sunday
 
 ##### Congregational Involvement
 
-In order to reach more of your congregation with the idea of sending, you will want to put sending in front of the congregation as a whole. An easy way to do this is to commission teams to go out during your main worship service. By bringing them forward, praying over them, and inviting the congregation to pray for the team as well, you are putting missions front and center. You are showing those in your congregation that sending is important enough to be talked about on Sunday and should be a part of their lives. Often, those going on a mission trip will raise funds for their trip 
+In order to reach more of your congregation with the idea of sending, you will want to put sending in front of the congregation as a whole. An easy way to do this is to commission teams to go out during your main worship service. By bringing them forward, praying over them, and inviting the congregation to pray for the team as well, you are putting missions front and center. You are showing those in your congregation that sending is important enough to be talked about on Sunday and should be a part of their lives. Often, those going on a mission trip will raise funds for their trip. This is another way to involve the congregation. Aid those going by encouraging your congregation to give toward these trips. In considering and praying over whether one should give to reach the nations, the congregation may be transformed. They will have to consider the cost of supporting trips and how the Lord wants them to utilize their finances.
 
 ### Supporting
 
-Supporting and sending may seem similar. However, by supporting, we mean the time after the family has left to go overseas. How do you care for and support those who have been sent out from your church? What are the best ways to support overseas workers? Do you email them? Visit them? Video chat with them? How often should we do this? Do we support those we have sent financially? How do I as a pastor view those members who have been sent out? This section deals with how we support those who have been sent out of our congregations!
+Supporting and sending may seem similar. However, by supporting, we mean the time after the family unit has left to go overseas. How do you care for and support those who have been sent out from your church? What are the best ways to support overseas workers? Do you email them? Visit them? Video chat with them? How often should we do this? Do we support those we have sent financially? How do I as a pastor view those members who have been sent out? This section deals with how we support those who have been sent out of our congregations!
 
 #### How do we support those we have sent?
+There are a myriad of ways to support those who have been sent. The first way is by partnering in prayer. Pray daily, weekly, or monthly for the missionaries you have sent. Invite your members to pray for those who have been sent on a regular basis as well. These can be general requests, such as endurance, strength, peace in transition, boldness, acceptance when they share the Gospel, and wisdom. You can also ask the missionaries for more specific requests. The missionaries may send out a monthly update. Be sure to receive this update, as it includes these specific requests. Further, you can reach out to the missionaries and ask for more specific requests. 
+
+Second, you can partner with those who you have sent by reaching out to them around birthdays and holidays. On the field, those who you have sent are isolated and any word of encouragement and remembrance around holidays is especially meaningful. 
+
+Third, you can partner with those you have sent by visiting them on the field, whether that is a care trip or sending teams to partner with them in ministry on the ground. A care trip is focused on spiritual health of the missionaries. Your team could watch their kids, giving the missionaries much needed time together. You could fly them to a central location with other missionaries that you have sent and put on a time of worship and debriefing. You could just sit with them and give a listening ear of understanding. A mission trip is focused on reaching the people in the country where the sent one is working. Allow the team on the ground to set the strategy and partner with them in their vision. This offers them substantial support and resources that they do not have other times in the year.
+
+Overall, these are just a few ways to support those you have sent. Below are a few articles that talk about other ways to support those who have been sent.
+
+* [The What and Why of Advocacy Teams: Nurturing and Supporting Sent Ones](https://www.theupstreamcollective.org/post/the-what-and-why-of-advocacy-teams-nurturing-and-supporting-sent-ones)
+* [Remember the Missionaries: Caring for Those We Send](https://research.lifeway.com/2024/03/20/remember-the-missionaries-caring-for-those-we-send/)
+* [Partnering in Prayer](https://www.namb.net/send-network/resource/partnering-well-sending-church-pray-for-your-planter/)
+* [Praying for Church Planters](https://www.namb.net/news/7-ways-you-can-pray-for-church-planters-in-north-america/)
+* [Praying for Sent Ones](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/)
 
 #### How much is too much? How little is too little?
 
@@ -226,8 +239,7 @@ Supporting and sending may seem similar. However, by supporting, we mean the tim
 * [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/) by William Whaley
 * [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church) by Tim Keller
 * [The Local Church and Missionary Sending](https://rtim.org/the-local-church-and-missionary-sending/) by Brian Pate
-* [The What and Why of Advocacy Teams: Nurturing and Supporting Sent Ones](https://www.theupstreamcollective.org/post/the-what-and-why-of-advocacy-teams-nurturing-and-supporting-sent-ones)
-* [Remember the Missionaries: Caring for Those We Send](https://research.lifeway.com/2024/03/20/remember-the-missionaries-caring-for-those-we-send/)
+
 
 ### Podcasts
 
