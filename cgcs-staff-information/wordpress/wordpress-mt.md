@@ -38,15 +38,17 @@ Gravity Forms holds the mission trip applications and the BLANK applications. We
 * If the trip will be SEBTS hosted, or church hosted (like the Faith trip).
 
 There are various spots throughout the application that need updating:
+
 1. In the form settings page, the form title and description need updating.
 2. In the form settings page, in the restrictions section, the entry limit, schedule, and pending message need to be updated.
-    * Ensure that you save the page at the bottom before leaving or the settings you just changed will not go into effect.
+    * **Ensure that you save the page at the bottom before leaving or the settings you just changed will not go into effect.**  
+
 In the application itself (under the edit page):
 3. The amount for the deposit at the top needs to be changed.
 4. The location of the trip in the question "Where is this trip going?"
 5. In the Financial liability section, the amount of the trip, the deposit, and the financial deadlines all need to be updated.
 6. In the indemnity Agreement and Release, the location, term (FB, WB, SB, Summer), and exact dates need to be updated.
-    * when updating these, always save the form at the top of the page to enact the changes.
+    * **When updating these, always save the form at the top of the page to enact the changes.**
 
 ---
 
