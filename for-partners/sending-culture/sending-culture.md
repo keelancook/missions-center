@@ -193,6 +193,8 @@ Overall, these are just a few ways to support those you have sent. Below are a f
 
 #### How much is too much? How little is too little?
 
+If you were to go to the field, how would you like the church to support you? Would you like to be sent out and never be contacted again? Would you like to be contacted every day? There are guardrails here on each side. No contact at all is too little. However, contact every day, or even every week for those in secure locations can be pressing. A couple suggestions include a touch point at least once a month, contact on birthdays and holidays (these may take the place of your once a month time), and visiting your sent ones at least once a term (a term is normally 3 years long). This may also be a case-by-case basis. Talk with those you are sending to set appropriate expectations as they are sent. Know what you are able to do and what those who are sent expect you to do. Allow both of these ideas to set guidelines to proceed and pray that the Lord would help you both know how to partner well!
+
 ---
 
 ## Case Studies
