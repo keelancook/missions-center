@@ -17,6 +17,7 @@ This is the landing page for everything WordPress. It holds a table of contents 
 1. [Introduction](/cgcs-staff-information/wordpress/wordpress-introduction.html)
 2. [Pages](/cgcs-staff-information/wordpress/wordpress-pages.html)
 3. [Forms](/cgcs-staff-information/wordpress/wordpress-forms.html)
+4. [Mission Trip Applications](/cgcs-staff-information/wordpress/wordpress-mt.html)
 
 ---
 

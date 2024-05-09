@@ -47,3 +47,7 @@ In the application itself (under the edit page):
 5. In the Financial liability section, the amount of the trip, the deposit, and the financial deadlines all need to be updated.
 6. In the indemnity Agreement and Release, the location, term (FB, WB, SB, Summer), and exact dates need to be updated.
     * when updating these, always save the form at the top of the page to enact the changes.
+
+---
+
+[Return to WordPress Home](/cgcs-staff-information/wordpress/wordpress.html)
