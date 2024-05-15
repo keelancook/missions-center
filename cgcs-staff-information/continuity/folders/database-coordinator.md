@@ -60,6 +60,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission critical tasks.
 
 ### Weekly Tasks
 * Manage duplicates.
+   * [How To Video for Duplicates](https://scribehow.com/shared/Manage_Duplicate_Contacts_in_HubSpot_Account__YUI7VfDjRrGnruuC3P1DaQ?referrer=sidekick)
 * Make sure that forms are migrating over from Gravity Forms.
 * Check to see how other staff members are utilizing HubSpot and look for staff who may be logged out or not utilizing the program.
 * Meet with IMB Mag role, AD, and other mobilizers to input meetings on the deal pages.
