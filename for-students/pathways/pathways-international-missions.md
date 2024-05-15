@@ -6,7 +6,7 @@ parent: Great Commission Pathways
 grand_parent: For Students
 has_children: true
 nav_order: 1
-has_toc: false
+has_toc: true
 created: 2020-12-01
 
 ---
