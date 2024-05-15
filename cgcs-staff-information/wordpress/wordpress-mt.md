@@ -1,4 +1,5 @@
 ---
+
 title: WordPress Mission Trip Applications
 author: Lane Willis
 type: page
@@ -9,6 +10,7 @@ created: 2023-07-13
 search_exclude: true
 
 ---
+
 # WordPress Mission Trip Applications
 
 ### General Information

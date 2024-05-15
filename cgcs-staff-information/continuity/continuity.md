@@ -29,6 +29,8 @@ You can update your continuity folder every time you do a task. If you use your 
 Sure! Here are a couple examples:  
 [NASA](/files/continuity-files/NASA.pdf)  
 [Military](/files/continuity-files/Military.pdf)  
+  
+[**Use this Template**](/files/continuity-files/Continuity%20Word%20Template.docx)
 
 ## Continuity Folders
 [Director](/cgcs-staff-information/continuity/folders/director.html)  
