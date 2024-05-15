@@ -9,7 +9,7 @@ search_exclude: true
 
 ---
 
-# Github FlowChart
+# Github Flowchart
 This flowchart is an unlinked table of contents that gives the staff a way to see and understand the setup of the GitHub pages.
 
 ## Home Page
@@ -27,7 +27,7 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
    3. Student Degrees: This page is the introductory/landing page for missions degrees. There will be FAQs and other generic advice on pursuing degrees.
       1. Mission Degrees
       2. Mission Degrees FAQ
-   4. Student Practicums: This page introduces students to the idea of practicums, gives FAQs, and avaialable opportunities.
+   4. Student Practicums: This page introduces students to the idea of practicums, gives FAQs, and offers available opportunities.
       1. Practicum FAQ
       2. Available Opportunities
    5. Student Resources
@@ -49,12 +49,12 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
          3. How can a church become partners with NC Baptist?
       4. Does my church need to be revitalized?
       5. What does it mean to replant a church?
-4. Reading List: This page hosts a reading list resources for students, churches, and denominational partners.
+4. Reading List: This page hosts reading list resources for students, churches, and denominational partners.
 5. CGCS Main Website Link: This links directly to the CGCS Main Website at www.thecgcs.org.
 
 ## Hidden Pages
 CGCS Staff: This page is the navigation page for CGCS Staff to find documentation on anything going on in the office.
-   1. GitHub FlowChart
+   1. GitHub Flowchart
    2. CGCS Office Space Breakdown
    3. Onboarding
       1. Onboarding Manual
