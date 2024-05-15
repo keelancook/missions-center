@@ -119,6 +119,7 @@ List any frequently used documents, books, websites, or regulations that are ess
    * You can also search GitHub's knowledgebase.
 * Regulations surrounding student data and PII are pertinent. Make sure that you are up to date on these.
 * Regulations for forms, opt-in, GDPR, etc when conducting surveys and sending emails are in place. Currently, all students at SEBTS have given clearance to receive emails from SEBTS. This allows us to send them emails and use their information.
+* Deduply: Deduply is an integration with HubSpot that helps with duplicate records. It costs money per month, but it can be well worth the time and effort it saves. You will probably only need this in the most dire of circumstances.
 
 ## Maps and Locations
 * The main location for this role is the CGCS. You may need to know more of campus, but this role is most likely being filled by a student and there are plenty of people to help you out.
