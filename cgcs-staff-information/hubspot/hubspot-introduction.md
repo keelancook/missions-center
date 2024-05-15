@@ -58,6 +58,9 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 *	You can filter contacts by properties and create views specific to you here.
 *	Normal views are my contacts and unassigned contacts. You can change and drags these views as well.
 
+#### Creating a Contact
+[Click Here for Instructions](https://scribehow.com/shared/Create_new_contact_in_HubSpot_with_specific_details__fQtLbKcLQN-ji5C6pcXebQ)
+
 ### Properties
 *	The fields that we desire to collect data for such as first name, last name, email, etc.
 
