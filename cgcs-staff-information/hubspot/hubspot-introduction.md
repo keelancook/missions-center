@@ -27,19 +27,19 @@ search_exclude: true
 ---
 
 ### What is HubSpot?
-HubSpot is a software that connects a team's marketing and sales tools to a CRM Database. **[Click here](https://knowledge.hubspot.com/get-started)** for a link to HubSpot's knowledge base to get started. HubSpot has an incredible knowledge base themselves that enables people to seek out answers easily. Be sure to make use of this material! HubSpot is broken down into five areas: Marketing, Sales, Service, Operations, and CMS. These five areas designate different features and are interconnected when it comes to usage. There are also four levels that a team can purchase: free, starter, professional, and enterprise. This is for each of the five areas above, so there are many different ways one can utilize HubSpot. Our current plan includes the free version of service, operations, and CMS, the starter version of marketing, and the enterprise version of sales.
+HubSpot is a software that connects a team's marketing and sales tools to a CRM database. **[Click here](https://knowledge.hubspot.com/get-started)** for a link to HubSpot's knowledge base to get started. HubSpot has an incredible knowledge base that enables people to seek out answers easily. Be sure to make use of this material! HubSpot is broken down into five areas: Marketing, Sales, Service, Operations, and CMS. These five areas designate different features and are interconnected when it comes to usage. There are also four levels that a team can purchase: free, starter, professional, and enterprise. This is for each of the five areas above, so there are many ways one can utilize HubSpot. Our current plan includes the free version of service, operations, and CMS, the starter version of marketing, and the enterprise version of sales.
 
 ### What is a CRM database?
-CRM stands for customer relationship management. A CRM database is a database that holds information on customers that helps organizations manage and analyze customer interactions and data. A CRM typically compiles customer data across different points of contact between the customer and organization. These might include phone calls, texts, emails, or meetings.
+CRM stands for customer relationship management. A CRM database is a database that holds information on customers that helps organizations manage and analyze customer interactions and data. A CRM typically compiles customer data across different points of contact between the customer and the organization. These might include phone calls, texts, emails, or meetings.
 
 ### What are we using a CRM for?
-Here in the CGCS, our customers are students and the organization is the Center, as well as the school. We are utilizing HubSpot's CRM to capture student data, especially a student's interactions with the CGCS. Since the CGCS is seeking to provide aid to a student in ministry preparation and calling, it is important for us to know the kind of information we have given to a student when going into a meeting.
+Here in the CGCS, our customers are students, and the organization is the Center, as well as the school. We are utilizing HubSpot's CRM to capture student data, especially a student's interactions with the CGCS. Since the CGCS is seeking to provide aid to a student in ministry preparation and calling, it is important for us to know the kind of information we have given to a student when going into a meeting.
 
 ### What else are we using HubSpot for?
-We are also using HubSpot as a database to track mission trip participants and host our pathways interaction. We are utilizing the deals and pipeline features to track where a student is at on their journey here at SEBTS. For example, a student in their first semester comes to the CGCS and indicates they are interested in international missions. How do we get them from interested to going after they graduate? The deals and pipelines feature tracks a student on their journey to being sent out to participate in international missions. This pipeline is intentionally built around our denominational partnership with the Company. For more information on deals, pipelines, and pathways **[click here.](/cgcs-staff-information/hubspot/hubspot-pathways.html)**
+We are also using HubSpot as a database to track mission trip participants and host our pathway interactions. We are utilizing the deals and pipeline features to track where a student is on their journey here at SEBTS. For example, a student in their first semester comes to the CGCS and indicates they are interested in international missions. How do we get them from 'interested' to 'going' after they graduate? The deals and pipelines feature tracks a student on their journey to being sent out to participate in international missions. This pipeline is intentionally built around our denominational partnership with the Company. For more information on deals, pipelines, and pathways, **[click here.](/cgcs-staff-information/hubspot/hubspot-pathways.html)**
 
 ### Where do I login to HubSpot?
-You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the upper right corner and click login. Before logging in, you must make sure that an admin has set you up with the proper credentials and invited you to the team. You will know whether you have an account set up for you or not.
+You can log in to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the upper-right corner and click login. Before logging in, you must make sure that an admin has set you up with the proper credentials and invited you to join the team. You will know whether you have an account set up for you or not.
 
 ## HubSpot Research
 
@@ -54,15 +54,15 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 * Displays user information and tracks all contact with said user.
 *	Displays properties.
 *	Displays activity by said user on their profile. Can see when we last contacted them and what action they took.
-*	Can find notes, emails, calls, tasks and meetings for the specific contact.
+*	Can find notes, emails, calls, tasks, and meetings for the specific contact.
 *	You can filter contacts by properties and create views specific to you here.
-*	Normal views are my contacts and unassigned contacts. You can change and drags these views as well.
+*	Normal views are my contacts and unassigned contacts. You can change and drag these views as well.
 
 #### Creating a Contact
 [Click Here for Instructions](https://scribehow.com/shared/Create_new_contact_in_HubSpot_with_specific_details__fQtLbKcLQN-ji5C6pcXebQ)
 
 ### Properties
-*	The fields that we desire to collect data for such as first name, last name, email, etc.
+*	The fields that we desire to collect data for, such as first name, last name, email, etc.
 
 ### Companies
 *	Work similarly to contacts.
@@ -77,11 +77,11 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 *	We have 3000 minutes a month total for this.
 
 ### Lists
-* You can create lists from the contacts with certain properties. These lists are stored and continue to pull that data whenever we want it.
+* You can create lists from the contacts with certain properties. These lists are stored, and we continue to pull that data whenever we want it.
 *	You can make a list right from importing.
 
 ### Personal Emails
-* Can connect your inbox in outlook or use the inbox in Hubspot.
+* Can connect your inbox in Outlook or use the inbox in Hubspot.
 *	Can log and track emails either way.
 
 ### Tools
@@ -89,10 +89,10 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 #### Snippets
 *	Commonly used sentences in emails.
 *	Can make 5000 of these if we want.
-*	Maybe beneficial when designing pathways.
+*	These may be beneficial when designing pathways.
 
 #### Templates
-*	Larger snippets basically.
+*	Larger snippets, basically.
 *	Have some predesigned in Hubspot.
 *	Can also design from scratch.
 *	Can place these in folders as well for specific pathways.
@@ -100,26 +100,27 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 
 #### Documents
 *	Uploaded documents that we can send to prospective students.
-*	This is probably where we will want to house resources that we will send to students.
-*	Can organize by folders.
+*	This is probably where we will want to house the resources that we will send to students.
+*	Can organize by folder.
 
 #### Logging
-*	Logging is the basic function of recording the action that you have done into the system.
+*	Logging is the basic function of recording the action that you have taken in the system.
 *	Only logs sent emails.
-*	To log received emails, either reply to the email using HubSpot add-on or forward to the HubSpot email: 22192554@forward.HubSpot.com
+*	To log received emails, either reply to the email using the HubSpot add-on or forward it to the HubSpot email: 22192554@forward.HubSpot.com
+
 #### Tracking
 *	This is on the user side. If a user opens the email then we get notified that it has been opened or viewed.
 
 ### Meetings
 *	Must connect calendar to Hubspot.
 *	You can set up meeting times or links with different options to send out to people.
-*	Group combines all calendars and shows availability of everyone.
+*	Group combines all calendars and shows the availability of everyone.
 *	Round-robin shows all times available by at least one person in your team.
 
 ### Website
 *	We can track visits to our website through Hubspot.
 *	Blog could be made from here..
-*	Chatflows go here for website or Facebook Messenger.
+*	Chatflows go here for the website or Facebook Messenger.
 
 ### Inbox
 * This is a localized area that everyone can access.
@@ -127,11 +128,11 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 ### Marketing
 
 #### Ads
-* Connect Facebook, Instagram, LinkedIn campaigns here.
+* Connect Facebook, Instagram, and LinkedIn campaigns here.
 
 #### Emails
 *	These are mass emails sent to targeted audience.
-*	There are templates to choose from. Newsletter is one.
+*	There are templates to choose from. A newsletter is one.
 
 #### Landing Pages
 *	Use forms to gather information.
@@ -162,7 +163,7 @@ You can login to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the u
 #### Workflows
 *	Automating processes.
 *	Does an action whenever a certain criteria is met.
-*	Can automate forms and emails and such. 
+*	Can automate forms, emails, and such. 
 
 ### Reports
 
