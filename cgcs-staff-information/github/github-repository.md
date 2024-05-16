@@ -11,9 +11,9 @@ search_exclude: true
 ---
 
 ## Repositories
-A repository is a folder that contains project files and each file's revision history. You can create multiple repositories and these can be public or private. You can also invite others to collaborate on these repositories. At its basic level, a repository is a folder that holds all your material for different projects. With the free account, you can work with unlimited collaborators on unlimited public repositories with a full feature set, or unlimited private repositories with a limited feature set.
+A repository is a folder that contains project files and each file's revision history. You can create multiple repositories, and these can be public or private. You can also invite others to collaborate on these repositories. At its basic level, a repository is a folder that holds all your material for different projects. With the free account, you can work with unlimited collaborators on unlimited public repositories with a full feature set or unlimited private repositories with a limited feature set.
 
-Repositories are located in the three bar menu on the left side under the label 'Repositories'.
+Repositories are located in the three-bar menu on the left side under the label 'Repositories'.
 
 For more information about repositories follow the links below:  
 [Repositories Docs Home](https://docs.github.com/repositories)
