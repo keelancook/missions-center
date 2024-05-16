@@ -11,7 +11,7 @@ search_exclude: true
 ---
 
 ## Markdown
-What in the world is markdown? Well, thanks for asking. Markdown is a simple and lightweight language that allows you to add formatting elements through the use of plaintext elements. For example, to create a heading, all you have to do is add a number sign before the heading (e.g. # Heading). There are various plaintext elements that allow you to bold, italicize, and more! Yet, it is all done in plaintext! How cool! There are already great guides to get you started, and so I am just going to link you to those here instead of retyping all the great work others have done!
+What in the world is markdown? Well, thanks for asking. Markdown is a simple and lightweight language that allows you to add formatting elements through the use of plaintext elements. For example, to create a heading, all you have to do is add a number sign before the heading (e.g., # Heading). There are various plaintext elements that allow you to bold, italicize, and more! Yet, it is all done in plain text! How cool! There are already great guides to get you started, and so I am just going to link you to those here instead of retyping all the great work others have done!
 
 [Original Markdown Pitch by John Gruber](https://daringfireball.net/projects/markdown/)  
 [Getting Started with Markdown](https://www.markdownguide.org/getting-started/)  
