@@ -15,7 +15,7 @@ search_exclude: true
 
 ### General Information
 
-As mentioned in the forms page, WordPress hosts all our forms. Thus, WordPress also hosts our mission trip applications. This started with the Fall Break Trips in 2023. Earlier trips utilized Wufoo. We no longer have our Wufoo account, and so those forms are gone. However, we have the sheets with all participants in the OneDrive and in HubSpot.
+As mentioned in the forms page, WordPress hosts all our forms. Thus, WordPress also hosts our mission-trip applications. This started with the fall break trips in 2023. Earlier trips utilized Wufoo. We no longer have our Wufoo account, and so those forms are gone. However, we have the sheets with all participants in OneDrive and in HubSpot.
 
 ### What Mission Trip forms are there?
 
@@ -23,21 +23,21 @@ Gravity Forms holds the mission trip applications and the BLANK applications. We
 * Mission Trip Application with Flight Included for Stateside Trips
 * Mission Trip Application with Flight Included for International Trips
 * Mission Trip Application without Flight for Stateside Trips
-    * Each of these are blank applications that users can duplicate to create new applications. Each of these the proper questions, conditional logic, notifications, and confirmations set up.
+    * Each of these is a blank application that users can duplicate to create new applications. Each of these the proper questions, conditional logic, notifications, and confirmations set up.
 * The Mission Trip Application for all Mission Trips
-    * Labeled MT - [Location] Time of Year(SB, WB, FB, Summer) and Year
+    * Labeled MT: [Location] Time of Year (SB, WB, FB, Summer) and Year
     * They are labeled this way to easily organize and identify the trip without having to open the application.
 
 ### What do we need in order to properly update the blank forms?
 
 * Timing of Trip (Fall Break, Winter Break, Spring Break, Summer Break)
 * Exact Dates of Trip (leaving and returning)
-* Number Of Students Able to Go (So we can limit the number of applications to the appropriate amount)
+* Number of Students Able to Go (so we can limit the number of applications to the appropriate amount)
 * The cost of the entire trip
 * The amount for the trip deposit
-* The date we are going to be opening the application (day application is going live!)
+* The date we are going to be opening the application (the day the application is going live!)
 * If the trip has a flight or not associated with it.
-* If the trip will be SEBTS hosted, or church hosted (like the Faith trip).
+* If the trip will be SEBTS-hosted, or church-hosted (like the Faith trip).
 
 There are various spots throughout the application that need updating:
 
