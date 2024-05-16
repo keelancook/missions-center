@@ -30,14 +30,14 @@ permalink: presentpathways
 
 # Pathways
 
-The pathways we are developing for students is held in HubSpot. These pathways are held in the sales tab through the deal mechanism. Below is a list of the current pathways, along with the steps that we currently have in place for students to follow. There is also some front-facing material and flowcharts. A student can easily be moved along these pathways by adjusting the deal stage the student resides in on the pipeline.
+The pathways we are developing for students are held in HubSpot. These pathways are held in the sales tab through the deal mechanism. Below is a list of the current pathways, along with the steps that we currently have in place for students to follow. There is also some front-facing material and flowcharts. A student can easily be moved along these pathways by adjusting the deal stage the student resides in on the pipeline.
 
 ### International Missions
-The International Missions pathway is designed to help students GO to the nations. This pathway is integrated with Company resources to enable you to discover your calling and place. As a student, you will be guided, trained, and challenged to do evangelism and engage cross-culturally. You will be taught some about the Core Missionary Task and you will walk alongside like-minded students in engaging the nation. The goal of this pathway is for you to GO to the nations in however God is leading you!
+The International Missions pathway is designed to help students GO to the nations. This pathway is integrated with Company resources to enable you to discover your calling and place. As a student, you will be guided, trained, and challenged to do evangelism and engage cross-culturally. You will be taught some about the Core Missionary Task, and you will walk alongside like-minded students in engaging the nation. The goal of this pathway is for you to GO to the nations; God is leading you!
 
 * Express Interest in International Missions
-* Schedule 1st Go Meeting
-* Have 1st Go Meeting International Missions Mobilizer
+* Schedule a 1st Go Meeting
+* Have a 1st Go Meeting with an International Missions Mobilizer
 * Complete Personal Assessment
 * Have 2nd Go Meeting
      * Discuss Personal Assessment
@@ -46,22 +46,22 @@ The International Missions pathway is designed to help students GO to the nation
 * Complete EV Training
 * Complete CMT Training
 * Engage in Cross-Cultural Ministry
-* Start Application with Sending Organization
+* Start the application with a Sending Organization
 * Complete Application
 * Be Sent Out
 
 **[Click here for International Missions Flowchart](/files/pathway-flowcharts/CGCS%20International%20Missions.png)**
 
 ### North American Church Planting
-The North American Church Planting (NACP) pathway is designed to equip students to GO through planting churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in becoming a church planter. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church planting strategies and you will walk alongside like-minded people to engage North America. The goal of this pathway is for you to GO to North America by making disciples and building healthy churches.
+The North American Church Planting (NACP) pathway is designed to equip students to GO by planting churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in becoming a church planter. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church planting strategies, and you will walk alongside like-minded people to engage North America. The goal of this pathway is for you to GO to North America by making disciples and building healthy churches.
 
 * Express interest in NACP
-* Schedule 1st Go Meeting
-* Have 1st Go Meeting with North American Mobilizer
-* Complete NAMB Pipeline Survey
+* Schedule a 1st Go Meeting
+* Have a 1st Go Meeting with North American Mobilizer
+* Complete the NAMB Pipeline Survey
 * Have 2nd Go Meeting
      * Discuss going with GenSend
-* Meet with NC Baptist Church Planting Representative
+* Meet with a NC Baptist Church Planting Representative
 * Join Residency
      * Connect with your local church on how you can be sent out.
      * Choose Location for Church Plant
@@ -75,14 +75,14 @@ The North American Church Planting (NACP) pathway is designed to equip students 
 The Replanting/Revitalization pathway is designed to equip students to GO by helping struggling churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in revitalization. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church revitalization strategies and you will walk alongside like-minded people to engage North America. The goal of this pathway is for you to GO to North America by aiding struggling churches and guiding them towards health!
 
 * Express interest in Replanting/Revitalization
-* Schedule 1st Go Meeting
-* Have 1st Go Meeting with North American Mobilizer
-* Complete NC Baptist Form
-* Meet with NC Baptist Replanting/Revitalization Representative
-* Begin NC Replant Pathway
+* Schedule a 1st Go Meeting
+* Have a 1st Go Meeting with North American Mobilizer
+* Complete the NC Baptist Form
+* Meet with a NC Baptist Replanting/Revitalization Representative
+* Begin the NC Replant Pathway
 * Attend "Am I a Replanter?" Conference
 * Join Residency
-     * Connect with NC Baptist & your local church for how you can be sent out.
+     * Connect with NC Baptist & your local church about how you can be sent out.
      * Get accepted by a local church to revitalize.
 * Be sent out to Replant/Revitalize
 
@@ -92,14 +92,14 @@ The Replanting/Revitalization pathway is designed to equip students to GO by hel
 * Send this list over to the Pastor’s Center so they can pursue these people.
 
 ### Student Ministry
-* Uncertain about where to go with this one at SEBTS. Probably Pastor’s Center again?
+* Uncertain about where to go with this one at SEBTS. Probably the Pastor’s Center again?
 
 ### Women’s Ministry
 * Send this list over to the Women’s Center so they can pursue these people.
 
 ### Christian Higher Education
 * Go Meeting with Keelan
-* Discuss Higher Education opportunities. Would you be interested in that overseas?
+* Discuss higher education opportunities. Would you be interested in doing that overseas?
 
 ### Counseling
 * Send a list to the counseling center to make sure they have all these names.
