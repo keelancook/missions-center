@@ -46,12 +46,12 @@ To direct the CGCS in becoming the flagship missions center for the SBC. The dir
 * Encourage faculty members to participate in and lead mission trips.
 * Approve proposed mission trips.
 * Work with local churches in developing missional culture and missional activity.
-* Serve as a resource for missions knowledge and missions strategy to students, professors, and local churches.
+* Serve as a resource for missions knowledge and missions strategy for students, professors, and local churches.
 
 ### Associate Director - 
 
 #### Role:
-To provide leadership, direction, and oversight of key mobilization and student initiatives. This includes aiding in pathways initiative and facilitating SEBTS mission trip strategy.
+To provide leadership, direction, and oversight of key mobilization and student initiatives. This includes aiding in the pathways initiative and facilitating the SEBTS mission trip strategy.
 
 #### Responsibilities:
 * Develop and execute the CGCS short-term mission trip strategy.
@@ -89,7 +89,7 @@ To be the manager of office personnel, finances, budgets, and travel logistics f
     * Plan or assist with various missions events
     * Any coordination and direction needed for the CGCS Interns 
     * All office finances and accounts
-* Create BOT report every Fall and Spring.
+* Create the BOT report every Fall and Spring.
 * Process Mission Trip applications.
     * Create spreadsheet denoting each team.
     * Communicate with Registrar about the registration for each team member on mission trips.
@@ -100,7 +100,7 @@ To be the manager of office personnel, finances, budgets, and travel logistics f
 ### Administrative Assistant - Timothy Waters
 
 #### Role:
-To be the administrative aid to Keelan as the director of the CGCS and as a professor. This role also is a front-facing role that does project management, inter-office facilitation, and student interaction.
+To be the administrative aid to Keelan as the director of the CGCS and as a professor. This also is a front-facing role that involves project management, interoffice facilitation, and student interaction.
 
 #### Responsibilities:
 * Handle Keelan's calendar and meeting planning.
@@ -116,14 +116,14 @@ To be the administrative aid to Keelan as the director of the CGCS and as a prof
 * Function as the right-hand man to the director and complete any other tasks that the director might need done.
 * Onboard new employees to tools such as Todoist, Workflowy, CampusNet, etc.
 * Attend meetings as directed.
-* Edits podcasts and uploads them to Soundcloud.
+* Edits podcasts and uploads them to SoundCloud.
     * This automatically uploads the podcast to other platforms.
 * Oversee and arrange travel needs for Keelan.
 
 ### Digital Communications Specialist - Meridith Graves
 
 #### Role:
-To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This role is a hybrid role that is mostly behind the camera, but does interact with the above to produce material for the CGCS.
+To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This is a hybrid role that is mostly behind the camera but does interact with the above to produce material for the CGCS.
 
 #### Responsibilities:
 * Post on social media.
@@ -136,7 +136,7 @@ To be the voice of the CGCS through social media, the CGCS's blog, and other dig
     * Develop pages, posts, and events on the website. 
     * Weave together images, links, forms, and text in a way that is appealing and informative.
 * Help plan, promote, and execute events, as well as retrieve content from the events. 
-* Communicate with the Communications office at SEBTS to develop branding, as well as materials with our brand on them.
+* Communicate with the Communications office at SEBTS to develop branding as well as materials with our brand on them.
 * Communicate with Media to plan promotional videos. 
 * Upload podcasts to the website and other social media outlets.
 * Create graphics or assist in graphic design for the CGCS. 
@@ -148,13 +148,13 @@ To be the voice of the CGCS through social media, the CGCS's blog, and other dig
 To oversee the formation of our database (HubSpot) and to help weave HubSpot into our workflow. I also do a myriad of other tasks that the director wants me to do, such as developing our documentation on GitHub.
 
 #### Responsibilities:
-* Ensure HubSpot is up to date with accurate student information.
+* Ensure HubSpot is up-to-date with accurate student information.
     * To do so, I communicate with other offices, such as Registrar, IT, and HR.
 * Build reports on HubSpot to accurately display student data.
     * These include reports on mission trips, student pathways, and other student breakdowns.
-    * This also helps us to see our intersection with the Company.
+    * This also helps us see our intersection with the Company.
 * Ensure that HubSpot holds accurate data about our current students serving with the Company.
-    * This also means that I try to make as accurate as possible the numbers we have sent historically. These are harder to maintain than current students.
+    * This also means that I try to make as accurate as possible the numbers we have sent historically. These are harder to maintain than those of current students.
 * Onboard new employees in the CGCS to HubSpot and other various tools. I do this in tandem with Admin Assistant and Director.
 * Work with Digital Media Specialist and Admin Assistant to create forms for our website through Gravity Forms on WordPress.
 * Work with denominational partners to build pathways in HubSpot for students to follow while at SEBTS.
@@ -173,12 +173,12 @@ To mobilize college and seminary students to take the next step in going with SE
 * Work with the director to advance engagement and student involvement on mission trips.
 * Encourage students to use their summer to serve the Lord and help fulfill the Great Commission.
 * Record meetings in HubSpot and log student interactions.
-* Help others in the office with tasks in dead time.
+* Help others in the office with tasks in your spare time.
 
 ### CGCS Research Fellow - Maggie
 
 #### Role:
-To tell the history of the CGCS, Southeastern missionary sending, and other missions history. This role is an internship/research role with the intent to produce academic quality research and resources for students and the SBC at large.
+To tell the history of the CGCS, Southeastern missionary sending, and other missions history. This is an internship/research role with the intent to produce academic quality research and resources for students and the SBC at large.
 
 #### Responsibilities:
 * Tell Southeastern's story in missions history.
@@ -200,7 +200,7 @@ To mobilize college and seminary students to take the next step in going with SE
 * Meet with students to hear their stories.
 * Promote going with SEBTS and the Company.
 * Work with the director to advance engagement and student involvement on mission trips.
-* Encourage students to use their summer/lives to serve the Lord and help fulfill the Great Commission.
+* Encourage students to use their summers and lives to serve the Lord and help fulfill the Great Commission.
     * Actively recruit missionaries to all Affinities and Field Support offices of the Company.
 * Record meetings in HubSpot and log student interactions.
 * Collaborate with the Church/Student Mobilization teams who are engaging with pastors, ministry leaders and students near the seminary.
@@ -209,7 +209,7 @@ To mobilize college and seminary students to take the next step in going with SE
 * Help the seminary build a missionary pipeline that overlays with our A/D process.
     * Actively run this pipeline by working with those in the pipeline learn and participate in the Core Missionary Task locally.
     * Mentor those in the pipeline to becoming healthy sustainable missionaries.
-    * Regularly meet with candidates in the missionary pipeline both as a group and individually with same gender candidates for encouragement and mentoring.
+    * Regularly meet with candidates in the missionary pipeline, both as a group and individually with same-gender candidates, for encouragement and mentoring.
     * Create cohorts to facilitate missions opportunities and interest.
 * Supplement the work of the Candidate Consultant in a limited capacity.
 * Participate in all campus activities by being available to speak in classes as invited, attending chapel, representing the Company in all mission activities, and attending mission fellowship gatherings.
