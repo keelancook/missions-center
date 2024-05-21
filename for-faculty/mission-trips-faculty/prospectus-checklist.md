@@ -43,11 +43,11 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Total cost per person (to the CGCS, not what a student might pay)
 - [ ] Justification for selected location and target audience
 - [ ] Justification if not working with Company or NAMB
-- [ ] Trip's purpose. Specific details needed as this is used to promote the trips.
+- [ ] Trip's purpose. Specific details are needed, as this is used to promote the trips.
 - [ ] Strategy outline
-- [ ] Visa Information (Do those entering need a visa, and if so what is the cost?)
+- [ ] Visa Information (Do those entering need a visa, and if so, what is the cost?)
 - [ ] Immunization information
-- [ ] Flight information (Proposed itinerary and cost)
+- [ ] Flight information (proposed itinerary and cost)
 - [ ] Housing Costs
 - [ ] Food Costs
 - [ ] In-Country/On the Ground Travel Costs
@@ -81,9 +81,9 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Proposed trip dates
 - [ ] Trip location
 - [ ] Estimated Number of Students
-- [ ] Visa Information (Do those entering need a visa, and if so what is the cost?)
+- [ ] Visa Information (Do those entering need a visa, and if so, what is the cost?)
 - [ ] Immunizations
-- [ ] Flight information (Proposed itinerary and cost)
+- [ ] Flight information (proposed itinerary and cost)
 - [ ] Housing Costs
 - [ ] Food Costs
 - [ ] In-Country Travel Costs
@@ -104,6 +104,6 @@ For the detailed mission trip prospectus [email Walter Bowen](mailto:wbowen@sebt
 
 ---
 
-Professors, for more information, check out the [Professor Expectation page](/for-faculty/mission-trips-faculty/professor-expectations.html) and [Professor FAQ page](/for-faculty/mission-trips-faculty/professor-faq.html).
+Professors, for more information, check out the [Professor Expectation page](/for-faculty/mission-trips-faculty/professor-expectations.html) and the [Professor FAQ page](/for-faculty/mission-trips-faculty/professor-faq.html).
 
-For more information on student requirements, feel free to check out the [Student Expectations page](/for-students/mission-trips/student-expectations.html) and [Student FAQ page](/for-students/mission-trips/student-faq.html).
+For more information on student requirements, feel free to check out the [Student Expectations page](/for-students/mission-trips/student-expectations.html) and the [Student FAQ page](/for-students/mission-trips/student-faq.html).
