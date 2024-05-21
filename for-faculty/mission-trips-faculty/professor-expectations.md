@@ -29,13 +29,13 @@ nav_order: 1
 
 ---
 
-Since CGCS mission trips are classes at Southeastern, our professors serve as the course instructors and trip leaders. Before a trip is approved, created, and opened, professors do initial groundwork to create a trip proposal. The CGCS wants all professors to develop a trip that could be approved as a school trip. Occasionally, the CGCS will generate a trip based on a direct field request to our office and connect a professor to that request. However, our goal is for professors to develop their own trips with former students or denominational field connections they may have. 
+Since CGCS mission trips are classes at Southeastern, our professors serve as the course instructors and trip leaders. Before a trip is approved, created, and opened, professors do the initial groundwork to create a trip proposal. The CGCS wants all professors to develop a trip that could be approved as a school trip. Occasionally, the CGCS will generate a trip based on a direct field request to our office and connect a professor to that request. However, our goal is for professors to develop their own trips with former students or any denominational field connections they may have.
 
 ### Trip Expectations: What makes a good mission trip?
 
-**Context:** Southeastern partners closely with our denominational partners in field ministry. For this reason, we highly prioritize short-term trip options that work directly with denominational partners or state convention and association teams. While we may sometimes run a trip to serve with another partner, those trips will be the exception, not the norm. In addition, we love serving alongside Southeastern alumni on the field in Great Commission ministry. For that reason, the ideal trip is to serve internationally with a partnering field team with Southeastern graduates or students or a North American church plant or replant with alumni involved. 
+**Context:** Southeastern partners closely with our denominational partners in field ministry. For this reason, we highly prioritize short-term trip options that work directly with denominational partners or state convention and association teams. While we may sometimes run a trip to serve with another partner, those trips will be the exception, not the norm. In addition, we love serving alongside Southeastern alumni on the field in Great Commission ministry. For that reason, the ideal trip is to serve internationally with a partnering field team with Southeastern graduates or students, a North American church plant, or replant with alumni involved.
 
-**Type of ministry:** Southeastern mission trips can be very flexible in the strategies and work employed on the ground; however, they are still a missions elective that requires them to include a significant amount of field-based missions activity. In other words, a CGCS mission trip is not a study tour. It is a ministry practicum. In most instances, the ideal activity involves entry and evangelism work. We always like to see students getting the opportunity to share the gospel cross-culturally or in various North American contexts. Trips can also serve missionary teams in other parts of the missionary task, such as discipling new believers, leadership development, or healthy church formation. 
+**Type of ministry:** Southeastern mission trips can be very flexible in the strategies and work employed on the ground; however, they are still a missions elective that requires them to include a significant amount of field-based missions activity. In other words, a CGCS mission trip is not a study tour. It is a ministry practicum. In most instances, the ideal activity involves entry and evangelism work. We always like to see students get the opportunity to share the gospel cross-culturally or in various North American contexts. Trips can also serve missionary teams in other parts of the missionary task, such as discipling new believers, leadership development, or healthy church formation.
 
 
 ### Before the Trip is Approved and Promoted
@@ -53,8 +53,8 @@ As a professor generates an initial trip prospectus, the following are things to
       * If you cannot secure a reasonable place of stay, the trip option will not work. 
    * This research should also include information about visas, immunizations, and any other requirements to enter the country. You can find this information on the  **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)** and the [CDC website](https://wwwnc.cdc.gov/travel/) under Destinations.
    * You also need to research **[medical availability](https://wwwnc.cdc.gov/travel/)** and access while on the trip for the various locations you will be visiting.
-   * You also need to research the safety of the area you will be going. You can check some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)**
-2. Be aware of local culture. Work directly with the field partners where the mission trip will be located, identifying the needs and goals of current teams on the ground
+   * You also need to research the safety of the area where you will be going. You can check out some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)**
+2. Be aware of the local culture. Work directly with the field partners where the mission trip will be located, identifying the needs and goals of current teams on the ground.
 3. Submit an [initial mission trip prospectus form](https://www.thecgcs.org/prospectus/) **one calendar year** prior to the proposed trip. This prospectus is an estimation of trip costs and general information about the trip.
 
 ### After Trip is Approved and is Promoted
@@ -68,12 +68,12 @@ As a professor generates an initial trip prospectus, the following are things to
     * Please make this a mandatory requirement on your syllabus. Mission trip courses are Pass/Fail. As with other courses, a pass will not necessarily help the GPA, but a fail will negatively impact it. Students fail the course if they do not attend the required meeting or neglect to make other arrangements with the professor/leader.
     * Develop a list of expectations for students. Some examples may include the expectations that the CGCS has set for you, while others may include expectations from personal experience.
     * Go over specific orientation details.
-    * Get 1-2 prayer requests from each student and send to CGCS Communication Specialist.
+    * Get 1-2 prayer requests from each student and send them to the CGCS Communication Specialist.
  5. Select trip scholarship recipients. The Financial Aid Office has created a scholarship for students specifically going on mission trips. You, as the professor, will be in charge of choosing the student(s) who will receive the scholarship.
  6. Pray for the Lord to open the hearts and minds of the people you will be attempting to reach.
- 7. **Keep track of receipts or any items purchased before the trip for the trip.**
+ 7. **Keep track of receipts or any items purchased before the trip that are for the trip.**
  8. Display humility and expect humility from your students.
- 9. **Make sure your passport is up to date.**
+ 9. **Make sure your passport is up-to-date.**
  10. Prepare spiritually as well as physically.
  11. Pack well.
 
@@ -81,14 +81,14 @@ As a professor generates an initial trip prospectus, the following are things to
 
 ---
 
-1. Interact with students and engage in mentorship. We expect you to be a leader who is personal and approachable. We expect you to lead out in the areas where you expect students to participate. 
+1. Interact with students and engage in mentorship. We expect you to be a leader who is personal and approachable. We expect you to lead in the areas where you expect students to participate. 
    * Professors are not necessarily responsible for daily lectures on missions and evangelism. However, they are encouraged to teach during the course as it relates to missions, evangelism, the trip's context, contextualization, etc. 
    * Facilitate a time of processing in the evening after the day of ministry is over. 
 2. Encourage prayer in the lives of students. 
 3. Facilitate time to be in the Word and abide with the Lord. Encourage students to do the same. 
 4. Remind students of their prayer journals. 
 5. Get to know each of the students on the trip. Do not just focus on that one stellar student who you know well. 
-6. Integrate academics with application. Note to your students the areas of integration with reading, lecture, or assignments. 
+6. Integrate academics with application. Note to your students the areas of integration with reading, lectures, or assignments. 
 7. Be clear in leadership. 
 8. Engage and encourage partners on the ground. Do not make life more difficult for them. You are there to encourage and help them. 
 9. Maintain student safety throughout the trip. 
@@ -114,12 +114,12 @@ As a professor generates an initial trip prospectus, the following are things to
 3. Ensure all students have turned in the appropriate coursework.
    * Make sure to collect the student thank you letters that they have written to donors. 
      * Faculty members are responsible for collecting these on or after the trip and turning them into the CGCS.
-   * Faculty will then grade the student assignments and submit their grades to Registrar for the course as with any other course.
+   * Faculty will then grade the student assignments and submit their grades to Registrar for the course, as with any other course.
 4. **Turn in receipts to THE CGCS ASAP.**
-5. Send to CGCS **Communication Specialist** a list of students who could share a story to promote mission trips in the future.
-   * Select 1-2 students to share a testimony from the trip for the CGCS social media
+5. Send to the CGCS **Communication Specialist** a list of students who could share a story to promote mission trips in the future.
+   * Select 1–2 students to share a testimony from the trip on the CGCS social media.
 6. Select trip scholarship recipients. The Financial Aid Office has created a scholarship for students specifically going on mission trips. As the professor, you will be in charge of choosing the student(s) who will receive the scholarship.
-   * Outstanding student performance and character on a short-term mission trip qualifies 1-2 students from each trip for a new scholarship from financial aid for the year. The scholarship will be applied to tuition for the next semester. 
+   * Outstanding student performance and character on a short-term mission trip qualifies 1–2 students from each trip for a new scholarship from financial aid for the year. The scholarship will be applied to tuition for the next semester. 
 
 ---
 
