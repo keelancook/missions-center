@@ -45,7 +45,7 @@ nav_order: 2
    * You are not required to work with SBC contacts, but it is preferred. If you are not going to be doing so, you must give a defense for why you are not working with these organizations. The defense must be given to the associate director or director of the CGCS and approved by them.
 
 ### What is an appropriate length for a mission trip?
-   * Depending on the location and time of the trip, it could be 7-14 days. Spring Break and Fall Break trips are generally 7 days (the allotted time for these school breaks). Summer and Winter Break trips can be longer depending on location and travel time. Ideally, a trip will have at least 5 full days of in-country “work.” You can have the trip longer if you desire, but the minimum expectation is 5 days in the country and on location in North America.
+   * Depending on the location and time of the trip, it could be 7-14 days. Spring Break and Fall Break trips are generally 7 days (the allotted time for these school breaks). Summer and Winter Break trips can be longer, depending on location and travel time. Ideally, a trip will have at least 5 full days of in-country “work.” You can make the trip longer if you desire, but the minimum expectation is 5 days in the country and on location in North America.
 
 ### How many students should I be taking on a mission trip?
    * You will take anywhere from 8 to 12 students on a mission trip. This size team is ideal for developing relationships with your students and not feeling overwhelmed by too many. If you feel you can take more or have a second faculty going with you, please communicate this with us beforehand.
@@ -54,7 +54,7 @@ nav_order: 2
    * To go on a mission trip with SEBTS, the participant must be a SEBTS student. Sometimes, students ask if they can bring their spouses who are not SEBTS students. Most of the time, the answer to this question is no.
 
 ### Can I bring my spouse? Children?
-   * It depends on what housing you can find for the team. We do not want spouses or children taking up spots that would otherwise go to students. We also do not want family to take away from your ability to focus on students and invest in them. However, we also recognize that family comes first, and investing/discipling them is of utmost importance. With all this said, feel free to reach out to the director of the CGCS to discuss this in depth.
+   * It depends on what housing you can find for the team. We do not want spouses or children taking up spots that would otherwise go to students. We also do not want family to take away from your ability to focus on students and invest in them. However, we also recognize that family comes first, and investing in and discipling them is of utmost importance. With all this said, feel free to reach out to the director of the CGCS to discuss this in depth.
 
 ### Can I lead a mission trip with another professor?
    * The short answer is yes. Contact the director of the CGCS to discuss this.
@@ -78,7 +78,7 @@ nav_order: 2
    * Students who are interested in going submit an application on our website. Students who complete our application first are given spots. Students must be in good standing both academically and financially before being approved for the roster. Students must also be at least 18 years old to apply for a mission trip.
 
 ### What about injuries and medical assistance while we are in-country?
-   * Before going to your destination, it is up to you to find medical assistance and care. You should know ahead of time where students who are injured can go and what is the best method for treatment. Local workers may know where injured students may go. Asking those in-country is a great idea. Plan and ensure all students understand the health risks and bring the medicines needed. The CGCS purchases volunteer travel insurance for every student and leader that covers the trip’s duration.
+   * Before going to your destination, it is up to you to find medical assistance and care. You should know ahead of time where students who are injured can go and what the best method of treatment is. Local workers may know where injured students may go. Asking those questions to people in-country is a great idea. Plan and ensure all students understand the health risks and bring the medicines needed. The CGCS purchases volunteer travel insurance for every student and leader that covers the trip’s duration.
 
 ### How many students will there be per leader?
    * The number is up to you as a professor. Ideally, 8 to 12 students are appropriate. It also depends on how many students the ground missionaries can handle in their location.
@@ -117,7 +117,7 @@ nav_order: 2
    * Here is an **[example PDF syllabus](/files/Mission%20Trip%20Syllabus%20Template.pdf)**. If you want a Word Document version, **[click here](/mission-trips/syllabus-template.html)**.
 
 ### Is there any help in reserving airfare/hotels/etc.? Or will I need to do this on my own?
-   * The CGCS will book airfare and travel insurance for you. You will be responsible for arranging local transportation, housing, and schedule while on the ground. The CGCS will provide payment for the logistics that you find and secure.
+   * The CGCS will book airfare and travel insurance for you. You will be responsible for arranging local transportation, housing, and schedules while on the ground. The CGCS will provide payment for the logistics that you find and secure.
 
 ### How long before a mission trip do I need to propose said trip? Six months? One year? Two years?
    * As mentioned above, you must submit a mission trip on the prospectus **one year** before the trip’s proposed departure. You may not know all the information about your logistics this early, but you will need to get the initial prospectus in so that it is on record for planning.
@@ -127,18 +127,18 @@ nav_order: 2
    * Some countries require visas before entering a country, while others allow you to get visas at the gate. You need to have researched this beforehand and know what it takes to enter the country you will visit.
 
 ### As I begin planning a trip, what kind of things do I need to research?
-   * You need to research local partnerships and culture. To adequately do cross-cultural missions, you must know the area where you are ministering and the culture you will be engaging. 
+   * You need to research local partnerships and culture. To adequately do cross-cultural missions, you must know the area where you are ministering and the culture in which you will be engaging. 
       * You also need to research airfare, housing, food costs, local transportation, immunization needs, accessible healthcare in case of injury, and safety advisories.
    * The associated costs will need to be submitted on the trip prospectus before a trip can be approved.
 
 ### Do I need to lead a devotional every morning for students? Or will students do this?
-   * The students need to have some sort of personal time with the Lord. You can make this personal time a requirement and put this into your trip schedule. You can also choose to have group devotionals in the morning after this time if you feel like you can fit that into your schedule. You can lead a devotional or have a student lead the short devotional; it is up to you. We encourage group prayer time before going out for the day, seeking the Lord’s guidance and aid in your endeavors.
+   * The students need to have some sort of personal time with the Lord. You can make this personal time a requirement and put it into your trip schedule. You can also choose to have group devotionals in the morning after this time if you feel like you can fit that into your schedule. You can lead a devotional or have a student lead the short devotional; it is up to you. We encourage group prayer time before going out for the day, seeking the Lord’s guidance and aid in your endeavors.
 
 ### What guidelines do I need to follow when creating the trip?
    * The trip creation guidelines are in the FAQ section and the **[Trip Expectations](/for-faculty/mission-trips-faculty/professor-expectations.html)**. Also, please follow any SEBTS guidelines for course requirements.
 
 ### What guidelines do I need to follow while on the trip?
-   * During the trip, you will represent yourselves, the Lord, and SEBTS. While on the field, you must follow covenantal guidelines in the BFM 2000, the Student Handbook, and any other documents you are expected to uphold while serving as a professor. Just because you are out of the country does not mean your expectations change. They are the same as while you are on campus. An additional expectation on a mission trip is that you invest in the students on the trip, desiring to see them stretched in new ways and encouraging them to take steps of faith.
+   * During the trip, you will represent yourselves, the Lord, and SEBTS. While on the field, you must follow covenantal guidelines in the BFM 2000, the Student Handbook, and any other documents you are expected to uphold while serving as a professor. Just because you are out of the country does not mean your expectations change. They are the same as when you are on campus. An additional expectation on a mission trip is that you invest in the students on the trip, desiring to see them stretched in new ways and encouraging them to take steps of faith.
 
 ### What expectations do we have for students?
    * We expect students to be heavy participants on the trip. They should not be lackadaisical or apathetic. They are to be involved every step of the way. Students must also complete all course-related materials, attend a pre-trip briefing, and write a donor thank you letter. You can find other expectations **[by clicking here](/for-students/mission-trips/student-expectations.html)**.
@@ -148,16 +148,16 @@ nav_order: 2
 ---
 
 ### How much does it cost for me as a professor to go on a trip? Do I have to pay my own way?
-   * A mission trip is free for you as a professor. The CGCS will cover your cost for the mission trip. We will not cover any spouse or children that might go on the trip.
+   * A mission trip is free for you as a professor. The CGCS will cover your costs for the mission trip. We will not cover any spouses or children that might go on the trip.
 
 ### What is an appropriate amount of money per student?
-   * An appropriate total for a North American trip is under $2000 total.
-   * An appropriate total for an international trip is under $4000 total.
+   * An appropriate total for a North American trip is under $2000.
+   * An appropriate total for an international trip is under $4000.
 
 ### What kind of receipts should we be keeping?
    * You should keep every receipt available unless otherwise notified by Kelly Garner.
 
-### What expenses do we charge to a ministry/school card and what expenses do we charge to a personal card?
+### What expenses do we charge to a ministry/school card, and what expenses do we charge to a personal card?
    * The guidelines depend on the trip location and the amount of cash you have been given for travel. You will discuss this with Kelly Garner and the director of the CGCS before leaving.
 
 ### Can we give people money while in-country?
