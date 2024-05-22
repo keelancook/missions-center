@@ -152,13 +152,14 @@ Fall Semester:
 Spring Semester:
 * Global Missions Week
    * Typically, the second week in February. All staff in the CGCS are expected to contribute. You will need to be present at all events and meetings about Global Missions Week.
+   * You are also able to pick up any planning tasks if you so desire.
 * Go Conference
    * A conference that is geared toward aiding students in discovering their calling and ministry. Attendance at this conference is not required, but it is helpful.
    * This conference is typically held the weekend before Global Missions Week.
 * Commissioning Chapel
    * This is one of the last chapel services during the spring semester. This chapel celebrates sending at Southeastern and highlights students being sent. This is typically graduating students.
    * We have also begun to highlight the number of students currently serving overseas as well.
-* In the spring semester, around the beginning of February, you will need to request graduation data and new student data from the IT department.  
+* In the spring semester, around the beginning of February, you will need to request graduation data and new student data from the IT department. 
 
 Summer Semester:
 * No major events. The goal is to get caught up and prepared for the fall semester.

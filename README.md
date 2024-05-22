@@ -23,5 +23,5 @@ In addition to a resource hub, we desire that the site itself will become a tool
 
 ---
 ## Connect
-If you have questions, comments, or suggestions, we would love to hear from you. Be sure to connect with us at [our main website](https://thecgcs.org).
+If you have questions, comments, or suggestions, we would love to hear from you. Be sure to connect with us at [our main website](https://thecgcs.org){:target="_blank"}.
 

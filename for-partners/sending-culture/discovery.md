@@ -39,15 +39,15 @@ Rome was not built in a day, and you cannot change the culture of your church ov
 What do we mean by drip? A drip is something small, that if captured, swells over time. Think about a leaky faucet. Even if it is a small drip, over the course of a month, this small drip can cost you major dollars if it is consistent. This is what we want to do with our congregations. Consistently drip missions and sending. This will help it to become a part of the culture. This needs to be both top down and bottom up. Do this from the pulpit and in your discipleship/evangelism.
 1. Begin praying for missionaries and unreached peoples. This can be during your service, during prayer meetings, in discipleship, and in other people's homes.
    * Unreached
-      * [Unreached of the Day](https://joshuaproject.net/pray/unreachedoftheday/today)
-      * [Monthly Prayer Guide](https://www.imb.org/prayerpoints/)
+      * [Unreached of the Day](https://joshuaproject.net/pray/unreachedoftheday/today){:target="_blank"}
+      * [Monthly Prayer Guide](https://www.imb.org/prayerpoints/){:target="_blank"}
    * Missionaries
-      * [16 Ways to Pray for Missionaries](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/)
-      * [Ways to Pray for Missionaries](https://www.wycliffe.org/prayer/how-to-pray-for-missionaries)
-      * [How Can I serve with Missionaries Through Prayer? Pt 1](https://open.spotify.com/episode/1xxDbpM1MgiwUl9OL299p1)
-      * [How Can I serve with Missionaries Through Prayer? Pt 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd)
+      * [16 Ways to Pray for Missionaries](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/){:target="_blank"}
+      * [Ways to Pray for Missionaries](https://www.wycliffe.org/prayer/how-to-pray-for-missionaries){:target="_blank"}
+      * [How Can I serve with Missionaries Through Prayer? Pt 1](https://open.spotify.com/episode/1xxDbpM1MgiwUl9OL299p1){:target="_blank"}{:target="_blank"}
+      * [How Can I serve with Missionaries Through Prayer? Pt 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd){:target="_blank"}
 2. Read missionary biographies.
-   * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
+   * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/){:target="_blank"}
 3. Tell missionary stories as illustrations in your sermons.
 4. Allow missionaries that you have sent or that your congregation knows of to send in videos and testimonies about how God is working around the world.
 5. Use statistics about the lost as examples to grip the hearts of your congregation.

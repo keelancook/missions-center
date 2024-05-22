@@ -51,11 +51,11 @@ At this point, you are ready to send your email! You are able to add automation 
 <iframe src="https://scribehow.com/embed/Set_contacts_as_marketing_in_HubSpot_CRM__vBqvxRx6Q86rPT9WT9HyqA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 ### Email Help Links
-[Create Marketing Emails](https://knowledge.hubspot.com/email/create-marketing-emails-in-the-drag-and-drop-email-editor)  
-[Classic Email Creator](https://knowledge.hubspot.com/email/create-and-send-marketing-emails-with-the-updated-classic-editor)  
-[Email Marketing Guide](https://blog.hubspot.com/marketing/email-marketing-guide)  
-[Marketing Contacts](https://knowledge.hubspot.com/contacts/marketing-contacts)  
-[How to do Email Marketing](https://blog.hubspot.com/customers/-how-to-do-email-marketing-with-hubspot)  
+[Create Marketing Emails](https://knowledge.hubspot.com/email/create-marketing-emails-in-the-drag-and-drop-email-editor){:target="_blank"}  
+[Classic Email Creator](https://knowledge.hubspot.com/email/create-and-send-marketing-emails-with-the-updated-classic-editor){:target="_blank"}  
+[Email Marketing Guide](https://blog.hubspot.com/marketing/email-marketing-guide){:target="_blank"}  
+[Marketing Contacts](https://knowledge.hubspot.com/contacts/marketing-contacts){:target="_blank"}  
+[How to do Email Marketing](https://blog.hubspot.com/customers/-how-to-do-email-marketing-with-hubspot){:target="_blank"}  
 
 ---
 

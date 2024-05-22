@@ -14,8 +14,8 @@ search_exclude: true
 Did you know that through GitHub, you can change any one of your repositories into a website? You can also add any of your repositories as a page to a current website that you own! Thus, the back and forth between pages and websites. GitHub calls this "creating a GitHub Pages site." To do this, all you have to do is add '.github.io' to the end of your repository name. This repository also must have the same name as your username. For example, if your username was freewilly, then your repository would be called 'freewilly.github.io'. This allows GitHub to publish your site and to use it as a page.
 
 Below are some useful links to creating a website on GitHub:  
-[Pages Documentation Home](https://docs.github.com/en/pages)  
-[Creating a GitHub Pages Site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)  
+[Pages Documentation Home](https://docs.github.com/en/pages){:target="_blank"}  
+[Creating a GitHub Pages Site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site){:target="_blank"}  
 
 ---
 

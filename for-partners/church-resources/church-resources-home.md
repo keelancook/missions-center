@@ -20,7 +20,7 @@ In this section, you will find a collection of materials for local churches look
 ## Equipping Portal
 In addition to a resource hub, we desire that the site itself will become a tool for training both churches and potential sent ones from their churches. Our goal is to provide a central location for associations, churches, and individuals to point those they are equipping to walk through a training process.
 
-This will not be the place where we advertise or promote the CGCS. You can find that information on [the main website](https://thecgcs.org/trips).
+This will not be the place where we advertise or promote the CGCS. You can find that information on [the main website](https://thecgcs.org/trips){:target="_blank"}.
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org/contact/).
+Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org/contact/){:target="_blank"}.
 

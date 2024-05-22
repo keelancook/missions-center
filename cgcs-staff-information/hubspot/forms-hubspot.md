@@ -24,11 +24,11 @@ Below are useful links to HubSpot's knowledge base that will help you when you h
 
 ### Useful Links
 
-* [HubSpot Forms Knowledgebase](https://knowledge.hubspot.com/marketing-tools/topics#forms)
-* [Create Forms](https://knowledge.hubspot.com/forms/create-forms)
-* [Edit Form Fields](https://knowledge.hubspot.com/forms/edit-your-form-fields)
-* [Customize Layout of Form Fields](https://knowledge.hubspot.com/forms/customize-the-layout-of-your-form-fields)
-* [Export Form Submissions](https://knowledge.hubspot.com/forms/export-form-submissions)
+* [HubSpot Forms Knowledgebase](https://knowledge.hubspot.com/marketing-tools/topics#forms){:target="_blank"}
+* [Create Forms](https://knowledge.hubspot.com/forms/create-forms){:target="_blank"}
+* [Edit Form Fields](https://knowledge.hubspot.com/forms/edit-your-form-fields){:target="_blank"}
+* [Customize Layout of Form Fields](https://knowledge.hubspot.com/forms/customize-the-layout-of-your-form-fields){:target="_blank"}
+* [Export Form Submissions](https://knowledge.hubspot.com/forms/export-form-submissions){:target="_blank"}
 
 ---
 

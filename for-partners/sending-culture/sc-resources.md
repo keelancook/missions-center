@@ -37,23 +37,23 @@ search_exclude: true
 *Sending Well: A Field Guide to Great Church Planter Coaching* by Dino Senesi????
 
 ### Missionary Biographies
-* [Article about Missionary Biographies](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
-* [Missionary Sermons by Danny Akin](https://www.danielakin.com/all-of-my-missionary-sermons/)
+* [Article about Missionary Biographies](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/){:target="_blank"}
+* [Missionary Sermons by Danny Akin](https://www.danielakin.com/all-of-my-missionary-sermons/){:target="_blank"}
 
 ## Articles
-* [Less Talk, More Action: Moving Past the Rhetoric of Multiplication](https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication) by Keelan Cook
-* [Developing a Standard for Missionary Sending: What does a Cross-cultural Missionary Look Like?](https://www.theupstreamcollective.org/blog/what-does-a-cross-cultural-missionary-look-like) by Nathan Sloan
-* [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/) by William Whaley
-* [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church) by Tim Keller
-* [How a Small Church Can be a Sending Church](https://www.thegospelcoalition.org/article/small-church-sending/)
+* [Less Talk, More Action: Moving Past the Rhetoric of Multiplication](https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication){:target="_blank"} by Keelan Cook
+* [Developing a Standard for Missionary Sending: What does a Cross-cultural Missionary Look Like?](https://www.theupstreamcollective.org/blog/what-does-a-cross-cultural-missionary-look-like){:target="_blank"} by Nathan Sloan
+* [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/){:target="_blank"} by William Whaley
+* [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church){:target="_blank"} by Tim Keller
+* [How a Small Church Can be a Sending Church](https://www.thegospelcoalition.org/article/small-church-sending/){:target="_blank"}
 
 ## Podcasts
-* [How the Church Can Engage Their Communities](https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl)
-* [Evangelizing our Foreign-Born Neighbors](https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u)
-* [Equipping Leaders for teh Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX)
-* [Calling out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO)
-* [All Churches Can and Should Plant New Churches](https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL)
-* [The Sending Church Defined](https://open.spotify.com/episode/38EqywTpTK1Q3BVlGyGRAn)
+* [How the Church Can Engage Their Communities](https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl){:target="_blank"}
+* [Evangelizing our Foreign-Born Neighbors](https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u){:target="_blank"}
+* [Equipping Leaders for teh Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX){:target="_blank"}
+* [Calling out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO){:target="_blank"}
+* [All Churches Can and Should Plant New Churches](https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL){:target="_blank"}
+* [The Sending Church Defined](https://open.spotify.com/episode/38EqywTpTK1Q3BVlGyGRAn){:target="_blank"}
 
 ---
 

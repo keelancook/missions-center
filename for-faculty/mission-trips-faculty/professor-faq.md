@@ -91,7 +91,7 @@ nav_order: 2
 --- 
 
 ### How do I suggest a mission trip to the CGCS?
-   * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our associate director, Walter Bowen. You can find the initial trip prospectus form **[by clicking here](https://www.thecgcs.org/prospectus/)**.
+   * To suggest a trip to the CGCS, you must submit a trip prospectus form. You may also reach out to our director, Keelan Cook, or our associate director, Walter Bowen. You can find the initial trip prospectus form **[by clicking here](https://www.thecgcs.org/prospectus/){:target="_blank"}**.
 
 ### What are the requirements to lead a Southeastern mission trip?
    * To lead a trip, you must be a faculty member. An adjunct faculty member can lead a trip, but a staff member cannot. If a staff member is also a faculty member, they can lead a trip.
@@ -100,13 +100,13 @@ nav_order: 2
    * The initial mission trip prospectus is due **one year** before the trip's projected departure date. 
 
 ### How do I access the initial mission trip prospectus?
-   * Again, you can find the initial trip prospectus **[by clicking here](https://www.thecgcs.org/prospectus/)**.
+   * Again, you can find the initial trip prospectus **[by clicking here](https://www.thecgcs.org/prospectus/){:target="_blank"}**.
 
 ### When is the detailed mission trip prospectus due? 
    * The detailed mission trip prospectus is due four months before the trip’s projected departure date. 
 
 ### How do I access the detailed mission trip prospectus? 
-   * Again, you can find the detailed trip prospectus form by [clicking here.](https://www.thecgcs.org/15742-2/)
+   * Again, you can find the detailed trip prospectus form by [clicking here.](https://www.thecgcs.org/15742-2/){:target="_blank"}
 
 ### Do we need to turn in a new trip prospectus every year if we want to make the same trip again? 
    * Yes, an initial trip prospectus will be due every year because cost estimates fluctuate yearly. This prospectus will help us get a better idea as we estimate the total budget for mission trips. You will also need to submit the detailed trip prospectus with itemized costs four months prior to the leave date.
@@ -161,7 +161,7 @@ nav_order: 2
    * The guidelines depend on the trip location and the amount of cash you have been given for travel. You will discuss this with Kelly Garner and the director of the CGCS before leaving.
 
 ### Can we give people money while in-country?
-   * We strongly advise against handing money out while on a trip, especially in rural locations. For a good explanation on this, look into the book [*When Helping Hurts* by Brian Fikkert and Steve Corbett](https://www.amazon.com/When-Helping-Hurts-Alleviate-Yourself/dp/0802409989).
+   * We strongly advise against handing money out while on a trip, especially in rural locations. For a good explanation on this, look into the book [*When Helping Hurts* by Brian Fikkert and Steve Corbett](https://www.amazon.com/When-Helping-Hurts-Alleviate-Yourself/dp/0802409989){:target="_blank"}.
 
 ---
 

@@ -16,6 +16,6 @@ Welcome to the Student home page! This space is a repository for our students he
 ## Equipping Portal
 In this section, we desire that the site itself become a tool for students to utilize alongside their studies, as well as facilitate missional involvement in the community. Our goal is to provide a central location for students to come to when they are seeking to fulfill the Great Commission.
 
-This will not be the place where we advertise or promote the CGCS. You can find that information on [the main website](https://thecgcs.org/trips).
+This will not be the place where we advertise or promote the CGCS. You can find that information on [the main website](https://thecgcs.org/trips){:target="_blank"}.
 
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org/contact/).
+Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org/contact/){:target="_blank"}.

@@ -27,7 +27,7 @@ search_exclude: true
 ---
 
 ### What is HubSpot?
-HubSpot is a software that connects a team's marketing and sales tools to a CRM database. **[Click here](https://knowledge.hubspot.com/get-started)** for a link to HubSpot's knowledge base to get started. HubSpot has an incredible knowledge base that enables people to seek out answers easily. Be sure to make use of this material! HubSpot is broken down into five areas: Marketing, Sales, Service, Operations, and CMS. These five areas designate different features and are interconnected when it comes to usage. There are also four levels that a team can purchase: free, starter, professional, and enterprise. This is for each of the five areas above, so there are many ways one can utilize HubSpot. Our current plan includes the free version of service, operations, and CMS, the starter version of marketing, and the enterprise version of sales.
+HubSpot is a software that connects a team's marketing and sales tools to a CRM database. **[Click here](https://knowledge.hubspot.com/get-started){:target="_blank"}** for a link to HubSpot's knowledge base to get started. HubSpot has an incredible knowledge base that enables people to seek out answers easily. Be sure to make use of this material! HubSpot is broken down into five areas: Marketing, Sales, Service, Operations, and CMS. These five areas designate different features and are interconnected when it comes to usage. There are also four levels that a team can purchase: free, starter, professional, and enterprise. This is for each of the five areas above, so there are many ways one can utilize HubSpot. Our current plan includes the free version of service, operations, and CMS, the starter version of marketing, and the enterprise version of sales.
 
 ### What is a CRM database?
 CRM stands for customer relationship management. A CRM database is a database that holds information on customers that helps organizations manage and analyze customer interactions and data. A CRM typically compiles customer data across different points of contact between the customer and the organization. These might include phone calls, texts, emails, or meetings.
@@ -39,7 +39,7 @@ Here in the CGCS, our customers are students, and the organization is the Center
 We are also using HubSpot as a database to track mission trip participants and host our pathway interactions. We are utilizing the deals and pipeline features to track where a student is on their journey here at SEBTS. For example, a student in their first semester comes to the CGCS and indicates they are interested in international missions. How do we get them from 'interested' to 'going' after they graduate? The deals and pipelines feature tracks a student on their journey to being sent out to participate in international missions. This pipeline is intentionally built around our denominational partnership with the Company. For more information on deals, pipelines, and pathways, **[click here.](/cgcs-staff-information/hubspot/hubspot-pathways.html)**
 
 ### Where do I login to HubSpot?
-You can log in to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the upper-right corner and click login. Before logging in, you must make sure that an admin has set you up with the proper credentials and invited you to join the team. You will know whether you have an account set up for you or not.
+You can log in to HubSpot **[here.](https://www.hubspot.com/){:target="_blank"}** Navigate to the upper-right corner and click login. Before logging in, you must make sure that an admin has set you up with the proper credentials and invited you to join the team. You will know whether you have an account set up for you or not.
 
 ## HubSpot Research
 
@@ -59,7 +59,7 @@ You can log in to HubSpot **[here.](https://www.hubspot.com/)** Navigate to the 
 *	Normal views are my contacts and unassigned contacts. You can change and drag these views as well.
 
 #### Creating a Contact
-[Click Here for Instructions](https://scribehow.com/shared/Create_new_contact_in_HubSpot_with_specific_details__fQtLbKcLQN-ji5C6pcXebQ)
+[Click Here for Instructions](https://scribehow.com/shared/Create_new_contact_in_HubSpot_with_specific_details__fQtLbKcLQN-ji5C6pcXebQ){:target="_blank"}
 
 ### Properties
 *	The fields that we desire to collect data for, such as first name, last name, email, etc.

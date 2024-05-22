@@ -20,7 +20,7 @@ Importing is the process of uploading data into HubSpot. This can be done on any
 
 ![Import Here](/assets/images/hubspot-images/import-button.png)
 
-A great resource for importing files can be found [here.](https://knowledge.hubspot.com/crm-setup/set-up-your-import-file)  
+A great resource for importing files can be found [here.](https://knowledge.hubspot.com/crm-setup/set-up-your-import-file){:target="_blank"}  
 
 By clicking the import button, you will be taken to the import home page. You will then click 'start import' and choose where you would like to import from. I have only imported files from my computer, but you can also import from an opt-out list or repeat a past import.  
 
@@ -30,10 +30,10 @@ You can import one object or multiple objects. This depends on what kind of info
 
 HubSpot guides you through this process, and it is pretty self-explanatory. You then decide the file you want to import and map the columns in your Excel file to the proper properties in HubSpot. After mapping, you click next. Then, you will check the box that indicates the contacts we are importing are expecting to hear from our organization. This is true because the contacts are students at our school. You then finish importing, and off it goes!  
 
-There are common import errors. These can be found [here.](https://knowledge.hubspot.com/crm-setup/troubleshoot-import-errors)  
+There are common import errors. These can be found [here.](https://knowledge.hubspot.com/crm-setup/troubleshoot-import-errors){:target="_blank"}  
 
 #### Importing Multiple Checkbox Properties
-When importing multiple checkbox properties (like mission trip attendance), you will need to pay extra attention to ensure you ADD your new data to the old data. When you import the multiple select property, it overrides the selections already made. This is important to note. You WILL LOSE the data you already have if you import only the new data! Thus, in your Excel sheets, add a semicolon in front of the first entry. For more information on how to do this, [click here.](https://knowledge.hubspot.com/import-and-export/import-data-to-checkbox-properties)
+When importing multiple checkbox properties (like mission trip attendance), you will need to pay extra attention to ensure you ADD your new data to the old data. When you import the multiple select property, it overrides the selections already made. This is important to note. You WILL LOSE the data you already have if you import only the new data! Thus, in your Excel sheets, add a semicolon in front of the first entry. For more information on how to do this, [click here.](https://knowledge.hubspot.com/import-and-export/import-data-to-checkbox-properties){:target="_blank"}
 
 ### Exporting
 
@@ -41,7 +41,7 @@ At times, you will need to export information from HubSpot into an Excel file. T
 
 You can do this by clicking the export button on any of the contact pages. This will pop up with an option for what kind of file you want to create and what properties you want to include in your export. You can include all properties on a record or specific properties in the view that you are utilizing. Overall, this is a relatively straightforward process.  
 
-For help from HubSpot [click here.](https://knowledge.hubspot.com/crm-setup/export-contacts-companies-deals-or-tickets)
+For help from HubSpot [click here.](https://knowledge.hubspot.com/crm-setup/export-contacts-companies-deals-or-tickets){:target="_blank"}
 
 ---
 

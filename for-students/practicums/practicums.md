@@ -19,7 +19,7 @@ Many of the degrees at Southeastern require students to participate in an extend
 
 [Practicum Opportunities](/for-students/practicums/practicums-opportunities.html){: .btn }  
 
-If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org).
+If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org){:target="_blank"}.
 
 ---
 

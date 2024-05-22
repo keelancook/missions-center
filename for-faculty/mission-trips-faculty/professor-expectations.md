@@ -51,18 +51,18 @@ As a professor generates an initial trip prospectus, the following are things to
       * Preferred lodging could be group housing or discounted housing provided by local workers. You may also research Airbnbs or other group lodging. 
       * A last option would be to stay in hotels, but you should try to avoid this option as it is not the best stewardship of funds. 
       * If you cannot secure a reasonable place of stay, the trip option will not work. 
-   * This research should also include information about visas, immunizations, and any other requirements to enter the country. You can find this information on the  **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)** and the [CDC website](https://wwwnc.cdc.gov/travel/) under Destinations.
-   * You also need to research **[medical availability](https://wwwnc.cdc.gov/travel/)** and access while on the trip for the various locations you will be visiting.
-   * You also need to research the safety of the area where you will be going. You can check out some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html)**
+   * This research should also include information about visas, immunizations, and any other requirements to enter the country. You can find this information on the  **[U.S. State Department's website.](https://travel.state.gov/content/travel.html){:target="_blank"}** and the [CDC website](https://wwwnc.cdc.gov/travel/){:target="_blank"} under Destinations.
+   * You also need to research **[medical availability](https://wwwnc.cdc.gov/travel/){:target="_blank"}** and access while on the trip for the various locations you will be visiting.
+   * You also need to research the safety of the area where you will be going. You can check out some travel information at the **[U.S. State Department's website.](https://travel.state.gov/content/travel.html){:target="_blank"}**
 2. Be aware of the local culture. Work directly with the field partners where the mission trip will be located, identifying the needs and goals of current teams on the ground.
-3. Submit an [initial mission trip prospectus form](https://www.thecgcs.org/prospectus/) **one calendar year** prior to the proposed trip. This prospectus is an estimation of trip costs and general information about the trip.
+3. Submit an [initial mission trip prospectus form](https://www.thecgcs.org/prospectus/){:target="_blank"} **one calendar year** prior to the proposed trip. This prospectus is an estimation of trip costs and general information about the trip.
 
 ### After Trip is Approved and is Promoted
 
  1. Develop a course syllabus that goes along with the mission trip.
     * This includes 500 pages of reading (minimum), a 3-to-5-page reflection paper integrating the academic and personal aspects of trip, and a prayer journal.
     * You can find syllabus templates [here](/mission-center/mission-trips/syllabus-template.html/).
- 2. Submit a [detailed mission trip prospectus form](https://www.thecgcs.org/15742-2/) **four months** prior to the trip. With this detailed prospectus, faculty and adjuncts can submit a finalized proposal that includes itemized costs per person for the trip.
+ 2. Submit a [detailed mission trip prospectus form](https://www.thecgcs.org/15742-2/){:target="_blank"} **four months** prior to the trip. With this detailed prospectus, faculty and adjuncts can submit a finalized proposal that includes itemized costs per person for the trip.
  3. Help promote the trip in your classes, on campus, and on social media.
  4. Host a mandatory briefing with students to discuss expectations and goals for the trip.
     * Please make this a mandatory requirement on your syllabus. Mission trip courses are Pass/Fail. As with other courses, a pass will not necessarily help the GPA, but a fail will negatively impact it. Students fail the course if they do not attend the required meeting or neglect to make other arrangements with the professor/leader.

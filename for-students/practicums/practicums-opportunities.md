@@ -12,7 +12,7 @@ created: 2022-10-13
 ## Practicum Opportunities
 
 ### Global Studies Suggested Opportunities
-For a good visual of these opportunities, [click here.](https://www.thecgcs.org/fulfill-your-practicum/)
+For a good visual of these opportunities, [click here.](https://www.thecgcs.org/fulfill-your-practicum/){:target="_blank"}
 * There is also more information about each of these opportunities at the link above.
 
 #### 3 Credit Hours/30 Day Opportunities

@@ -52,23 +52,23 @@ What do we mean by drip? A drip is something small that, if captured, swells ove
 
 1. Begin praying for missionaries and unreached peoples. This can be during your service, during prayer meetings, in discipleship, or in other people's homes.
    * Unreached
-      * [Unreached of the Day](https://joshuaproject.net/pray/unreachedoftheday/today)
-      * [Monthly Prayer Guide](https://www.imb.org/prayerpoints/)
+      * [Unreached of the Day](https://joshuaproject.net/pray/unreachedoftheday/today){:target="_blank"}
+      * [Monthly Prayer Guide](https://www.imb.org/prayerpoints/){:target="_blank"}
    * Missionaries
-      * [16 Ways to Pray for Missionaries](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/)
-      * [Ways to Pray for Missionaries](https://www.wycliffe.org/prayer/how-to-pray-for-missionaries)
-      * [How Can I serve with Missionaries Through Prayer? Pt 1](https://open.spotify.com/episode/1xxDbpM1MgiwUl9OL299p1)
-      * [How Can I serve with Missionaries Through Prayer? Pt 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd)
+      * [16 Ways to Pray for Missionaries](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/){:target="_blank"}
+      * [Ways to Pray for Missionaries](https://www.wycliffe.org/prayer/how-to-pray-for-missionaries){:target="_blank"}
+      * [How Can I serve with Missionaries Through Prayer? Pt 1](https://open.spotify.com/episode/1xxDbpM1MgiwUl9OL299p1){:target="_blank"}
+      * [How Can I serve with Missionaries Through Prayer? Pt 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd){:target="_blank"}
 2. Read missionary biographies.
-   * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
+   * For a good article about missionary biographies and their benefits, [click here.](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/){:target="_blank"}
 3. Tell missionary stories as illustrations in your sermons. These can come from biographies or from current missionaries that you know.
 4. Allow missionaries that you have sent or that your congregation knows of to send in videos and testimonies about how God is working around the world.
 5. Use statistics about the lost and where they are as examples to grip the hearts of your congregation.
-   * [World Missions Clock](https://missionsclock.sebts.edu/)
-   * [Joshua Project](https://joshuaproject.net/people_groups/dashboard)
-   * [IMB Research](https://www.imb.org/research/reports/)
-   * [Global Research](https://grd.imb.org/)
-   * [Global Gates](https://globalgates.info/)
+   * [World Missions Clock](https://missionsclock.sebts.edu/){:target="_blank"}
+   * [Joshua Project](https://joshuaproject.net/people_groups/dashboard){:target="_blank"}
+   * [IMB Research](https://www.imb.org/research/reports/){:target="_blank"}
+   * [Global Research](https://grd.imb.org/){:target="_blank"}
+   * [Global Gates](https://globalgates.info/){:target="_blank"}
 6. Have commissioning time when sending out short-term teams or trips.
 7. Take short-term trips if this has not begun.
 8. Have a section in your bulletin dedicated to the nations.
@@ -103,7 +103,7 @@ To start dripping missions, your church does not have to be a specific size. You
 
 At some point, the issue of size and money may come up, especially when thinking about taking short-term trips, supporting missionaries, or equipping missionaries. Do not worry. You are not alone. One idea is to link arms with other churches that are in similar stations and send a missionary together. Cooperate and jointly do the work! In this way, churches of all sizes and ages can participate in the sending process!
 
-Stephen Witmer, in his article, [*How A Small Church Can Be a Sending Church*](https://www.thegospelcoalition.org/article/small-church-sending/), puts it this way: "Let’s be honest, small churches. If we’re not as fruitful in global missions as we could be, it’s not because our numbers are too small. It’s because our passion for the global glory of Christ is too small. Our concern for those who die apart from him is too small. Our willingness to be inconvenienced and to give sacrificially is too small." We must be willing to put it all on the line for the sake of King Jesus!
+Stephen Witmer, in his article, [*How A Small Church Can Be a Sending Church*](https://www.thegospelcoalition.org/article/small-church-sending/){:target="_blank"}, puts it this way: "Let’s be honest, small churches. If we’re not as fruitful in global missions as we could be, it’s not because our numbers are too small. It’s because our passion for the global glory of Christ is too small. Our concern for those who die apart from him is too small. Our willingness to be inconvenienced and to give sacrificially is too small." We must be willing to put it all on the line for the sake of King Jesus!
 
 ---
 
@@ -119,7 +119,7 @@ Goal: For you to **identify** members of your congregation and then **equip** th
 
 What does a potential missionary look like? Is there a cookie cutter outline? Are there qualities that every missionary has? Are there qualities that every missionary needs? Have these qualities already appeared, or do we help to cultivate them? How much time and effort will this take? These questions and more arise when we think about identifying members of our congregation that could be fit for sending. These questions may seem insurmountable. Yet, the Bible gives us many examples of local congregations raising up laborers to be sent out. The first example that comes to mind is Acts 13, where the church in Antioch sets aside Paul and Barnabas under the inspiration of the Holy Spirit. Then, in the rest of Acts, we see Paul encouraging local churches to raise up laborers to do this kind of ministry also (Timothy, Apollos, and others in Paul's band). Romans 10 also puts pressure on us as believers. How can people hear if there are no people bringing the Gospel to them? This mandate is for the church. The church is called by God to be a kingdom outpost that raises up laborers to go with the Gospel. Thus, identification is an important role played by the church.
 
-Keelan Cook has written an article about this titled [*Identifying to Send: Examine These Three Areas in a Person's Life*](https://keelancook.com/2020/03/23/identifying-to-send/). This article lists out the 3 C's for identification: Character, Calling, and Competency. In this article, Keelan delineates how churches can identify potential missionaries and help them begin a journey of going. Take a look at this article to see how you can begin identifying members of your congregation today!
+Keelan Cook has written an article about this titled [*Identifying to Send: Examine These Three Areas in a Person's Life*](https://keelancook.com/2020/03/23/identifying-to-send/){:target="_blank"}. This article lists out the 3 C's for identification: Character, Calling, and Competency. In this article, Keelan delineates how churches can identify potential missionaries and help them begin a journey of going. Take a look at this article to see how you can begin identifying members of your congregation today!
 
 ### Equipping
 
@@ -127,18 +127,18 @@ Keelan Cook has written an article about this titled [*Identifying to Send: Exam
 
 Equipping can seem like a giant task for pastors. Some might think that they have no additional space to equip laborers to be missionaries when they are dealing with weddings, funerals, and the everyday rhythms of ministry. Yet, God has called the church to equip laborers in many ways that the nations might be reached with the Gospel. Today, there are many ways this can be done. Members of our congregations can go to seminaries, Bible colleges, and more. Yet, it is also important that this be a partnership and that local churches get involved in this process.
 
-As a sequel to his above article, Keelan Cook has written, [*How One Church Prepares its Missionaries Before they Go*](https://keelancook.com/2016/02/03/how-one-church-prepares-its-missionaries-before-they-go/). This article builds on the idea of identification to then help equip those whom you have identified. This is just one example for how a church might do this. Check out the case studies below for how other churches have helped equip their members to be missionaries!
+As a sequel to his above article, Keelan Cook has written, [*How One Church Prepares its Missionaries Before they Go*](https://keelancook.com/2016/02/03/how-one-church-prepares-its-missionaries-before-they-go/){:target="_blank"}. This article builds on the idea of identification to then help equip those whom you have identified. This is just one example for how a church might do this. Check out the case studies below for how other churches have helped equip their members to be missionaries!
 
 We also have some introductory material made available for cohorts. Cohorts are groups formed around a similar calling for the purpose of training and equipping. Check out the links below to see how you might be able to implement a cohort into your equipping process.
 
-[Cohort Introduction](/imb/pathways-imb-intro.html)  
-[Cohort Instructional Guide](/imb/pathways-imb-instructional-guide.html)  
-[Cohort Syllabus](/imb/imb-semester-1-syllabus.html)  
-[Cohort FAQ](/imb/pathways-imb-faq.html)
+[Cohort Introduction](/imb/pathways-imb-intro.html){:target="_blank"}  
+[Cohort Instructional Guide](/imb/pathways-imb-instructional-guide.html){:target="_blank"}  
+[Cohort Syllabus](/imb/imb-semester-1-syllabus.html){:target="_blank"}  
+[Cohort FAQ](/imb/pathways-imb-faq.html){:target="_blank"}
 
-Another great resource is hosted at Southeastern in the Distance Learning Office. Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academics/the-equip-network/) which discusses how local churches can be more involved in their members theological education. Feel free to reach out to the Distance Learning office to see how your church might be able to participate today!
+Another great resource is hosted at Southeastern in the Distance Learning Office. Southeastern has a new program titled [**EQUIP**](https://www.sebts.edu/academics/the-equip-network/){:target="_blank"} which discusses how local churches can be more involved in their members theological education. Feel free to reach out to the Distance Learning office to see how your church might be able to participate today!
 
-The Sent Life Podcast recently released a podcast about the crucial role of the church in developing missionaries. You can find that podcast [here.](https://www.thecgcs.org/resources/podcast/the-crucial-role-of-the-church-in-developing-missionaries/)
+The Sent Life Podcast recently released a podcast about the crucial role of the church in developing missionaries. You can find that podcast [here.](https://www.thecgcs.org/resources/podcast/the-crucial-role-of-the-church-in-developing-missionaries/){:target="_blank"}
 
 Many missions organizations have requirements for a missionary before they are sent. I would advise you to look into some of these requirements and see if you can put some of them into your discipleship process. This would make it easier for your congregation to complete the application process for missions organizations. One church has done this with the IMB, calling it "Creating Your IMB Portfolio." Even if the member of the congregation does not go with the IMB, they have utilized some of the documentation required as a way to help equip the members of their congregation. It was once said that what your members are not doing in the US, they will not do overseas. Thus, in your equipping, you want to target training toward what they will be doing on the field and expect that of your members while they are at home. The IMB requires an applicant to fill out a witnessing journal that displays evangelistic conversations before going to the field. This is an easy way to get your members ready to go! If you have questions about this, feel free to reach out to the CGCS or the IMB!
 
@@ -185,11 +185,11 @@ Third, you can partner with those you have sent by visiting them on the field, w
 
 Overall, these are just a few ways to support those you have sent. Below are a few articles that talk about other ways to support those who have been sent.
 
-* [The What and Why of Advocacy Teams: Nurturing and Supporting Sent Ones](https://www.theupstreamcollective.org/post/the-what-and-why-of-advocacy-teams-nurturing-and-supporting-sent-ones)
-* [Remember the Missionaries: Caring for Those We Send](https://research.lifeway.com/2024/03/20/remember-the-missionaries-caring-for-those-we-send/)
-* [Partnering in Prayer](https://www.namb.net/send-network/resource/partnering-well-sending-church-pray-for-your-planter/)
-* [Praying for Church Planters](https://www.namb.net/news/7-ways-you-can-pray-for-church-planters-in-north-america/)
-* [Praying for Sent Ones](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/)
+* [The What and Why of Advocacy Teams: Nurturing and Supporting Sent Ones](https://www.theupstreamcollective.org/post/the-what-and-why-of-advocacy-teams-nurturing-and-supporting-sent-ones){:target="_blank"}
+* [Remember the Missionaries: Caring for Those We Send](https://research.lifeway.com/2024/03/20/remember-the-missionaries-caring-for-those-we-send/){:target="_blank"}
+* [Partnering in Prayer](https://www.namb.net/send-network/resource/partnering-well-sending-church-pray-for-your-planter/){:target="_blank"}
+* [Praying for Church Planters](https://www.namb.net/news/7-ways-you-can-pray-for-church-planters-in-north-america/){:target="_blank"}
+* [Praying for Sent Ones](https://www.imb.org/2016/11/08/16-ways-to-pray-for-missionaries/){:target="_blank"}
 
 #### How much is too much? How little is too little?
 
@@ -230,27 +230,27 @@ If you were to go to the field, how would you like the church to support you? Wo
 
 #### Missionary Biographies
 
-* [Article about Missionary Biographies](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/)
-* [Missionary Sermons by Danny Akin](https://www.danielakin.com/all-of-my-missionary-sermons/)
-* [The Impact of Missionary Biographies Podcast](https://open.spotify.com/episode/74l8fKQRj9BHqXuMZiqptw)
+* [Article about Missionary Biographies](https://keelancook.com/2020/03/28/seven-missionary-biographies-and-why-you-should-read-one-now/){:target="_blank"}
+* [Missionary Sermons by Danny Akin](https://www.danielakin.com/all-of-my-missionary-sermons/){:target="_blank"}
+* [The Impact of Missionary Biographies Podcast](https://open.spotify.com/episode/74l8fKQRj9BHqXuMZiqptw){:target="_blank"}
 
 ### Articles
 
-* [Less Talk, More Action: Moving Past the Rhetoric of Multiplication](https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication) by Keelan Cook
-* [Developing a Standard for Missionary Sending: What does a Cross-cultural Missionary Look Like?](https://www.theupstreamcollective.org/blog/what-does-a-cross-cultural-missionary-look-like) by Nathan Sloan
-* [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/) by William Whaley
-* [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church) by Tim Keller
-* [The Local Church and Missionary Sending](https://rtim.org/the-local-church-and-missionary-sending/) by Brian Pate
+* [Less Talk, More Action: Moving Past the Rhetoric of Multiplication](https://www.ubahouston.org/blog/2019/2/20/less-talk-more-action-moving-past-the-rhetoric-of-multiplication){:target="_blank"} by Keelan Cook
+* [Developing a Standard for Missionary Sending: What does a Cross-cultural Missionary Look Like?](https://www.theupstreamcollective.org/blog/what-does-a-cross-cultural-missionary-look-like){:target="_blank"} by Nathan Sloan
+* [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/){:target="_blank"} by William Whaley
+* [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church){:target="_blank"} by Tim Keller
+* [The Local Church and Missionary Sending](https://rtim.org/the-local-church-and-missionary-sending/){:target="_blank"} by Brian Pate
 
 
 ### Podcasts
 
-* [How the Church Can Engage Their Communities](https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl)
-* [Evangelizing our Foreign-Born Neighbors](https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u)
-* [Equipping Leaders for the Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX)
-* [Calling out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO)
-* [All Churches Can and Should Plant New Churches](https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL)
-* [The Sending Church Defined](https://open.spotify.com/episode/38EqywTpTK1Q3BVlGyGRAn)
+* [How the Church Can Engage Their Communities](https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl){:target="_blank"}
+* [Evangelizing our Foreign-Born Neighbors](https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u){:target="_blank"}
+* [Equipping Leaders for the Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX){:target="_blank"}
+* [Calling out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO){:target="_blank"}
+* [All Churches Can and Should Plant New Churches](https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL){:target="_blank"}
+* [The Sending Church Defined](https://open.spotify.com/episode/38EqywTpTK1Q3BVlGyGRAn){:target="_blank"}
 
 ---
 

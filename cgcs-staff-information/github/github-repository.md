@@ -16,11 +16,11 @@ A repository is a folder that contains project files and each file's revision hi
 Repositories are located in the three-bar menu on the left side under the label 'Repositories'.
 
 For more information about repositories follow the links below:  
-[Repositories Docs Home](https://docs.github.com/repositories)
-[About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)  
-[Create Repositories](https://docs.github.com/en/get-started/quickstart/create-a-repo)  
-[Deleting Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository)  
-[Create Repos Deep Dive](https://docs.github.com/en/repositories/creating-and-managing-repositories)  
+[Repositories Docs Home](https://docs.github.com/repositories){:target="_blank"}  
+[About Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories){:target="_blank"}  
+[Create Repositories](https://docs.github.com/en/get-started/quickstart/create-a-repo){:target="_blank"}  
+[Deleting Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository){:target="_blank"}  
+[Create Repos Deep Dive](https://docs.github.com/en/repositories/creating-and-managing-repositories){:target="_blank"}  
 
 ---
 

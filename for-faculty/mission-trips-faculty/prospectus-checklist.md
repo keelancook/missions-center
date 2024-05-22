@@ -62,7 +62,7 @@ For a downloadable PDF of this checklist, [click here.](/files/Initial%20Prospec
 
 ### Initial Prospectus Form
 
-For the **initial mission trip prospectus**, [click here.](https://www.thecgcs.org/prospectus/)
+For the **initial mission trip prospectus**, [click here.](https://www.thecgcs.org/prospectus/){:target="_blank"}
 
 ---
 
