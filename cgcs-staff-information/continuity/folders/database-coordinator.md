@@ -64,7 +64,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
    * [How to Video for Duplicates](https://scribehow.com/shared/Manage_Duplicate_Contacts_in_HubSpot_Account__YUI7VfDjRrGnruuC3P1DaQ?referrer=sidekick)
 * Make sure that forms are migrating over from Gravity Forms.
 * Check to see how other staff members are utilizing HubSpot and look for staff who may be logged out or not utilizing the program.
-   * [Checking Stats]("https://scribehow.com/shared/Access_HubSpot_Sales_Reports_and_Data_for_Completed_Activities__1kbCUQ_KTEW1WZ_DdgZzUQ" target="_blank")
+   * <a href="[www.squarespace.com](https://scribehow.com/shared/Checking_Stats__1kbCUQ_KTEW1WZ_DdgZzUQ)" target="_blank">Checking Stats</a>
 * Meet with the IMB Mag role, AD, and other mobilizers to input meetings on the deal pages.
 * Check reports in HubSpot. Ensure their accuracy.
 
