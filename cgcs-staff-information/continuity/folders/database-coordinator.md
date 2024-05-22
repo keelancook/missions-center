@@ -66,6 +66,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
 * Check to see how other staff members are utilizing HubSpot and look for staff who may be logged out or not utilizing the program.
    * <a href="https://scribehow.com/shared/Checking_Stats__1kbCUQ_KTEW1WZ_DdgZzUQ" target="_blank">Checking Stats</a>
 * Meet with the IMB Mag role, AD, and other mobilizers to input meetings on the deal pages.
+   * This may also include adding pertinent notes about meetings or on student pages.
 * Check reports in HubSpot. Ensure their accuracy.
 
 ### Monthly Tasks
@@ -80,7 +81,9 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
    * This will be students who go on trips and professors who lead trips.
       * For information on importing, [click here.](/cgcs-staff-information/hubspot/import-export-hubspot.html)
    * Student trip participation is marked in a property.
+      * Make sure that you do not overwrite the property, but that you add to it. See lessons learned to read more about this.
    * Professor trip participation is marked in a property and in meetings. This helps with reporting and tracking who has led trips in the past.
+* Contact students who are going and organize prayer cards.
 
 ## Points of Contact
 [Name, Position, Phone/Email]:
