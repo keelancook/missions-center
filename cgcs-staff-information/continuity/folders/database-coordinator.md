@@ -47,6 +47,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
    * This includes maintaining duplicate contacts and ensuring contact information is accurate for students.
    * Create/maintain reports in HubSpot to make sure they are functioning.
    * This also includes making sure that the Company information is accurate in our system.
+   * Maintain Marketing Contacts
 * Documentation Site Upkeep
    * The documentation site at missions.center is maintained by this role. This includes creating new pages and updating old ones.
 * Prayer Card Support
@@ -63,12 +64,12 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
    * [How to Video for Duplicates](https://scribehow.com/shared/Manage_Duplicate_Contacts_in_HubSpot_Account__YUI7VfDjRrGnruuC3P1DaQ?referrer=sidekick)
 * Make sure that forms are migrating over from Gravity Forms.
 * Check to see how other staff members are utilizing HubSpot and look for staff who may be logged out or not utilizing the program.
-   * [Checking Stats](https://scribehow.com/shared/Access_HubSpot_Sales_Reports_and_Data_for_Completed_Activities__1kbCUQ_KTEW1WZ_DdgZzUQ target="_blank")
+   * [Checking Stats]("https://scribehow.com/shared/Access_HubSpot_Sales_Reports_and_Data_for_Completed_Activities__1kbCUQ_KTEW1WZ_DdgZzUQ" target="_blank")
 * Meet with the IMB Mag role, AD, and other mobilizers to input meetings on the deal pages.
 * Check reports in HubSpot. Ensure their accuracy.
 
 ### Monthly Tasks
-* Check marketing contacts at the end of the month. Make sure we are not over our limit. Turn some marketing contacts off if we need space. These reset every month.
+* Check marketing contacts at the end of the month. Make sure we are not over our limit. Turn some marketing contacts off if we need space. These reset every month. For more information on marketing contacts, [click here](/cgcs-staff-information/hubspot/marketing-emails-hubspot.html)
 
 ### Semester Tasks
 * Update HubSpot with new student information.
