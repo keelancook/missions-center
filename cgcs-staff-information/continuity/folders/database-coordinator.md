@@ -78,6 +78,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
    * You will get this information from David Phillips.
 * Input data about mission trips into HubSpot.
    * This will be students who go on trips and professors who lead trips.
+      * For information on importing, [click here.](/cgcs-staff-information/hubspot/import-export-hubspot.html)
    * Student trip participation is marked in a property.
    * Professor trip participation is marked in a property and in meetings. This helps with reporting and tracking who has led trips in the past.
 
@@ -171,6 +172,7 @@ Summer Semester:
 5. Student Data Privacy is a primary concern. Make sure this is at the forefront of what you are doing.
 6. Seek ways to serve other staff members. This role is fluid and enables you to do some tasks intermittently.
 7. Be flexible.
+8. When importing multiple checkbox properties (like mission trip attendance), it overrides the selections already made. This is important to note. You WILL LOSE the data you already have if you import only the new data! To avoid this, add a semicolon in front of the first selection you want to add to the property!
 
 ---
 
