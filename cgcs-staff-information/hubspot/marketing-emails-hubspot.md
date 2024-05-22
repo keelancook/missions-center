@@ -34,8 +34,6 @@ At this point, you can choose to send the email now, or schedule it for later. W
 
 ### Scribe Walkthrough
 
-[Click here for Scribe Walkthrough](https://scribehow.com/shared/Create_and_Send_Email_in_HubSpot_Marketing_Platform__-yM91y8yQBWutIgA9Yw5_w)
-
 <iframe src="https://scribehow.com/embed/Create_and_Send_Email_in_HubSpot_Marketing_Platform__-yM91y8yQBWutIgA9Yw5_w" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 ### What is a marketing contact?
