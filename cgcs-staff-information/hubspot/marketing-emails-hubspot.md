@@ -32,6 +32,10 @@ You can also select contacts for whom you do not want to receive an email. Again
 
 At this point, you can choose to send the email now, or schedule it for later. When scheduling, you might notice that the email has an estimated recipient number. You might see that many of these contacts are not going to receive the email. Why is this, you ask? There are many options, but the main one with how we are running HubSpot at this point is that the contacts are not set to be marketing contacts. Now, what is a marketing contact, you might ask??
 
+### Scribe Walkthrough
+
+[Click here for Scribe Walkthrough](https://scribehow.com/shared/Create_and_Send_Email_in_HubSpot_Marketing_Platform__-yM91y8yQBWutIgA9Yw5_w)
+
 ### What is a marketing contact?
 
 A marketing contact is a contact that we have designated as able to receive marketing emails. All those who receive our newsletter are set up as marketing contacts automatically. On our current subscription level, we can only have 1000 contacts designated as marketing contacts. So, we turn these on and off to fit our current needs.
