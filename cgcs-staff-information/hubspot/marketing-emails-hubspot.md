@@ -32,7 +32,7 @@ You can also select contacts for whom you do not want to receive an email. Again
 
 At this point, you can choose to send the email now, or schedule it for later. When scheduling, you might notice that the email has an estimated recipient number. You might see that many of these contacts are not going to receive the email. Why is this, you ask? There are many options, but the main one with how we are running HubSpot at this point is that the contacts are not set to be marketing contacts. Now, what is a marketing contact, you might ask??
 
-### Scribe Walkthrough
+#### Scribe Walkthrough
 
 <iframe src="https://scribehow.com/embed/Create_and_Send_Email_in_HubSpot_Marketing_Platform__-yM91y8yQBWutIgA9Yw5_w" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
@@ -45,6 +45,10 @@ To turn these on, go to the list that you intend to send the email to. Then sele
 If there are too many marketing contacts, you are able to turn some of those off. Make sure that you are not turning off any newsletter subscribers, but only those who are students who should be turned off and on.
 
 At this point, you are ready to send your email! You are able to add automation to this email if you would like. See the page on automation for more information here.
+
+#### Scribe Walkthrough
+
+<iframe src="https://scribehow.com/embed/Set_contacts_as_marketing_in_HubSpot_CRM__vBqvxRx6Q86rPT9WT9HyqA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 ### Email Help Links
 [Create Marketing Emails](https://knowledge.hubspot.com/email/create-marketing-emails-in-the-drag-and-drop-email-editor)  
