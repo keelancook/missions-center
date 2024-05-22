@@ -36,6 +36,8 @@ At this point, you can choose to send the email now, or schedule it for later. W
 
 [Click here for Scribe Walkthrough](https://scribehow.com/shared/Create_and_Send_Email_in_HubSpot_Marketing_Platform__-yM91y8yQBWutIgA9Yw5_w)
 
+<iframe src="https://scribehow.com/embed/Create_and_Send_Email_in_HubSpot_Marketing_Platform__-yM91y8yQBWutIgA9Yw5_w" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+
 ### What is a marketing contact?
 
 A marketing contact is a contact that we have designated as able to receive marketing emails. All those who receive our newsletter are set up as marketing contacts automatically. On our current subscription level, we can only have 1000 contacts designated as marketing contacts. So, we turn these on and off to fit our current needs.
