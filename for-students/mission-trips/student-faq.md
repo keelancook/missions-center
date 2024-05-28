@@ -52,7 +52,7 @@ nav_order: 2
    * Yes, there is no way around this requirement. Even if you do not need the credit, and take the trip as an elective, you must take the class.
 
 ### Is there a way to get credit for a mission trip that I went on with my church?
-   * Yes, for more information on requirements to earn credit for a mission trip completed outside of Southeastern, please **[click here](https://drive.google.com/file/d/1m3QhhdE3Ne8VLaM9pTtdEYD1YnAhA67R/view){:target="_blank"}**.
+   * Yes, for more information on requirements to earn credit for a mission trip completed outside of Southeastern, please **[click here](/files/Mission%20Trip%20Credit%20Document.pdf){:target="_blank"}**.
 
 ### How long does a mission trip with SEBTS typically last?
    * North American trips typically last around 7 days, while international trips typically last between 10 to 14 days (about 2 weeks). We require 5 days on the ground of ministry activity, thus needing a longer time to go internationally. SEBTS trips are typically during school breaks – Winter Break, Spring Break, Summer Break, and Fall Break. International trips are almost exclusively Winter and Summer Breaks. 
