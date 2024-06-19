@@ -59,7 +59,7 @@ created: 2022-10-13
 * The missions practicum is an option of going on a trip with denominational partners or your church. This trip has to be greater than 30 days to count as 3 hours. [Click Here](/files/Mission%20Trip%20Credit%20Document.pdf){:target="_blank"} for a document that gives more information on utilizing a mission trip outside of Southeastern. Before using this trip, you must request permission from the Field Credit Office at [fieldcredit@sebts.edu](mailto:fieldcredit@sebts.edu). They have the right to tell you yes or no. Make sure to check with them before counting on that trip.
 
 ### How do I fulfill the Mentored Internship Practicum Requirement?
-* The mentored internship is an internship done under someone currently doing ministry in a missions field that gives you hands-on experience. Before depending on a mentor, you must request permission from the Field Credit Office at [fieldcredit@sebts.edu](mailto:fieldcredit@sebts.edu). They have the right to tell you yes or no. Make sure to check with them before you start!
+* The mentored internship is an internship done under someone currently doing ministry in a missions field that gives you hands-on experience. Before choosing a mentor, you must request permission from the Equip Office. They have the right to tell you yes or no. Make sure to check with them before you start! For more information on the mentored internship, and the application form, [click here](https://www.sebts.edu/academics/the-equip-network/mentored-internships/).
 
 ---
 
