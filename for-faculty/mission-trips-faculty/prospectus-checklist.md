@@ -56,7 +56,7 @@ Listed below is a checklist of information that you will need before you submit 
 
 ### Initial Prospectus Checklist PDF
 
-For a downloadable PDF of this checklist, [click here.](/files/Initial%20Prospectus%20Checklist.pdf)
+For a downloadable PDF of this checklist, [click here.](/files/Initial%20Prospectus%20Checklist.pdf){:target="_blank"}
 
 ---
 
@@ -88,13 +88,13 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Food Costs
 - [ ] In-Country Travel Costs
 - [ ] Total cost per person (to the CGCS, not what a student might pay)
-- [ ] Proposed Syllabus. For an example, [click here.](/files/Mission%20Trip%20Syllabus%20Template.pdf)
+- [ ] Proposed Syllabus. For an example, [click here.](/files/Mission%20Trip%20Syllabus%20Template.pdf){:target="_blank"}
 
 ---
 
 ### PDF Checklist
 
-For a downloadable PDF of this checklist, [click here.](/files/Detailed%20Prospectus%20Checklist.pdf)
+For a downloadable PDF of this checklist, [click here.](/files/Detailed%20Prospectus%20Checklist.pdf){:target="_blank"}
 
 ---
 

@@ -34,10 +34,10 @@ search_exclude: true
 ## Duties and Responsibilities
 Job Descriptions:  
 [Word File](/files/job-descriptions/company-mag-role/Company%20MAG%20Role%20Job%20Description.docx){: .btn .mr-2 }
-[PDF Version](/files/job-descriptions/company-mag-role/Company%20MAG%20Role%20Job%20Description.pdf){: .btn }
+[PDF Version](/files/job-descriptions/company-mag-role/Company%20MAG%20Role%20Job%20Description.pdf){: .btn }{:target="_blank"} 
 
 Job Responsibilities:  
-[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#company-mag-role---rick-and-nancy-fraley){: .btn }
+[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#company-mag-role---rick-and-nancy-fraley){: .btn }{:target="_blank"} 
 
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.

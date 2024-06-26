@@ -114,7 +114,7 @@ nav_order: 2
 ### What classroom materials do I need to prepare for a mission trip?
    * Professors are not necessarily responsible for daily lectures on missions and evangelism. However, you are encouraged to provide teaching during the course as it relates to missions, evangelism, the particular context of the trip, contextualization, etc.
    * You also need to prepare a class syllabus, including required reading and assignments.
-   * Here is an **[example PDF syllabus](/files/Mission%20Trip%20Syllabus%20Template.pdf)**. If you want a Word Document version, **[click here](/mission-trips/syllabus-template.html)**.
+   * Here is an **[example PDF syllabus](/files/Mission%20Trip%20Syllabus%20Template.pdf){:target="_blank"}**. If you want a Word Document version, **[click here](/mission-trips/syllabus-template.html){:target="_blank"}**.
 
 ### Is there any help in reserving airfare/hotels/etc.? Or will I need to do this on my own?
    * The CGCS will book airfare and travel insurance for you. You will be responsible for arranging local transportation, housing, and schedules while on the ground. The CGCS will provide payment for the logistics that you find and secure.
@@ -135,13 +135,13 @@ nav_order: 2
    * The students need to have some sort of personal time with the Lord. You can make this personal time a requirement and put it into your trip schedule. You can also choose to have group devotionals in the morning after this time if you feel like you can fit that into your schedule. You can lead a devotional or have a student lead the short devotional; it is up to you. We encourage group prayer time before going out for the day, seeking the Lord’s guidance and aid in your endeavors.
 
 ### What guidelines do I need to follow when creating the trip?
-   * The trip creation guidelines are in the FAQ section and the **[Trip Expectations](/for-faculty/mission-trips-faculty/professor-expectations.html)**. Also, please follow any SEBTS guidelines for course requirements.
+   * The trip creation guidelines are in the FAQ section and the **[Trip Expectations](/for-faculty/mission-trips-faculty/professor-expectations.html){:target="_blank"}**. Also, please follow any SEBTS guidelines for course requirements.
 
 ### What guidelines do I need to follow while on the trip?
    * During the trip, you will represent yourselves, the Lord, and SEBTS. While on the field, you must follow covenantal guidelines in the BFM 2000, the Student Handbook, and any other documents you are expected to uphold while serving as a professor. Just because you are out of the country does not mean your expectations change. They are the same as when you are on campus. An additional expectation on a mission trip is that you invest in the students on the trip, desiring to see them stretched in new ways and encouraging them to take steps of faith.
 
 ### What expectations do we have for students?
-   * We expect students to be heavy participants on the trip. They should not be lackadaisical or apathetic. They are to be involved every step of the way. Students must also complete all course-related materials, attend a pre-trip briefing, and write a donor thank you letter. You can find other expectations **[by clicking here](/for-students/mission-trips/student-expectations.html)**.
+   * We expect students to be heavy participants on the trip. They should not be lackadaisical or apathetic. They are to be involved every step of the way. Students must also complete all course-related materials, attend a pre-trip briefing, and write a donor thank you letter. You can find other expectations **[by clicking here](/for-students/mission-trips/student-expectations.html){:target="_blank"}**.
 
 ## Money
 

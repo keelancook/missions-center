@@ -34,10 +34,10 @@ search_exclude: true
 ## Duties and Responsibilities
 Job Descriptions:  
 [Word File](/files/job-descriptions/missions-fellow/CGCS%20Missions%20Fellow%20Job%20Description.docx){: .btn .mr-2 }
-[PDF Version](/files/job-descriptions/missions-fellow/CGCS%20Missions%20Fellow%20Job%20Description.pdf){: .btn }
+[PDF Version](/files/job-descriptions/missions-fellow/CGCS%20Missions%20Fellow%20Job%20Description.pdf){: .btn }{:target="_blank"} 
 
 Job Responsibilities:  
-[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#cgcs-research-fellow---maggie){: .btn }
+[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#cgcs-research-fellow---maggie){: .btn }{:target="_blank"} 
 
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.

@@ -34,10 +34,10 @@ search_exclude: true
 ## Duties and Responsibilities
 Job Descriptions:  
 [Word File](/files/job-descriptions/digital-communications-specialist/Digital%20Communication%20Specialist.docx){: .btn .mr-2 }
-[PDF Version](/files/job-descriptions/digital-communications-specialist/Digital%20Communication%20Specialist.pdf){: .btn }
+[PDF Version](/files/job-descriptions/digital-communications-specialist/Digital%20Communication%20Specialist.pdf){: .btn }{:target="_blank"} 
 
 Job Responsibilities:  
-[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#digital-communications-specialist---meridith-graves){: .btn }
+[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#digital-communications-specialist---meridith-graves){: .btn }{:target="_blank"} 
 
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.

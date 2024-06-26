@@ -34,10 +34,10 @@ search_exclude: true
 ## Duties and Responsibilities
 Job Descriptions:  
 [Word File](/files/job-descriptions/database-coordinator/Database%20Coordinator.docx){: .btn .mr-2 }
-[PDF Version](/files/job-descriptions/database-coordinator/Database%20Coordinator.pdf){: .btn }
+[PDF Version](/files/job-descriptions/database-coordinator/Database%20Coordinator.pdf){: .btn }{:target="_blank"} 
 
 Job Responsibilities:  
-[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#database-coordinator---lane-willis){: .btn }
+[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#database-coordinator---lane-willis){: .btn }{:target="_blank"} 
 
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.
