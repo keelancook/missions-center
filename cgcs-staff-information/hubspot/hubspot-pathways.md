@@ -48,8 +48,8 @@ The International Missions pathway is designed to help students GO to the nation
 * Completed Application
 * Placed/Sent
 
-**[Click here for the Simple International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Simple.png)**  
-**[Click here for the Expanded International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Expanded.png)**
+**[Click here for the Simple International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Simple.png){:target="_blank"}**  
+**[Click here for the Expanded International Missions Flowchart](/files/pathway-flowcharts/International%20Missions%20Expanded.png){:target="_blank"}**
 
 ### North American Church Planting
 The North American Church Planting (NACP) pathway is designed to equip students to GO by planting churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in becoming a church planter. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church planting strategies, and you will walk alongside like-minded people to engage North America. The goal of this pathway is for you to GO to North America by making disciples and building healthy churches.
@@ -68,8 +68,8 @@ The North American Church Planting (NACP) pathway is designed to equip students 
 * Attended Network Assessment
 * Sent out to Church Plant
 
-**[Click here for the Simple NACP Flowchart](/files/pathway-flowcharts/NACP%20Simple.png)**  
-**[Click here for the Expanded NACP Flowchart](/files/pathway-flowcharts/NACP%20Expanded.png)**
+**[Click here for the Simple NACP Flowchart](/files/pathway-flowcharts/NACP%20Simple.png){:target="_blank"}**  
+**[Click here for the Expanded NACP Flowchart](/files/pathway-flowcharts/NACP%20Expanded.png){:target="_blank"}**
 
 ### Replanting/Revitalization
 The Replanting/Revitalization pathway is designed to equip students to GO by helping struggling churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in revitalization. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church revitalization strategies and you will walk alongside like-minded people to engage North America. The goal of this pathway is for you to GO to North America by aiding struggling churches and guiding them towards health!
@@ -86,8 +86,8 @@ The Replanting/Revitalization pathway is designed to equip students to GO by hel
      * Accepted by a local church to revitalize.
 * Sent out to Replant/Revitalize
 
-**[Click here for the Simple Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Simple.png)**  
-**[Click here for the Expanded Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Expanded.png)**
+**[Click here for the Simple Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Simple.png){:target="_blank"}**  
+**[Click here for the Expanded Revitalization Pathway](/files/pathway-flowcharts/Revitalization%20Expanded.png){:target="_blank"}**
 
 ### Pastoral Ministry
 * Send this list over to the Pastor’s Center so they can pursue these people.

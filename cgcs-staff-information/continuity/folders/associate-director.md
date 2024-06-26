@@ -34,10 +34,10 @@ search_exclude: true
 ## Duties and Responsibilities
 Job Description:  
 [Word File](/files/job-descriptions/assistant-director/Associate%20Director%20of%20the%20CGCS_08.2023.docx){: .btn .mr-2 }
-[PDF Version](/files/job-descriptions/assistant-director/Associate%20Director%20of%20the%20CGCS_08.2023.pdf){: .btn }
+[PDF Version](/files/job-descriptions/assistant-director/Associate%20Director%20of%20the%20CGCS_08.2023.pdf){: .btn }{:target="_blank"} 
 
 Job Responsibilities:  
-[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#associate-director--){: .btn }
+[Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#associate-director--){: .btn }{:target="_blank"} 
 
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.

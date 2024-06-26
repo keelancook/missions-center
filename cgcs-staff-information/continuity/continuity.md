@@ -27,21 +27,21 @@ You can update your continuity folder every time you do a task. If you use your 
 
 ### Can you give me an example of a continuity folder?
 Sure! Here are a couple examples:  
-[NASA](/files/continuity-files/NASA.pdf)  
-[Military](/files/continuity-files/Military.pdf)  
+[NASA](/files/continuity-files/NASA.pdf){:target="_blank"}  
+[Military](/files/continuity-files/Military.pdf){:target="_blank"}  
   
 [**Use this Template**](/files/continuity-files/Continuity%20Word%20Template.docx)
 
 ## Continuity Folders
-[Director](/cgcs-staff-information/continuity/folders/director.html)  
-[Associate Director](/cgcs-staff-information/continuity/folders/associate-director.html)  
-[Office Manager](/cgcs-staff-information/continuity/folders/office-manager.html)  
-[Admin Assistant to the Director](/cgcs-staff-information/continuity/folders/admin-assistant-to-director.html)  
-[Database Coordinator](/cgcs-staff-information/continuity/folders/database-coordinator.html)  
-[Digital Communications Specialist](/cgcs-staff-information/continuity/folders/digital-communications-specialist.html)  
-[Student Mobilizer](/cgcs-staff-information/continuity/folders/student-mobilizer.html)  
-[Research Fellow](/cgcs-staff-information/continuity/folders/research-fellow.html)  
-[Company MAG Role](/cgcs-staff-information/continuity/folders/company-mag-role.html)  
+[Director](/cgcs-staff-information/continuity/folders/director.html){:target="_blank"}  
+[Associate Director](/cgcs-staff-information/continuity/folders/associate-director.html){:target="_blank"}  
+[Office Manager](/cgcs-staff-information/continuity/folders/office-manager.html){:target="_blank"}   
+[Admin Assistant to the Director](/cgcs-staff-information/continuity/folders/admin-assistant-to-director.html){:target="_blank"}   
+[Database Coordinator](/cgcs-staff-information/continuity/folders/database-coordinator.html){:target="_blank"}   
+[Digital Communications Specialist](/cgcs-staff-information/continuity/folders/digital-communications-specialist.html){:target="_blank"}   
+[Student Mobilizer](/cgcs-staff-information/continuity/folders/student-mobilizer.html){:target="_blank"}   
+[Research Fellow](/cgcs-staff-information/continuity/folders/research-fellow.html){:target="_blank"}   
+[Company MAG Role](/cgcs-staff-information/continuity/folders/company-mag-role.html){:target="_blank"}   
 
 ---
 
