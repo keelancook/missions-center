@@ -77,7 +77,10 @@ The Replanting/Revitalization pathway is designed to equip students to GO by hel
 * Express interest in Replanting/Revitalization
 * Schedule a 1st Go Meeting
 * Have a 1st Go Meeting with North American Mobilizer
-* Complete the NC Baptist Form
+* Complete Pre-Assessment
+* Schedule a 2nd Go Meeting
+* Have 2nd GO Meeting
+     * Discuss calling (Replanting or Revitalization)
 * Meet with a NC Baptist Replanting/Revitalization Representative
 * Begin the NC Replant Pathway
 * Attend "Am I a Replanter?" Conference
