@@ -39,7 +39,7 @@ For more information on dashboards follow these links:
 Reporting is the process of making charts, graphs, or other displays based on our needs. You can make single-object reports or use the custom report builder with the subscription level we currently have. All reports are housed in the reports list and can be added to already-existing or newly created dashboards. Currently, we have reports on student data, mission trips, company intersections with SEBTS, and student history. These are all contact-based reports. You can also create reports with deals and companies. You can also analyze activities such as meetings and emails. Reporting takes practice, playing with the properties that you want to make the data as accurate and presentable as possible. This takes time to learn and doesn't come without failure. Keep trying different options until you get the look you want!
 
 For more information on reports follow these links:  
-[Custom Reports](https://knowledge.hubspot.com/reports/create-custom-reports{:target="_blank"}  
+[Custom Reports](https://knowledge.hubspot.com/reports/create-custom-reports){:target="_blank"}  
 [Use the Custom Report Builder Guide](https://knowledge.hubspot.com/reports/create-reports-with-the-custom-report-builder){:target="_blank"}
 
 ---
