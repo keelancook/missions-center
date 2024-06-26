@@ -34,7 +34,7 @@ The pathways we are developing for students are held in HubSpot. These pathways 
 The International Missions pathway is designed to help students GO to the nations. This pathway is integrated with Company resources to enable you to discover your calling and place. As a student, you will be guided, trained, and challenged to do evangelism and engage cross-culturally. You will be taught some about the Core Missionary Task, and you will walk alongside like-minded students in engaging the nation. The goal of this pathway is for you to GO to the nations; God is leading you!
 
 * Expressed Interest in International Missions
-* Booked a 1st Go Meeting
+* Scheduled a 1st Go Meeting
 * Had 1st Go Meeting with Rick and Nancy
 * Completed Personal Assessment
 * Had 2nd Go meeting
@@ -55,12 +55,12 @@ The International Missions pathway is designed to help students GO to the nation
 The North American Church Planting (NACP) pathway is designed to equip students to GO by planting churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in becoming a church planter. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church planting strategies, and you will walk alongside like-minded people to engage North America. The goal of this pathway is for you to GO to North America by making disciples and building healthy churches.
 
 * Expressed interest in NACP
-* Booked a 1st Go Meeting
+* Scheduled a 1st Go Meeting
 * Had 1st Go Meeting with Chloe/Keelan
 * Completed Pipeline Survey
 * Had 2nd Go Meeting
      * Discussed going with GenSend
-* Met with Mike Pittman
+* Met with NC Baptist Church Planting Rep
 * Joined Residency
      * Connected with local church on how they can be sent out from their church
      * Chosen Location for Church
@@ -75,11 +75,14 @@ The North American Church Planting (NACP) pathway is designed to equip students 
 The Replanting/Revitalization pathway is designed to equip students to GO by helping struggling churches in North America. This pathway is integrated with NAMB/NC Baptist resources and surveys to facilitate your journey in revitalization. As a student, you will be guided, trained, and challenged to do evangelism and engage with your local church in a meaningful way. You will be taught some about church revitalization strategies and you will walk alongside like-minded people to engage North America. The goal of this pathway is for you to GO to North America by aiding struggling churches and guiding them towards health!
 
 * Expressed interest in Replanting/Revitalization
-* Booked a 1st Go Meeting
+* Scheduled a 1st Go Meeting
 * Had 1st Go Meeting with Keelan
-* Completed JotForm
-* Met with Terry
-* Began Replant Pathway
+* Completed Pre-Assessment
+* Scheduled 2nd Go Meeting
+* Had 2nd Go Meeting
+     * Discuss Differentiate between replanting and revitalization.
+* Met with NC Baptist Replanting/Revitalization Rep
+* Began NC Replant Pathway
 * Attend Am I a Replanter?
 * Joined Residency
      * Connected with local church on how they can be sent out from their church
