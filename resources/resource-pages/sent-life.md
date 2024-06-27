@@ -24,6 +24,7 @@ nav_order: 3
 </details>
 
 ---
+
 <details closed markdown="block">
   <summary>
     Calling
@@ -31,13 +32,9 @@ nav_order: 3
 
 ## Calling 
 
-November 2020: Episode 24 What are You Going to Do with Your Life with JD Greear 
+### November 2020: [Episode 24 What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ)
 
-https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ 
-
-January 2021: Episode 30 Seeking and Discerning the Call to Gospel Ministry 
-
-https://open.spotify.com/episode/0xw9bcFPgxlb6ae3J5OdTD?si=7aqQhXHUQLGcAACpJtNjGg 
+### January 2021: [Episode 30 Seeking and Discerning the Call to Gospel Ministry](https://open.spotify.com/episode/0xw9bcFPgxlb6ae3J5OdTD?si=7aqQhXHUQLGcAACpJtNjGg)
 
 April 2021: Episode 43 What’s My Next Step to the Mission Field? The IMB (International Mission Board) Process 
 
