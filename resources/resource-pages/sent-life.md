@@ -24,6 +24,10 @@ nav_order: 3
 </details>
 
 ---
+<details closed markdown="block">
+  <summary>
+    Calling
+  </summary>
 
 ## Calling 
 
@@ -46,6 +50,8 @@ https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO?si=7fcWCsVbQYWaAXscdzvmE
 October 2023: Episode 104 How do I get from Calling to the Mission Field? With Rick Fraley 
 
 https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg 
+
+</details>
 
 ## Evangelism 
 
