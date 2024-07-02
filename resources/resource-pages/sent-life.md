@@ -32,9 +32,9 @@ nav_order: 3
 
 ## Calling 
 
-### November 2020: [Episode 24 What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
+### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
 
-### January 2021: [Episode 30 Seeking and Discerning the Call to Gospel Ministry](https://open.spotify.com/episode/0xw9bcFPgxlb6ae3J5OdTD?si=7aqQhXHUQLGcAACpJtNjGg){:target="_blank"}
+### January 2021: Episode 30 [Seeking and Discerning the Call to Gospel Ministry](https://open.spotify.com/episode/0xw9bcFPgxlb6ae3J5OdTD?si=7aqQhXHUQLGcAACpJtNjGg){:target="_blank"}
 
 ### April 2021: Episode 43 [What’s My Next Step to the Mission Field? The IMB (International Mission Board) Process](https://open.spotify.com/episode/43rELE7it0LARnFSTE8DvG?si=AlKVFy0uSDe84vu0THz9PQ){:target="_blank"}
 
@@ -116,129 +116,110 @@ nav_order: 3
 
 </details>
 
+<details closed markdown="block">
+  <summary>
+    Discipleship
+  </summary>
+
 ## Discipleship 
 
-October 2021: Episode 51 Using Bible in Disciple-Making 
+### October 2021: Episode 51 [Using Bible in Disciple-Making](https://open.spotify.com/episode/2tZcQEynY2xmSfsCnJGZo8?si=vgL-h6J1SaqVIADjA5cxGw){:target="_blank"}
 
-https://open.spotify.com/episode/2tZcQEynY2xmSfsCnJGZo8?si=vgL-h6J1SaqVIADjA5cxGw 
+### February 2023: Episode 87 [Explaining Generational Discipleship with Dr. Robinson](https://open.spotify.com/episode/7zHAhGJlzllZhJn2uUdR66?si=3KxkPr51QdCCWQB6EkAQRA){:target="_blank"}
 
-February 2023: Episode 87 Explaining Generational Discipleship with Dr. Robinson 
+### February 2023: Episode 89 [Explaining Generational Discipleship with Dr. Hirt](https://open.spotify.com/episode/7Hujlyu0Vr2KKtYmEEfOZl?si=u_eGwjWjTUGc7rduHi5qRw){:target="_blank"}
 
-https://open.spotify.com/episode/7zHAhGJlzllZhJn2uUdR66?si=3KxkPr51QdCCWQB6EkAQRA 
-
-February 2023: Episode 89 Explaining Generational Discipleship with Dr. Hirt 
-
-https://open.spotify.com/episode/7Hujlyu0Vr2KKtYmEEfOZl?si=u_eGwjWjTUGc7rduHi5qRw 
-
+</details>
  
+<details closed markdown="block">
+  <summary>
+    Church Planting
+  </summary>
+
 ## Church Planting 
 
-August 2020: Episode 12 House Church Matters 
+### August 2020: Episode 12 [House Church Matters](https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ){:target="_blank"}
 
-https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ 
+### September 2020 Episode 15 [Church Planting in the Times of COVID](https://open.spotify.com/episode/0UKJe3d9ATJY73fER2lshV?si=wdgaflIVRFaxDDMVrXfNaA){:target="_blank"}
 
-September 2020 Episode 15 Church Planting in the Times of COVID 
+### September/October 2020: Episodes 17, 18, and 20 Church Planting in Chaotic Circumstances 
 
-https://open.spotify.com/episode/0UKJe3d9ATJY73fER2lshV?si=wdgaflIVRFaxDDMVrXfNaA 
+#### [Part 1](https://open.spotify.com/episode/2jgGK7ml196KPPUgDwGQjM?si=zPeF-Z6SSreyrskimOABVg){:target="_blank"}
 
-September/October 2020: Episodes 17, 18, and 20 Church Planting in Chaotic Circumstances 
+#### [Part 2](https://open.spotify.com/episode/2kxYLmr73qB4rCal0L1fxI?si=5deD9JoCQWqP4GPcnhyKLg){:target="_blank"}
 
-Part 1: https://open.spotify.com/episode/2jgGK7ml196KPPUgDwGQjM?si=zPeF-Z6SSreyrskimOABVg 
+#### [Part 3](https://open.spotify.com/episode/5Z4Ruz38QltKSHtV5Wuhzh?si=OFOlzEbMQAOSciQzbhCUKw){:target="_blank"}
 
-Part 2: https://open.spotify.com/episode/2kxYLmr73qB4rCal0L1fxI?si=5deD9JoCQWqP4GPcnhyKLg 
+### May 2021: Episode 44 [All Churches Can and Should Plant New Churches](https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL?si=x8qDbKunQBqusgeS0P0BLA){:target="_blank"}
 
-Part 3: https://open.spotify.com/episode/5Z4Ruz38QltKSHtV5Wuhzh?si=OFOlzEbMQAOSciQzbhCUKw 
+### February 2024: Episode 116 [How SendNC Helps Churches Plant Churches](https://open.spotify.com/episode/15S3IDCR9HCWq1zGTkUt8e?si=IbDlAIhIQMq2ZX-mcagDJA)
 
-May 2021: Episode 44 All Churches Can and Should Plant New Churches 
+</details>
 
-https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL?si=x8qDbKunQBqusgeS0P0BLA 
-
-February 2024: Episode 116 How SendNC Helps Churches Plant Churches 
-
-https://open.spotify.com/episode/15S3IDCR9HCWq1zGTkUt8e?si=IbDlAIhIQMq2ZX-mcagDJA 
+<details closed markdown="block">
+  <summary>
+    Leadership Development
+  </summary>
 
 ## Leadership Development 
 
-September 2020 Episode 16 Are You a Potential Church Planter? 
+### September 2020 Episode 16 [Are You a Potential Church Planter?](https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw)
 
-https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw 
+### December 2022: Episode 82 [Equipping Leaders for the Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX?si=676fQe4vQKyhWJEGkFXpiA){:target="_blank"}
 
-December 2022: Episode 82 Equipping Leaders for the Missionary Task 
+### October 2023: Episode 103 [How Does Church Growth Fuel Sending? With Andrew Hopper](https://open.spotify.com/episode/1vyJai1uAuTwEgal9LyHMD?si=OyBmiyZMQTOci0fchgV9sg){:target="_blank"}
 
-https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX?si=676fQe4vQKyhWJEGkFXpiA 
+### December 2023: Episode 110 [The Crucial Role of the Church in Developing Missionaries with Meridith Graves](https://open.spotify.com/episode/4nzidLOCX40sDjLtW92nIS?si=mBMF9HEZTIOjZb19OvSpoA){:target="_blank"}
 
-October 2023: Episode 103 How Does Church Growth Fuel Sending? With Andrew Hopper 
+</details>
 
-https://open.spotify.com/episode/1vyJai1uAuTwEgal9LyHMD?si=OyBmiyZMQTOci0fchgV9sg 
-
-December 2023: Episode 110 The Crucial Role of the Church in Developing Missionaries with Meridith Graves 
-
-https://open.spotify.com/episode/4nzidLOCX40sDjLtW92nIS?si=mBMF9HEZTIOjZb19OvSpoA 
-
+<details closed markdown="block">
+  <summary>
+    Interviews
+  </summary>
 
 ## Interviews 
 
-July 2020: Episode 8 One Hope 
+### July 2020: Episode 8 [One Hope](https://open.spotify.com/episode/2ZPgfYNUNdCelQtUbcYsxj?si=bEISbQ9PTQSwYMJvO5qHng){:target="_blank"}
 
-https://open.spotify.com/episode/2ZPgfYNUNdCelQtUbcYsxj?si=bEISbQ9PTQSwYMJvO5qHng 
+### August 2020: Episodes 10-11 Getting to Know Our LDS Neighbors 
 
-August 2020: Episodes 10-11 Getting to Know Our LDS Neighbors 
+#### [Part 1](https://open.spotify.com/episode/7lELXtVs2Ooi0CdrXesr02?si=gdBN6_2PRDeW7Z7PQmqtDA){:target="_blank"}
 
-Part 1: https://open.spotify.com/episode/7lELXtVs2Ooi0CdrXesr02?si=gdBN6_2PRDeW7Z7PQmqtDA 
+#### [Part 2](https://open.spotify.com/episode/2ZnhWk91t7IDEwOYzutvmH?si=pPbECIcOR8Kjd8CnWvBHIA){:target="_blank"}
 
-Part 2: https://open.spotify.com/episode/2ZnhWk91t7IDEwOYzutvmH?si=pPbECIcOR8Kjd8CnWvBHIA 
+### October 2020: Episode 21 [Before You Vote with David Platt](https://open.spotify.com/episode/7uGHJk5JRgMRgrRqACtUJA?si=hAgw9YnCRd-ASveFjbzJqg){:target="_blank"}
 
-October 2020: Episode 21 Before You Vote with David Platt 
+### December 2020: Episode 28 [Lottie Moon Christmas Offering with Dr. Akin](https://open.spotify.com/episode/6hDX7PG8cb4HRTHhrMmxli?si=4fj_-9bwSjy3Pp-Hh0nkXg){:target="_blank"}
 
-https://open.spotify.com/episode/7uGHJk5JRgMRgrRqACtUJA?si=hAgw9YnCRd-ASveFjbzJqg 
+### January 2021: Episode 29 [The Importance of Missions with Dr. Braswell](https://open.spotify.com/episode/55q1FMuKxbvdlLXN8O6HzK?si=RtA7p_RwSs6IkRDbrVMADA){:target="_blank"}
 
-December 2020: Episode 28 Lottie Moon Christmas Offering with Dr. Akin 
+### September 2021: Episode 47 [When Doors Close with Carol Ghattas](https://open.spotify.com/episode/5HX5lzbTgZ9hHwsKGkHoKk?si=Yqy6CciHSVGQ2ZnYdhN48w){:target="_blank"}
 
-https://open.spotify.com/episode/6hDX7PG8cb4HRTHhrMmxli?si=4fj_-9bwSjy3Pp-Hh0nkXg 
+### September 2021: Episode 50 [Fill the Tank Sunday with Todd Unzicker](https://open.spotify.com/episode/2Kv5xDfgHEG9eG8m4b6OxB?si=zSpJyyc8SCWhnxskr6e0ZA){:target="_blank"}
 
-January 2021: Episode 29 The Importance of Missions with Dr. Braswell 
+### April 2022: Episode 66 [The Real Cost of Social Media](https://open.spotify.com/episode/5htz3XcpEBeTR9l7P4yEGK?si=PzTOAlRGQnKO4FaEJlKZfg){:target="_blank"}
 
-https://open.spotify.com/episode/55q1FMuKxbvdlLXN8O6HzK?si=RtA7p_RwSs6IkRDbrVMADA 
+### November 2022: Episode 77 [Using Advent Block to Glorify Christ](https://open.spotify.com/episode/6rAeOraZMrGN2aKye05Nfj?si=FS44shbAQ925burRZecocg){:target="_blank"}
 
-September 2021: Episode 47 When Doors Close with Carol Ghattas 
+### March 2023: Episode 94 [The Realities of Social Media with Chris Martin](https://open.spotify.com/episode/7rd95RNnxTR8C2HMV8klZy?si=2AlCbw0dSOGzt-ReK2R_3g){:target="_blank"}
 
-https://open.spotify.com/episode/5HX5lzbTgZ9hHwsKGkHoKk?si=Yqy6CciHSVGQ2ZnYdhN48w 
+### October 2023: Episode 102 [Biblical Translation and the Great Commission with Dr. Quarles](https://open.spotify.com/episode/2eYubfkNCF9yaLICBLW4Ox?si=_89hrAgmS3eHQbl8g8OYbA){:target="_blank"}
 
-September 2021: Episode 50 Fill the Tank Sunday with Todd Unzicker 
+### November 2023: Episode 107 [Lottie Moon: The Girl Who Reached the World with Dr. Amy Whitfield](https://open.spotify.com/episode/4RtmB7brUpfnddsyaM0XqB?si=X-4e2UFsTt-DU4TH3MOh3Q){:target="_blank"}
 
-https://open.spotify.com/episode/2Kv5xDfgHEG9eG8m4b6OxB?si=zSpJyyc8SCWhnxskr6e0ZA 
+### December 2023: Episode 109 [Visual Learning and Missions with Walter Bowen](https://open.spotify.com/episode/7MGiFFacV3lNLLG0wlBwWD?si=lKT7SdGhSjOpi7gZKAfWVg){:target="_blank"}
 
-April 2022: Episode 66 The Real Cost of Social Media 
+### March 2024: Episode 117 [How to Talk to Our Kids about the Great Commission with Meredith Cook](https://open.spotify.com/episode/181OfybJL9jYL7WpxDYeND?si=0BCBKr6PQ_-_thVlN456Wg){:target="_blank"}
 
-https://open.spotify.com/episode/5htz3XcpEBeTR9l7P4yEGK?si=PzTOAlRGQnKO4FaEJlKZfg 
+### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
 
-November 2022: Episode 77 Using Advent Block to Glorify Christ 
+</details>
 
-https://open.spotify.com/episode/6rAeOraZMrGN2aKye05Nfj?si=FS44shbAQ925burRZecocg 
-
-March 2023: Episode 94 The Realities of Social Media with Chris Martin 
-
-https://open.spotify.com/episode/7rd95RNnxTR8C2HMV8klZy?si=2AlCbw0dSOGzt-ReK2R_3g 
-
-October 2023: Episode 102 Biblical Translation and the Great Commission with Dr. Quarles 
-
-https://open.spotify.com/episode/2eYubfkNCF9yaLICBLW4Ox?si=_89hrAgmS3eHQbl8g8OYbA 
-
-November 2023: Episode 107 Lottie Moon: The Girl Who Reached the World with Dr. Amy Whitfield 
-
-https://open.spotify.com/episode/4RtmB7brUpfnddsyaM0XqB?si=X-4e2UFsTt-DU4TH3MOh3Q 
-
-December 2023: Episode 109 Visual Learning and Missions with Walter Bowen 
-
-https://open.spotify.com/episode/7MGiFFacV3lNLLG0wlBwWD?si=lKT7SdGhSjOpi7gZKAfWVg 
-
-March 2024: Episode 117 How to Talk to Our Kids about the Great Commission with Meredith Cook 
-
-https://open.spotify.com/episode/181OfybJL9jYL7WpxDYeND?si=0BCBKr6PQ_-_thVlN456Wg 
-
-March 2024: Episode 118 Language Learning and Missions with George Watts 
-
-https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ 
+<details closed markdown="block">
+  <summary>
+    Short-Term Mission Trips
+  </summary>
 
 ## Short-Term Mission Trips (STMs) 
 
@@ -270,7 +251,12 @@ April 2024: Episode 121 The Value of STMs with Walter Bowen
 
 https://open.spotify.com/episode/0bz74DoLcbDueTqKUVAfGr?si=rs3xwDnhSryV4HeeJ5VveA 
 
- 
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Missionary Care
+  </summary> 
 
 ## Missionary Care 
 
@@ -304,7 +290,12 @@ November 2023: Episode 108 Identifying and Addressing Burnout in Ministry with D
 
 https://open.spotify.com/episode/4m2mpvuuwa5Cs41Na6uaFR?si=MQelIgs3RxudN98Idyd6yA 
 
- 
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Theology and Missions
+  </summary>
 
 ## Theology and Missions 
 
@@ -376,6 +367,13 @@ June 2024: Episode 126 Culture and Worldview
 
 https://open.spotify.com/episode/2cmBf8yQvybJr7UQGJ1j80?si=_gDbQ1TBQbq9kOYnQBIqmw 
 
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Prayer
+  </summary>
+
 ## Prayer 
 
 February 2021: Episodes 33 and 34 How can I serve with Missionaries Through Prayer? 
@@ -395,6 +393,13 @@ https://open.spotify.com/episode/1I49bX78ersnfJQbqCJPQO?si=Tf3hb8ILTbm6PgfUEcB5I
 April 2023: Episode 97 The Effectiveness of Prayer Walking 
 
 https://open.spotify.com/episode/70jsY0QH8eLSez23DcEEpN?si=VlGI7FhDQT-Wqx59L6QvHA 
+
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Global Church
+  </summary>
 
 ## Global Church 
 
@@ -466,6 +471,13 @@ August 2023: Summer Episode, From the Four Corners: The Unassuming Evangelical G
 
 https://open.spotify.com/episode/6KLfuUKIgjgXQP3DdTLQef?si=XkBmsHwqRj2S8mnGtDJP7A 
 
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Church History
+  </summary>
+
 ## Church History 
 
 September 2021: Episode 49 Luther, the Call of Christ, and COVID 
@@ -476,6 +488,12 @@ April 2024: Episode 122 Church History and Missions with Dr. Eccher
 
 https://open.spotify.com/episode/3eZFo0K06g774IZeGCQODJ?si=zy61wnuQQ82EClDhH7wzLQ 
 
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Cooperation/SBC
+  </summary>
  
 
 ## Cooperation/SBC 
@@ -503,6 +521,13 @@ https://open.spotify.com/episode/66X5Yx9KYWSPxZWFyWThdG?si=F1QCku2_SAmNsfROqGTYv
 June 2022: Episode 72 Together We Go: FAQs About the Annual Meeting 
 
 https://open.spotify.com/episode/1mnH9io4KCu8ZDrWMcvXCC?si=NNhqAEIJROSxeT7SeUqYdg 
+
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Misc
+  </summary>
 
 ## Misc 
 
@@ -557,3 +582,5 @@ https://open.spotify.com/episode/7E0JOw7zdoVemoTmlzdOli?si=Vjxy7E8tR2mDkL7lbC4gN
 February 2024: Episode 114 The Questions Students are Asking about Missions 
 
 https://open.spotify.com/episode/32ePZ0rUrlU2wFonUX6WMB?si=wF4HXXyaTyqcSe6qvnNc2w 
+
+</details>
