@@ -27,9 +27,8 @@ nav_order: 3
 
 <details closed markdown="block">
   <summary>
-    Calling
+    CALLING
   </summary>
-  {: .text-delta }
 
 ## Calling 
 
