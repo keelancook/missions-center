@@ -13,3 +13,6 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
+
+<!-- Dark mode for the CSS -->
+<!-- @import "./color_schemes/dark"; -->
