@@ -44,119 +44,77 @@ nav_order: 3
 
 </details>
 
+<details closed markdown="block">
+  <summary>
+    Evangelism
+  </summary>
+
 ## Evangelism 
 
-July 2020: Episode 7 Sharing Jesus without Freaking Out 
+### July 2020: Episode 7 [Sharing Jesus without Freaking Out](https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ){:target="_blank"}
 
-https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ 
+### July 2020: Episode 9 [Helping Your Church Engage the Community](https://open.spotify.com/episode/0cgyOsrgaMLwjcTI5pCydz?si=VsctzpeyRIyy_V2S5MJ90A){:target="_blank"}
 
-July 2020: Episode 9 Helping Your Church Engage the Community 
+### March 2021: Episode 35 [Mission as Hospitality](https://open.spotify.com/episode/0wrz7q2Glknm5kk0fEG5ok?si=hdiEulxQRTer9IkMieuQNw){:target="_blank"}
 
-https://open.spotify.com/episode/0cgyOsrgaMLwjcTI5pCydz?si=VsctzpeyRIyy_V2S5MJ90A 
+### November 2021: Episode 54 [Embracing the Discomfort of Evangelism](https://open.spotify.com/episode/1Pkhmijer98QlHQK54527J?si=_9f_eBwPSdCE6Bu8jOjS4Q){:target="_blank"}
 
-March 2021: Episode 35 Mission as Hospitality 
+### December 2021: Episode 58 [Selfish Holidays? Or Christ-Centered Holidays?](https://open.spotify.com/episode/6glqyCNbL9KLfXqJLPZCed?si=TZVz8VPMQi6-4qpuk8HZeA){:target="_blank"}
 
-https://open.spotify.com/episode/0wrz7q2Glknm5kk0fEG5ok?si=hdiEulxQRTer9IkMieuQNw 
+### January 2022: Episode 59 [Making the Most out of a New Year](https://open.spotify.com/episode/3OPNUIliQB05WjfNMqqOM3?si=IoW3QXGxRcqJRIYphkT7CA){:target="_blank"}
 
-November 2021: Episode 54 Embracing the Discomfort of Evangelism 
+### January 2022: Episode 60 [Who’s Your One?](https://open.spotify.com/episode/6ZqhXacfuzS1UXfwsQGFN9?si=6ic4JVJXSk-4bRhHJqWo8A){:target="_blank"}
 
-https://open.spotify.com/episode/1Pkhmijer98QlHQK54527J?si=_9f_eBwPSdCE6Bu8jOjS4Q 
+### February 2022: Episode 62 [Cross-Cultural Evangelism](https://open.spotify.com/episode/54WKGWv3nhuPMpkl2EoZKl?si=NqMvMcBHQ7qYZMvLFV2kPA){:target="_blank"}
 
-December 2021: Episode 58 Selfish Holidays? Or Christ-Centered Holidays? 
+### January 2023: Episode 84 [Using Evangelism to Fulfill the Great Commission](https://open.spotify.com/episode/5Vx0gdcirp7oHlFbKzsJwH?si=z1L9IGc_T_iQiHWbhILXyQ){:target="_blank"}
 
-https://open.spotify.com/episode/6glqyCNbL9KLfXqJLPZCed?si=TZVz8VPMQi6-4qpuk8HZeA 
+### March 2023: Episode 90 [Evangelism as a Team Effort](https://open.spotify.com/episode/2ozvdTbQ4VMCmZMEnSRZFg?si=mDpXDDfLS1GiAH14l8pB1g){:target="_blank"}
 
-January 2022: Episode 59 Making the Most out of a New Year 
+### March 2023: Episode 92 [How to Practically Share Your Faith with Dr. Beougher](https://open.spotify.com/episode/0j7oQyEPPEDBYM5lwgKUUp?si=tvSiElhKS6qlR3m0CZSz9Q){:target="_blank"}
 
-https://open.spotify.com/episode/3OPNUIliQB05WjfNMqqOM3?si=IoW3QXGxRcqJRIYphkT7CA 
+### April 2023: Episode 95 [Leveraging Your Easter Weekend](https://open.spotify.com/episode/6J0vghpQr0ILDjiUnoQeOV?si=BX8jxN7RSFqe-6uRH3m03A){:target="_blank"}
 
-January 2022: Episode 60 Who’s Your One? 
+### April 2023: Episode 96 [Practical Tools for Effective Evangelism](https://open.spotify.com/episode/6okBASfIOd9d6dD412vNbk?si=ijB4pQmzRaKgX0i1Rqk0zg){:target="_blank"}
 
-https://open.spotify.com/episode/6ZqhXacfuzS1UXfwsQGFN9?si=6ic4JVJXSk-4bRhHJqWo8A 
+### April 2023: Episode 98 [How the Church Can Engage Their Communities](https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl?si=VxUCIW-jQXmn5PAfKEx7Yw){:target="_blank"}
 
-February 2022: Episode 62 Cross-Cultural Evangelism 
+### May 2023: Episode 99 [NAMB Evangelism Strategies with Dr. Kevin Ezell](https://open.spotify.com/episode/5Ihnx7cK8dEDufCA6JHHan?si=J88MWePvTvyGPb_8qQfUGA){:target="_blank"}
 
-https://open.spotify.com/episode/54WKGWv3nhuPMpkl2EoZKl?si=NqMvMcBHQ7qYZMvLFV2kPA 
+### May 2023: Episode 100 [How Well is Your Church Doing with Evangelism? With Dr. Lawless](https://open.spotify.com/episode/2u82XRlp4KGET7r12xCzbZ?si=trHwzerGQKibvE1MDv2YtQ){:target="_blank"}
 
-January 2023: Episode 84 Using Evangelism to Fulfill the Great Commission 
+### December 2023: Episode 111 [Leveraging Your Christmas for the Great Commission](https://open.spotify.com/episode/43HM7DBisxOyA7NgMnfdTy?si=-UfRHBOQQPqTgOb9rFUa9g){:target="_blank"}
 
-https://open.spotify.com/episode/5Vx0gdcirp7oHlFbKzsJwH?si=z1L9IGc_T_iQiHWbhILXyQ 
+### January 2024: Episode 112 [Equipping Church Members to Share the Gospel with Jerry McCorkle](https://open.spotify.com/episode/64scLz7Upl8iXqVlI72tBJ?si=v54oxK6lQYmu9rh1L7Su8g){:target="_blank"}
 
-March 2023: Episode 90 Evangelism as a Team Effort 
+### February 2024: Episode 113 [Using the Gospel as a Filter for Ministry Relationships](https://open.spotify.com/episode/0WQha4AcugjvzD7G9LAarg?si=eMup5k-TS9uYv6vEA0CqhA){:target="_blank"}
 
-https://open.spotify.com/episode/2ozvdTbQ4VMCmZMEnSRZFg?si=mDpXDDfLS1GiAH14l8pB1g 
+### March 2024: Episode 119 [The Bible as our Best Evangelism Tool](https://open.spotify.com/episode/67jSYf3LbTaQf09AmO6AYF?si=6ZXbZV3tS6ybDWw0cBL08Q){:target="_blank"}
 
-March 2023: Episode 92 How to Practically Share Your Faith with Dr. Beougher 
+### April 2024: Episode 123 [Cultivating a Lifestyle of Evangelism with Timothy Waters](https://open.spotify.com/episode/2twpKpKh3GUJA8zCDbxebe?si=PQj3HELLSwGZmKCr2bGAtQ){:target="_blank"}
 
-https://open.spotify.com/episode/0j7oQyEPPEDBYM5lwgKUUp?si=tvSiElhKS6qlR3m0CZSz9Q 
+### May 2024: Episode 125 [Leveraging Your Summer for the Great Commission](https://open.spotify.com/episode/2pBlKQvoYb8AEpt6xTY4g7?si=cgOEoImKRcOiPOjvR6ZxKg){:target="_blank"}
 
-April 2023: Episode 95 Leveraging Your Easter Weekend 
+</details>
 
-https://open.spotify.com/episode/6J0vghpQr0ILDjiUnoQeOV?si=BX8jxN7RSFqe-6uRH3m03A 
-
-April 2023: Episode 96 Practical Tools for Effective Evangelism 
-
-https://open.spotify.com/episode/6okBASfIOd9d6dD412vNbk?si=ijB4pQmzRaKgX0i1Rqk0zg 
-
-April 2023: Episode 98 How the Church Can Engage Their Communities 
-
-https://open.spotify.com/episode/1tKNm7LSH4UBsOqCwWzOtl?si=VxUCIW-jQXmn5PAfKEx7Yw 
-
-May 2023: Episode 99 NAMB Evangelism Strategies with Dr. Kevin Ezell 
-
-https://open.spotify.com/episode/5Ihnx7cK8dEDufCA6JHHan?si=J88MWePvTvyGPb_8qQfUGA 
-
-May 2023: Episode 100 How Well is Your Church Doing with Evangelism? With Dr. Lawless 
-
-https://open.spotify.com/episode/2u82XRlp4KGET7r12xCzbZ?si=trHwzerGQKibvE1MDv2YtQ 
-
-December 2023: Episode 111 Leveraging Your Christmas for the Great Commission 
-
-https://open.spotify.com/episode/43HM7DBisxOyA7NgMnfdTy?si=-UfRHBOQQPqTgOb9rFUa9g 
-
-January 2024: Episode 112 Equipping Church Members to Share the Gospel with Jerry McCorkle 
-
-https://open.spotify.com/episode/64scLz7Upl8iXqVlI72tBJ?si=v54oxK6lQYmu9rh1L7Su8g 
-
-February 2024: Episode 113: Using the Gospel as a Filter for Ministry Relationships 
-
-https://open.spotify.com/episode/0WQha4AcugjvzD7G9LAarg?si=eMup5k-TS9uYv6vEA0CqhA 
-
-March 2024: Episode 119 The Bible as our Best Evangelism Tool 
-
-https://open.spotify.com/episode/67jSYf3LbTaQf09AmO6AYF?si=6ZXbZV3tS6ybDWw0cBL08Q 
-
-April 2024: Episode 123 Cultivating a Lifestyle of Evangelism with Timothy Waters 
-
-https://open.spotify.com/episode/2twpKpKh3GUJA8zCDbxebe?si=PQj3HELLSwGZmKCr2bGAtQ 
-
-May 2024: Episode 125 Leveraging Your Summer for the Great Commission 
-
-https://open.spotify.com/episode/2pBlKQvoYb8AEpt6xTY4g7?si=cgOEoImKRcOiPOjvR6ZxKg 
+<details closed markdown="block">
+  <summary>
+    Engaging Cross-Culturally
+  </summary>
 
 ## Engaging Cross-Culturally 
 
-March 2021: Episode 38 Go and Tell ESL 
+### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
 
-https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q 
+### October 2021: Episode 52 [Sharing the Gospel with our Muslim Neighbors](https://open.spotify.com/episode/1brIEMEQ9VuT2em8A8IdHS?si=YjrjAOiRRDqa3V-a9jUXKg){:target="_blank"}
 
-October 2021: Episode 52 Sharing the Gospel with our Muslim Neighbors 
+### December 2021: Episode 57 [Reaching People from Different Cultures](https://open.spotify.com/episode/7E9Z1nBaNquyukdXQzFkZa?si=NSHqI56yR62VIVJd1nd0QQ)
 
-https://open.spotify.com/episode/1brIEMEQ9VuT2em8A8IdHS?si=YjrjAOiRRDqa3V-a9jUXKg 
+### March 2023: Episode 93 [Evangelizing our Foreign-Born Neighbors](https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u?si=6IY-NrKXS-6BDvj3UxZoaA){:target="_blank"}
 
-December 2021: Episode 57 Reaching People from Different Cultures 
+### May 2024: Episode 124 [Engaging Internationals on the Field and In Our Communities](https://open.spotify.com/episode/3FbICqqaSsxXw2ZNdNI28X?si=4Dcdp3vRRLODrE4N3IdWnA){:target="_blank"}
 
-https://open.spotify.com/episode/7E9Z1nBaNquyukdXQzFkZa?si=NSHqI56yR62VIVJd1nd0QQ 
-
-March 2023: Episode 93 Evangelizing our Foreign-Born Neighbors 
-
-https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u?si=6IY-NrKXS-6BDvj3UxZoaA 
-
-May 2024: Episode 124 Engaging Internationals on the Field and In Our Communities 
-
-https://open.spotify.com/episode/3FbICqqaSsxXw2ZNdNI28X?si=4Dcdp3vRRLODrE4N3IdWnA 
-
- 
+</details>
 
 ## Discipleship 
 
