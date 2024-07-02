@@ -30,8 +30,6 @@ nav_order: 3
     Calling
   </summary>
   {: .text-delta }
-1. TOC
-{:toc}
 
 ## Calling 
 
