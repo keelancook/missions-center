@@ -20,17 +20,20 @@ nav_order: 3
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
-Interview{: .label .label-purple } 
+Interview
+{: .label .label-purple } 
 
 #### January 2021: Episode 30 [Seeking and Discerning the Call to Gospel Ministry](https://open.spotify.com/episode/0xw9bcFPgxlb6ae3J5OdTD?si=7aqQhXHUQLGcAACpJtNjGg){:target="_blank"}
 
 #### April 2021: Episode 43 [What’s My Next Step to the Mission Field? The IMB (International Mission Board) Process](https://open.spotify.com/episode/43rELE7it0LARnFSTE8DvG?si=AlKVFy0uSDe84vu0THz9PQ){:target="_blank"}
-Interview{: .label .label-purple } 
+Interview
+{: .label .label-purple } 
 
 #### March 2022: Episode 64 [Calling Out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO?si=7fcWCsVbQYWaAXscdzvmEQ){:target="_blank"}
 
 #### October 2023: Episode 104 [How do I get from Calling to the Mission Field? With Rick Fraley](https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg){:target="_blank"}
-Interview{: .label .label-purple } 
+Interview
+{: .label .label-purple } 
 
 ---
 
