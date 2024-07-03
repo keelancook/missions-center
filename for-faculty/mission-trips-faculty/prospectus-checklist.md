@@ -56,6 +56,7 @@ Listed below is a checklist of information that you will need before you submit 
 
 ### Initial Prospectus Checklist PDF
 
+
 For a downloadable PDF of this checklist, [click here.](/files/Initial%20Prospectus%20Checklist.pdf){:target="_blank"}
 
 ---
