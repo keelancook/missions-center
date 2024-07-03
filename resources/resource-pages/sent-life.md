@@ -20,14 +20,19 @@ nav_order: 3
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
+Interview{: .label .label-purple } 
 
 #### January 2021: Episode 30 [Seeking and Discerning the Call to Gospel Ministry](https://open.spotify.com/episode/0xw9bcFPgxlb6ae3J5OdTD?si=7aqQhXHUQLGcAACpJtNjGg){:target="_blank"}
 
 #### April 2021: Episode 43 [What’s My Next Step to the Mission Field? The IMB (International Mission Board) Process](https://open.spotify.com/episode/43rELE7it0LARnFSTE8DvG?si=AlKVFy0uSDe84vu0THz9PQ){:target="_blank"}
+Interview{: .label .label-purple } 
 
 #### March 2022: Episode 64 [Calling Out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO?si=7fcWCsVbQYWaAXscdzvmEQ){:target="_blank"}
 
 #### October 2023: Episode 104 [How do I get from Calling to the Mission Field? With Rick Fraley](https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg){:target="_blank"}
+Interview{: .label .label-purple } 
+
+---
 
 </details>
 
@@ -80,6 +85,8 @@ nav_order: 3
 
 #### May 2024: Episode 125 [Leveraging Your Summer for the Great Commission](https://open.spotify.com/episode/2pBlKQvoYb8AEpt6xTY4g7?si=cgOEoImKRcOiPOjvR6ZxKg){:target="_blank"}
 
+---
+
 </details>
 
 <details closed markdown="block">
@@ -97,6 +104,8 @@ nav_order: 3
 
 #### May 2024: Episode 124 [Engaging Internationals on the Field and In Our Communities](https://open.spotify.com/episode/3FbICqqaSsxXw2ZNdNI28X?si=4Dcdp3vRRLODrE4N3IdWnA){:target="_blank"}
 
+---
+
 </details>
 
 <details closed markdown="block">
@@ -109,6 +118,8 @@ nav_order: 3
 #### February 2023: Episode 87 [Explaining Generational Discipleship with Dr. Robinson](https://open.spotify.com/episode/7zHAhGJlzllZhJn2uUdR66?si=3KxkPr51QdCCWQB6EkAQRA){:target="_blank"}
 
 #### February 2023: Episode 89 [Explaining Generational Discipleship with Dr. Hirt](https://open.spotify.com/episode/7Hujlyu0Vr2KKtYmEEfOZl?si=u_eGwjWjTUGc7rduHi5qRw){:target="_blank"}
+
+---
 
 </details>
  
@@ -133,6 +144,8 @@ nav_order: 3
 
 #### February 2024: Episode 116 [How SendNC Helps Churches Plant Churches](https://open.spotify.com/episode/15S3IDCR9HCWq1zGTkUt8e?si=IbDlAIhIQMq2ZX-mcagDJA)
 
+---
+
 </details>
 
 <details closed markdown="block">
@@ -147,6 +160,8 @@ nav_order: 3
 #### October 2023: Episode 103 [How Does Church Growth Fuel Sending? With Andrew Hopper](https://open.spotify.com/episode/1vyJai1uAuTwEgal9LyHMD?si=OyBmiyZMQTOci0fchgV9sg){:target="_blank"}
 
 #### December 2023: Episode 110 [The Crucial Role of the Church in Developing Missionaries with Meridith Graves](https://open.spotify.com/episode/4nzidLOCX40sDjLtW92nIS?si=mBMF9HEZTIOjZb19OvSpoA){:target="_blank"}
+
+---
 
 </details>
 
@@ -189,6 +204,8 @@ nav_order: 3
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
 
+---
+
 </details>
 
 <details closed markdown="block">
@@ -209,6 +226,8 @@ nav_order: 3
 #### April 2024: Episode 120 [The Value of STMs with Chloe and William](https://open.spotify.com/episode/455tqdodxbMTNms0ScrXf3?si=-KXbdU4TSE2jF0kw-5-ijQ){:target="_blank"}
 
 #### April 2024: Episode 121 [The Value of STMs with Walter Bowen](https://open.spotify.com/episode/0bz74DoLcbDueTqKUVAfGr?si=rs3xwDnhSryV4HeeJ5VveA){:target="_blank"}
+
+---
 
 </details>
 
@@ -236,6 +255,8 @@ nav_order: 3
 #### December 2022: Episode 83 [Caring for Sent Ones During the Holiday Season](https://open.spotify.com/episode/2dC1ADHm8gJ0P1RLVGHaaS?si=ycGKCCWHTVOsOrHlP7zBBg){:target="_blank"}
 
 #### November 2023: Episode 108 [Identifying and Addressing Burnout in Ministry with Dr. Tate Cockrell](https://open.spotify.com/episode/4m2mpvuuwa5Cs41Na6uaFR?si=MQelIgs3RxudN98Idyd6yA){:target="_blank"}
+
+---
 
 </details>
 
@@ -278,6 +299,8 @@ nav_order: 3
 
 #### June 2024: Episode 126 [Culture and Worldview](https://open.spotify.com/episode/2cmBf8yQvybJr7UQGJ1j80?si=_gDbQ1TBQbq9kOYnQBIqmw){:target="_blank"}
 
+---
+
 </details>
 
 <details closed markdown="block">
@@ -296,6 +319,8 @@ nav_order: 3
 #### March 2023: Episode 91 [Praying for Mission Trips](https://open.spotify.com/episode/1I49bX78ersnfJQbqCJPQO?si=Tf3hb8ILTbm6PgfUEcB5Ig){:target="_blank"}
 
 #### April 2023: Episode 97 [The Effectiveness of Prayer Walking](https://open.spotify.com/episode/70jsY0QH8eLSez23DcEEpN?si=VlGI7FhDQT-Wqx59L6QvHA){:target="_blank"}
+
+---
 
 </details>
 
@@ -338,6 +363,8 @@ nav_order: 3
 
 #### August 2023: Summer Episode, [From the Four Corners: The Unassuming Evangelical Giant](https://open.spotify.com/episode/6KLfuUKIgjgXQP3DdTLQef?si=XkBmsHwqRj2S8mnGtDJP7A){:target="_blank"}
 
+---
+
 </details>
 
 <details closed markdown="block">
@@ -348,6 +375,8 @@ nav_order: 3
 #### September 2021: Episode 49 [Luther, the Call of Christ, and COVID](https://open.spotify.com/episode/5AvXW6DTzDKyzEeDl3Jp32?si=Kgym-mFVSw6Y6Wk_0_ulWQ){:target="_blank"}
 
 #### April 2024: Episode 122 [Church History and Missions with Dr. Eccher](https://open.spotify.com/episode/3eZFo0K06g774IZeGCQODJ?si=zy61wnuQQ82EClDhH7wzLQ){:target="_blank"}
+
+---
 
 </details>
 
@@ -368,6 +397,8 @@ nav_order: 3
 #### June 2022: Episode 71 [Together We Go: History of Cooperation](https://open.spotify.com/episode/66X5Yx9KYWSPxZWFyWThdG?si=F1QCku2_SAmNsfROqGTYvQ){:target="_blank"}
 
 #### June 2022: Episode 72 [Together We Go: FAQs About the Annual Meeting](https://open.spotify.com/episode/1mnH9io4KCu8ZDrWMcvXCC?si=NNhqAEIJROSxeT7SeUqYdg){:target="_blank"}
+
+---
 
 </details>
 
@@ -401,6 +432,8 @@ nav_order: 3
 #### October 2022: Episode 73 [Reboot: Mapping the Future](https://open.spotify.com/episode/7E0JOw7zdoVemoTmlzdOli?si=Vjxy7E8tR2mDkL7lbC4gNg){:target="_blank"}
 
 #### February 2024: Episode 114 [The Questions Students are Asking about Missions](https://open.spotify.com/episode/32ePZ0rUrlU2wFonUX6WMB?si=wF4HXXyaTyqcSe6qvnNc2w){:target="_blank"}
+
+---
 
 </details>
 
