@@ -6,7 +6,7 @@ author: Lane Willis
 date: 2024-06-27
 parent: Resources
 nav_order: 3
-url: sentlife
+permalink: sentlife
 
 ---
 
