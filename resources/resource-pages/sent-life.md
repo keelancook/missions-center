@@ -6,6 +6,7 @@ author: Lane Willis
 date: 2024-06-27
 parent: Resources
 nav_order: 3
+url: sentlife
 
 ---
 
@@ -16,24 +17,19 @@ nav_order: 3
 
 <details closed markdown="block">
   <summary>
-    Calling
+    Calling (5)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
-Interview
-{: .label .label-purple } 
 
 #### January 2021: Episode 30 [Seeking and Discerning the Call to Gospel Ministry](https://open.spotify.com/episode/0xw9bcFPgxlb6ae3J5OdTD?si=7aqQhXHUQLGcAACpJtNjGg){:target="_blank"}
 
 #### April 2021: Episode 43 [What’s My Next Step to the Mission Field? The IMB (International Mission Board) Process](https://open.spotify.com/episode/43rELE7it0LARnFSTE8DvG?si=AlKVFy0uSDe84vu0THz9PQ){:target="_blank"}
-Interview
-{: .label .label-purple } 
 
 #### March 2022: Episode 64 [Calling Out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO?si=7fcWCsVbQYWaAXscdzvmEQ){:target="_blank"}
 
 #### October 2023: Episode 104 [How do I get from Calling to the Mission Field? With Rick Fraley](https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg){:target="_blank"}
-Interview
-{: .label .label-purple } 
+
 
 ---
 
@@ -41,7 +37,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Evangelism
+    Evangelism (22)
   </summary>
 
 #### July 2020: Episode 7 [Sharing Jesus without Freaking Out](https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ){:target="_blank"}
@@ -94,7 +90,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally
+    Engaging Cross-Culturally (5)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -113,7 +109,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Discipleship
+    Discipleship (3)
   </summary>
 
 #### October 2021: Episode 51 [Using Bible in Disciple-Making](https://open.spotify.com/episode/2tZcQEynY2xmSfsCnJGZo8?si=vgL-h6J1SaqVIADjA5cxGw){:target="_blank"}
@@ -128,7 +124,7 @@ Interview
  
 <details closed markdown="block">
   <summary>
-    Church Planting
+    Church Planting (7)
   </summary>
 
 #### August 2020: Episode 12 [House Church Matters](https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ){:target="_blank"}
@@ -153,7 +149,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Leadership Development
+    Leadership Development (4)
   </summary>
 
 #### September 2020 Episode 16 [Are You a Potential Church Planter?](https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw)
@@ -170,7 +166,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Interviews
+    Interviews (16)
   </summary>
 
 #### July 2020: Episode 8 [One Hope](https://open.spotify.com/episode/2ZPgfYNUNdCelQtUbcYsxj?si=bEISbQ9PTQSwYMJvO5qHng){:target="_blank"}
@@ -213,7 +209,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Short-Term Mission Trips
+    Short-Term Mission Trips (7)
   </summary>
 
 #### June 2020: Episode 2 [Critical Questions for STMs](https://open.spotify.com/episode/05UFbBuu6jsYNtFc1CJXY1?si=i2ggBgqPTUCmVKvOMyT2-Q){:target="_blank"}
@@ -236,7 +232,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Missionary Care
+    Missionary Care (9)
   </summary> 
 
 #### November 2020: Episode 23 [Missionary Care and Counseling](https://open.spotify.com/episode/039oTSOUaD31h6j39a5Lcz?si=Ut1H9qLzSNe-It9d1aMf2w)
@@ -251,9 +247,9 @@ Interview
 
 ##### [Part 2](https://open.spotify.com/episode/1iCVpBdjfmdqMngI0wMlnd?si=o64eDE3iTF2oLjQUrW-dlA){:target="_blank"}
 
-##### Part 3: https://open.spotify.com/episode/4cCiJIPjwSbfHRfZWwsER5?si=Y10JR_6vRrO4aa7Ma3UbTg 
+##### [Part 3](https://open.spotify.com/episode/4cCiJIPjwSbfHRfZWwsER5?si=Y10JR_6vRrO4aa7Ma3UbTg){:target="_blank"}
 
-##### Part 4: https://open.spotify.com/episode/3C1tiQfv6xN4ErgXW0EY5K?si=RZhMBK8kSle6ZE631vz_rA 
+##### [Part 4](https://open.spotify.com/episode/3C1tiQfv6xN4ErgXW0EY5K?si=RZhMBK8kSle6ZE631vz_rA){:target="_blank"}
 
 #### December 2022: Episode 83 [Caring for Sent Ones During the Holiday Season](https://open.spotify.com/episode/2dC1ADHm8gJ0P1RLVGHaaS?si=ycGKCCWHTVOsOrHlP7zBBg){:target="_blank"}
 
@@ -265,7 +261,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions
+    Theology and Missions (17)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -308,7 +304,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Prayer
+    Prayer (5)
   </summary>
 
 #### February 2021: Episodes 33 and 34 How can I serve with Missionaries Through Prayer?
@@ -329,7 +325,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Global Church
+    Global Church (17)
   </summary>
 
 #### June 2020: Episode 3 [The Persecuted Church](https://open.spotify.com/episode/7L4ZrWBaoDi0JD0e4vxDtA?si=cHAapRS5R0e5UkSMZe5QoQ){:target="_blank"}
@@ -372,7 +368,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Church History
+    Church History (2)
   </summary> 
 
 #### September 2021: Episode 49 [Luther, the Call of Christ, and COVID](https://open.spotify.com/episode/5AvXW6DTzDKyzEeDl3Jp32?si=Kgym-mFVSw6Y6Wk_0_ulWQ){:target="_blank"}
@@ -385,7 +381,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Cooperation/SBC
+    Cooperation/SBC (6)
   </summary>
  
 
@@ -407,7 +403,7 @@ Interview
 
 <details closed markdown="block">
   <summary>
-    Misc
+    Misc (13)
   </summary>
 
 #### August 2020: Episode 13 [Gentrification](https://open.spotify.com/episode/2o0NveJuwFNbqFMwzp24Ht?si=BzlWX6r_QfuCc-j2xzKeMg\){:target="_blank"}

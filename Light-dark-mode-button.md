@@ -16,3 +16,9 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 <!-- Dark mode for the CSS -->
 <!-- @import "./color_schemes/dark"; -->
+
+
+Label Examples:
+
+Interview
+{: .label .label-purple } 
