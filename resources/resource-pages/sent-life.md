@@ -298,6 +298,8 @@ permalink: sentlife
 
 #### June 2024: Episode 126 [Culture and Worldview](https://open.spotify.com/episode/2cmBf8yQvybJr7UQGJ1j80?si=_gDbQ1TBQbq9kOYnQBIqmw){:target="_blank"}
 
+#### July 2024: Episode 127 [Diaspora Missions](https://open.spotify.com/episode/3W1c7tZOwmUBu3DOTDFfdx?si=t3FqVQgQQAObW1B6RTkiXg){:target="_blank"}
+
 ---
 
 </details>
