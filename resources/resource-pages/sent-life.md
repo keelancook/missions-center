@@ -189,7 +189,7 @@ permalink: sentlife
 
 #### April 2022: Episode 66 [The Real Cost of Social Media](https://open.spotify.com/episode/5htz3XcpEBeTR9l7P4yEGK?si=PzTOAlRGQnKO4FaEJlKZfg){:target="_blank"}
 
-#### November 2022: Episode 77 [Using Advent Block to Glorify Christ](https://open.spotify.com/episode/6rAeOraZMrGN2aKye05Nfj?si=FS44shbAQ925burRZecocg){:target="_blank"}
+#### November 2022: Episode 77 [Using Advent Blocks to Glorify Christ](https://open.spotify.com/episode/6rAeOraZMrGN2aKye05Nfj?si=FS44shbAQ925burRZecocg){:target="_blank"}
 
 #### March 2023: Episode 94 [The Realities of Social Media with Chris Martin](https://open.spotify.com/episode/7rd95RNnxTR8C2HMV8klZy?si=2AlCbw0dSOGzt-ReK2R_3g){:target="_blank"}
 
