@@ -19,7 +19,7 @@ What in the world is markdown? Well, thanks for asking. Markdown is a simple and
 [Extended Syntax](https://www.markdownguide.org/extended-syntax/){:target="_blank"}  
 [Markdown Tutorial](https://www.markdowntutorial.com/){:target="_blank"}  
 
-Why am I telling you this again? Well, it is because GitHub (and many other applications) utilize markdown and are able to convert these plaintext elements into formatting elements. This is quite a useful and simple language for you to learn and apply in many facets of your life. So you might as well start learning!
+Why am I telling you this again? Well, it is because GitHub (and many other applications) utilizes markdown and is able to convert these plaintext elements into formatting elements. This is quite a useful and simple language for you to learn and apply in many facets of your life. So you might as well start learning!
 
 ---
 
