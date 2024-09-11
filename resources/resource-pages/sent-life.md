@@ -30,6 +30,8 @@ permalink: sentlife
 
 #### October 2023: Episode 104 [How do I get from Calling to the Mission Field? With Rick Fraley](https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg){:target="_blank"}
 
+#### August 2024: Episode 128 [Before You Go with Dr. Matthew Bennett](https://open.spotify.com/episode/6C7bfdj1uBQ6fVjSHUARsY?si=3a23bba1570a4dd4){:target="_blank"}
+
 
 ---
 
@@ -203,6 +205,8 @@ permalink: sentlife
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
 
+#### September 2024: Episode 130 [The Missional Significance of Associations with Bob Bickford](https://open.spotify.com/episode/0arj5gCJxTXLr616f9hz2j?si=4c5c584fa94d4920){:target="_blank"}
+
 ---
 
 </details>
@@ -320,6 +324,8 @@ permalink: sentlife
 #### March 2023: Episode 91 [Praying for Mission Trips](https://open.spotify.com/episode/1I49bX78ersnfJQbqCJPQO?si=Tf3hb8ILTbm6PgfUEcB5Ig){:target="_blank"}
 
 #### April 2023: Episode 97 [The Effectiveness of Prayer Walking](https://open.spotify.com/episode/70jsY0QH8eLSez23DcEEpN?si=VlGI7FhDQT-Wqx59L6QvHA){:target="_blank"}
+
+#### September 2024: Episode 129 [What is Prayer Walking?](https://open.spotify.com/episode/5pDWTA2ufLzWYLJjieuuWt?si=3dJXVzRgRLSLrpNtTxDYoA){:target="_blank"}
 
 ---
 
