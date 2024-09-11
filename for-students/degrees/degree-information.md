@@ -26,18 +26,7 @@ created: 2022-10-13
 
 ---
 
-![Coming Soon Banner](https://i.imgur.com/pxK8WAn.png)
-
-
-Feel free to check back on this page at a later date. If you would like to contact us directly, feel free to do so at [our main website](https://thecgcs.org){:target="_blank"}.
-
----
-
-## Undergraduate
-
-## Graduate
-
-## Advanced
+Our main website, thecgcs.org, has a great graphic about the degrees offered. This will be the best place to find out information about missions degrees. To find out more, **[click here](https://www.thecgcs.org/missions-degrees/){:target="_blank"}.**
 
 ---
 
