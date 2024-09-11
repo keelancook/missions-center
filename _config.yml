@@ -9,7 +9,7 @@ nav_external_links_new_tab: true
 logo:
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "/assets/images/favicon.ico"
+favicon_ico: "favicon.ico"
 
 callouts:
   highlight:
