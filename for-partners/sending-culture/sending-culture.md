@@ -257,3 +257,7 @@ If you were to go to the field, how would you like the church to support you? Wo
 ---
 
 [Return to Partnerships Home](/for-partners/partnerships-home.html)
+
+---
+
+Bibliography
