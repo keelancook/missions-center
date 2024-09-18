@@ -14,7 +14,7 @@ Welcome to the Mission Trip home page! This space is a repository for our docume
 {: .important }
 This will not be the place where we advertise or promote new mission trips. You can find that information on [the main website](https://thecgcs.org/trips){:target="_blank"}.
 
-> [!Important]
+> [!IMPORTANT]
 > This will not be the place where we advertise or promote new mission trips. You can find that information on [the main website](https://thecgcs.org/trips){:target="_blank"}.
 
 If you would like to contact us directly, feel free to do so [here](https://thecgcs.org/contact/){:target="_blank"}.
