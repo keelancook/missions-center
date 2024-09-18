@@ -103,7 +103,9 @@ To start dripping missions, your church does not have to be a specific size. You
 
 At some point, the issue of size and money may come up, especially when thinking about taking short-term trips, supporting missionaries, or equipping missionaries. Do not worry. You are not alone. One idea is to link arms with other churches that are in similar stations and send a missionary together. Cooperate and jointly do the work! In this way, churches of all sizes and ages can participate in the sending process!
 
-Stephen Witmer, in his article, [*How A Small Church Can Be a Sending Church*](https://www.thegospelcoalition.org/article/small-church-sending/){:target="_blank"}, puts it this way: "Let’s be honest, small churches. If we’re not as fruitful in global missions as we could be, it’s not because our numbers are too small. It’s because our passion for the global glory of Christ is too small. Our concern for those who die apart from him is too small. Our willingness to be inconvenienced and to give sacrificially is too small." We must be willing to put it all on the line for the sake of King Jesus!
+Stephen Witmer, in his article, [*How A Small Church Can Be a Sending Church*](https://www.thegospelcoalition.org/article/small-church-sending/){:target="_blank"}, puts it this way: "Let’s be honest, small churches. If we’re not as fruitful in global missions as we could be, it’s not because our numbers are too small. It’s because our passion for the global glory of Christ is too small. Our concern for those who die apart from him is too small. Our willingness to be inconvenienced and to give sacrificially is too small."[^1] We must be willing to put it all on the line for the sake of King Jesus!
+
+[^1]: [*How A Small Church Can Be a Sending Church* by Stephen Witmer](https://www.thegospelcoalition.org/article/small-church-sending/){:target="_blank"}
 
 ---
 
