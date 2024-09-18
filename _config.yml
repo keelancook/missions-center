@@ -11,6 +11,12 @@ logo:
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "favicon.ico"
 
+# Google Analytics Tracking
+# Supports a CSV of tracking ID strings
+ga_tracking: G-G77H6T2XDQ
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+
 callouts:
   highlight:
     color: yellow
