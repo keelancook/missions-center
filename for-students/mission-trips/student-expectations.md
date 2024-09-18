@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission Trips » Student Expectations
+title: Student Expectations
 author: CGCS
 parent: Mission Trips
 grand_parent: For Students

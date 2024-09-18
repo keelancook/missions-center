@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission Trips » Professor FAQ
+title: Professor FAQ
 author: Keelan Cook
 parent: Mission Trips
 grand_parent: For Faculty

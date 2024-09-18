@@ -10,9 +10,6 @@ permalink: trips
 
 ---
 
-![Three Student Banner](/assets/images/tshirt-images/three%20student%20t-shirt%20banner.jpg)
-
-
 Welcome to the Student Mission Trip home page! This space is a repository for our documentation and manuals for mission trips provided through the [Center for Great Commission Studies](https://thecgcs.org){:target="_blank"}. This space is specifically for students! There is a lot of information and many frequently asked questions, so we wanted to provide a place online where students can get the information they need!
 
 {: .important }

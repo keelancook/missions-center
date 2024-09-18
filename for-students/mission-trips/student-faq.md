@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission Trips » Student FAQ
+title: Student FAQ
 author: Keelan Cook
 parent: Mission Trips
 grand_parent: For Students

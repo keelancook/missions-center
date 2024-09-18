@@ -26,7 +26,9 @@ created: 2022-10-13
 
 ---
 
-Our main website, thecgcs.org, has a great graphic about the degrees offered. This will be the best place to find out information about missions degrees. To find out more, **[click here](https://www.thecgcs.org/missions-degrees/){:target="_blank"}.**
+Our main website, thecgcs.org, has a great graphic about the degrees offered. This will be the best a good place to find out information about missions degrees. To find out more, **[click here](https://www.thecgcs.org/missions-degrees/){:target="_blank"}.**  
+
+The SEBTS Website also has a new page about our missions degrees. I would encourage you to visit this page also! You can access that page by **[clicking here](https://www.sebts.edu/prepared-for-missions/){:target="_blank"}**.
 
 ---
 
