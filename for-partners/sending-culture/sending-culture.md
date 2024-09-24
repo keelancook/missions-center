@@ -134,6 +134,7 @@ As a sequel to his above article, Keelan Cook has written, [*How One Church Prep
 We also have some introductory material made available for cohorts. Cohorts are groups formed around a similar calling for the purpose of training and equipping. Check out the links below to see how you might be able to implement a cohort into your equipping process.
 
 [Cohort Introduction](/imb/pathways-imb-intro.html){:target="_blank"}  
+[Cohort Simplified Introduction](https://keelan.wiki/wiki/Courses/Sending+Cohort){:target="_blank"}  
 [Cohort Instructional Guide](/imb/pathways-imb-instructional-guide.html){:target="_blank"}  
 [Cohort Syllabus](/imb/imb-semester-1-syllabus.html){:target="_blank"}  
 [Cohort FAQ](/imb/pathways-imb-faq.html){:target="_blank"}
@@ -243,6 +244,9 @@ If you were to go to the field, how would you like the church to support you? Wo
 * [Three Principles for Developing a Sending Culture in Your Church](https://www.imb.org/2018/10/24/principles-developing-sending-culture/){:target="_blank"} by William Whaley
 * [The Missional Church](https://redeemercitytocity.com/articles-stories/the-missional-church){:target="_blank"} by Tim Keller
 * [The Local Church and Missionary Sending](https://rtim.org/the-local-church-and-missionary-sending/){:target="_blank"} by Brian Pate
+* [Training Missionaries versus Training Pastors](https://www.imb.org/2018/10/08/training-missionaries-vs-training-pastors/){:target="_blank"} by Zane Pratt
+* [How to Say No or Not Yet to Missionary Candidates](https://www.theupstreamcollective.org/post/how-to-say-no-or-not-yet-to-missionary-candidates){:target="_blank"} by Ryan Martin
+* [I might be Interested in Missions](https://catalystservices.org/wp-content/uploads/2024/07/I-Might-Be-Interested-In-Missions-Postings-July-2024.pdf){:target="_blank"} by Ellen Livingood
 
 
 ### Podcasts

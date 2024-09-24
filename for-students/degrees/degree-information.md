@@ -10,23 +10,10 @@ created: 2022-10-13
 ---
 
 # Missions Degrees
-{: .no_toc }
 
 ---
 
-<details closed markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
-
----
-
-Our main website, thecgcs.org, has a great graphic about the degrees offered. This will be the best a good place to find out information about missions degrees. To find out more, **[click here](https://www.thecgcs.org/missions-degrees/){:target="_blank"}.**  
+Our main website, thecgcs.org, has a great graphic about the degrees offered. This will be the best place to find out information about missions degrees. To find out more, **[click here](https://www.thecgcs.org/missions-degrees/){:target="_blank"}.**  
 
 The SEBTS Website also has a new page about our missions degrees. I would encourage you to visit this page also! You can access that page by **[clicking here](https://www.sebts.edu/prepared-for-missions/){:target="_blank"}**.
 
