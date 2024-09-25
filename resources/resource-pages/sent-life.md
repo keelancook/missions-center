@@ -120,6 +120,8 @@ permalink: sentlife
 
 #### February 2023: Episode 89 [Explaining Generational Discipleship with Dr. Hirt](https://open.spotify.com/episode/7Hujlyu0Vr2KKtYmEEfOZl?si=u_eGwjWjTUGc7rduHi5qRw){:target="_blank"}
 
+#### September 2024: Episode 131 [What is a Disciple?](https://open.spotify.com/episode/11CfYa5CwDWFT9VN2DJW3r?si=WmOzPKkcS-qJMlJpDWzDUQ){:target="_blank"}
+
 ---
 
 </details>
@@ -303,6 +305,8 @@ permalink: sentlife
 #### June 2024: Episode 126 [Culture and Worldview](https://open.spotify.com/episode/2cmBf8yQvybJr7UQGJ1j80?si=_gDbQ1TBQbq9kOYnQBIqmw){:target="_blank"}
 
 #### July 2024: Episode 127 [Diaspora Missions](https://open.spotify.com/episode/3W1c7tZOwmUBu3DOTDFfdx?si=t3FqVQgQQAObW1B6RTkiXg){:target="_blank"}
+
+#### September 2024: Episode 132 [Challenges and Opportunities in North American Missions with Trevin Wax](https://open.spotify.com/episode/3ZhszAiUJz4pT8Rbqmz5iP?si=bjqbhFGgSB6n-W_89mAB0A){:target="_blank"}
 
 ---
 
