@@ -36,6 +36,22 @@ For a good visual of these opportunities, **[click here.](https://www.thecgcs.or
 4. Journeyman
 5. GenSend Summer
 
+### International Missions Practicum Classes
+- MIS3901
+    - Open to any undergraduate students who are on the field 30+ consecutive days
+- ICS4901
+    - Open to BA Global Studies students, and must be a student when doing the practicum.
+    - This trip is meant to be significantly cross-cultural.
+    - Student must be overseas 30+ consecutive days.
+    - Recommended to do with ICS4902
+- ICS4902
+    - Same as above, but this is a 60+ day trip bringing ICS4901/4902 total to 90+ days.
+- MIS6901
+    - Open to any graduate students who are on the field 30+ consecutive days
+    - This practicum is also open to journeyman who have returned from the field.
+- MIS6902
+    - Open to any graduate student on the field 60+ consecutive days. These 60 days cannot include the 30 days used for MIS6901, but it can be part of a 90+ day trip.
+
 ---
 
 [Return to Student Home Page](/students)
