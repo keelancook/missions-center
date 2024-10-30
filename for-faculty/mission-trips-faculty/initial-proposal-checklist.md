@@ -1,0 +1,71 @@
+---
+layout: page
+title: Initial Proposal
+Author: Lane Willis
+Date: 2023-07-12
+parent: Mission Trips
+grand_parent: For Faculty
+nav_order: 3
+
+---
+
+# Initial Proposal
+{: .no_toc }
+
+---
+
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
+## Initial Proposal Checklist
+
+---
+
+The Center for Great Commission Studies (CGCS) sponsors several mission trips each year. We go, literally, around the globe. Some trips will focus on evangelizing the lost, while others will concentrate on discipling national leaders to reach their own people. Some trips will be to unreached people groups, while others will be to fields yielding a great harvest. At the center of this variety, however, is a unifying focus: that healthy, reproductive churches are planted among every people group of the world. SEBTS mission trips aim primarily to equip students to fulfill their lifetime roles in the Great Commission and, secondarily, to assist IMB missionaries in their strategic tasks. Considering this goal, professors are encouraged to organize trips in conjunction with IMB and/or NAMB personnel. Those wishing to organize trips through other field partners must seek approval and offer justification for such trips in the mission trip proposal.
+
+Faculty and adjuncts can submit a proposal for a trip fitting the overall goals and focus of SEBTS mission trips. The Director and the Associate Director of the CGCS review all mission trip proposals. Therefore, professors must submit their initial proposal to the CGCS at least **one calendar year** before the date of the trip. This timeline allows professors and students to plan for the trip, for SEBTS to advertise the trip, and for travel agents to find acceptable ticket fares. Please address any questions to the CGCS about how to prepare this mission trip proposal.
+
+---
+
+Listed below is a checklist of information that you will need before you submit a mission trip proposal with us. To accurately fill out the mission trip proposal, please ensure that all information is detailed and fully filled out. There is a downloadable PDF of this list below.
+
+- [ ] Proposed trip dates
+- [ ] Trip location
+- [ ] Estimated Number of Students
+- [ ] Justification for selected location and target audience
+- [ ] Justification if not working with Company or NAMB
+- [ ] Trip's purpose. Specific details are needed, as this is used to promote the trips.
+- [ ] Strategy outline
+- [ ] Visa Information (Do those entering need a visa, and if so, what is the cost?)
+- [ ] Immunization information
+- [ ] Flight information (proposed itinerary and cost)
+- [ ] Housing Options (Informed by team on the ground)
+- [ ] Food Options (Informed by team on the ground)
+- [ ] In-Country/On the Ground Options (Informed by team on the ground)
+
+---
+
+### Initial Prospectus Checklist PDF
+
+
+For a downloadable PDF of this checklist, [click here.](/files/Initial%20Prospectus%20Checklist.pdf){:target="_blank"}
+
+---
+
+### Initial Prospectus Form
+
+For the **initial mission trip prospectus**, [click here.](https://www.thecgcs.org/proposal/){:target="_blank"}
+
+---
+
+Professors, for more information, check out the [Professor Expectation page](/for-faculty/mission-trips-faculty/professor-expectations.html) and the [Professor FAQ page](/for-faculty/mission-trips-faculty/professor-faq.html).
+
+For more information on student requirements, feel free to check out the [Student Expectations page](/for-students/mission-trips/student-expectations.html) and the [Student FAQ page](/for-students/mission-trips/student-faq.html).

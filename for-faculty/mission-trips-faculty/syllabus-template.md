@@ -5,7 +5,7 @@ Author: Lane Willis
 Date: 2023-07-12
 parent: Mission Trips
 grand_parent: For Faculty
-nav_order: 4
+nav_order: 5
 
 ---
 
