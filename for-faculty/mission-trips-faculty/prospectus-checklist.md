@@ -59,8 +59,9 @@ For a downloadable PDF of this checklist, [click here.](/files/Detailed%20Prospe
 
 ### Detailed Prospectus Link
 
-For the detailed mission trip prospectus [email Walter Bowen](mailto:wbowen@sebts.edu).
-If you want to start on this ahead of time, you can access the prospectus [here]().
+For the detailed mission trip prospectus [email Walter Bowen](mailto:wbowen@sebts.edu).  
+
+If you want to start on this ahead of time, you can access the prospectus [here](https://www.thecgcs.org/detailed-prospectus/).
 
 ---
 

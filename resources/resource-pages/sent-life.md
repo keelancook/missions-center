@@ -105,6 +105,8 @@ permalink: sentlife
 
 #### May 2024: Episode 124 [Engaging Internationals on the Field and In Our Communities](https://open.spotify.com/episode/3FbICqqaSsxXw2ZNdNI28X?si=4Dcdp3vRRLODrE4N3IdWnA){:target="_blank"}
 
+#### October 2024: Episode 135 [Understanding the Refugee Crisis with Walter Bowen](https://open.spotify.com/episode/5kPWA0fmZqE5Om5wECQQRt?si=F1NAJryWS-2emFJ9U_6VDg){:target="_blank"}
+
 ---
 
 </details>
@@ -121,6 +123,10 @@ permalink: sentlife
 #### February 2023: Episode 89 [Explaining Generational Discipleship with Dr. Hirt](https://open.spotify.com/episode/7Hujlyu0Vr2KKtYmEEfOZl?si=u_eGwjWjTUGc7rduHi5qRw){:target="_blank"}
 
 #### September 2024: Episode 131 [What is a Disciple?](https://open.spotify.com/episode/11CfYa5CwDWFT9VN2DJW3r?si=WmOzPKkcS-qJMlJpDWzDUQ){:target="_blank"}
+
+#### October 2024: Episode 133 [How do we Measure Discipleship? with Walter Bowen](https://open.spotify.com/episode/2lPxDFcEKRHHXGqDkxtVRX?si=uy_APRzISmqJvcUYi-Znvw){:target="_blank"}
+
+#### October 2024: Episode 133 [How do we Measure Discipleship? Part 2 with Walter Bowen](https://open.spotify.com/episode/1FqAOg71zImsPUi5tfS2Cd?si=CA62HoBtTBmDFGWiL3NJsQ){:target="_blank"}
 
 ---
 
@@ -408,6 +414,8 @@ permalink: sentlife
 #### June 2022: Episode 71 [Together We Go: History of Cooperation](https://open.spotify.com/episode/66X5Yx9KYWSPxZWFyWThdG?si=F1QCku2_SAmNsfROqGTYvQ){:target="_blank"}
 
 #### June 2022: Episode 72 [Together We Go: FAQs About the Annual Meeting](https://open.spotify.com/episode/1mnH9io4KCu8ZDrWMcvXCC?si=NNhqAEIJROSxeT7SeUqYdg){:target="_blank"}
+
+#### October 2024: Episode 136 [Raising Support for Missions with Drew Davis](https://open.spotify.com/episode/69vNauj1qJE8aq5RjVYeHM?si=JIARKP_aQAqqtwiMiuFtyg){:target="_blank"}
 
 ---
 
