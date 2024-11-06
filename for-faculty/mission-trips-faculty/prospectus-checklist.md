@@ -53,15 +53,13 @@ Listed below is a checklist of information that you will need before you submit 
 
 ### PDF Checklist
 
-For a downloadable PDF of this checklist, [click here.](/files/Detailed%20Prospectus%20Checklist.pdf){:target="_blank"}
+For a downloadable PDF of this checklist, [click here.](/files/detailed-prospectus-checklist.pdf){:target="_blank"}
 
 ---
 
 ### Detailed Prospectus Link
 
-For the detailed mission trip prospectus [email Walter Bowen](mailto:wbowen@sebts.edu).  
-
-If you want to start on this ahead of time, you can access the prospectus [here](https://www.thecgcs.org/detailed-prospectus/).
+If you want to start on the detailed prospectus ahead of time, you can access the prospectus [here](https://www.thecgcs.org/detailed-prospectus/).
 
 ---
 
