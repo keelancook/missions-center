@@ -49,20 +49,20 @@ Listed below is a checklist of information that you will need before you submit 
 - [ ] Flight information (proposed itinerary and cost)
 - [ ] Housing Options (Informed by team on the ground)
 - [ ] Food Options (Informed by team on the ground)
-- [ ] In-Country/On the Ground Options (Informed by team on the ground)
+- [ ] In-Country/On the Ground Travel Options (Informed by team on the ground)
 
 ---
 
 ### Initial Prospectus Checklist PDF
 
 
-For a downloadable PDF of this checklist, [click here.](/files/Initial%20Prospectus%20Checklist.pdf){:target="_blank"}
+For a downloadable PDF of this checklist, [click here.](/files/initial-proposal-checklist.pdf){:target="_blank"}
 
 ---
 
 ### Initial Prospectus Form
 
-For the **initial mission trip prospectus**, [click here.](https://www.thecgcs.org/proposal/){:target="_blank"}
+For the **initial mission trip proposal**, [click here.](https://www.thecgcs.org/proposal/){:target="_blank"}
 
 ---
 
