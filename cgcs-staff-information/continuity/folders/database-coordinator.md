@@ -68,6 +68,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
 * Meet with the IMB Mag role, AD, and other mobilizers to input meetings on the deal pages.
    * This may also include adding pertinent notes about meetings or on student pages.
 * Check reports in HubSpot. Ensure their accuracy.
+* Update Mission Trip Interest Form in HubSpot. This form is accessible throughout the year and is utilized for sending out interest emails. Make sure contacts are always updated.
 
 ### Monthly Tasks
 * Check marketing contacts at the end of the month. Make sure we are not over our limit. Turn some marketing contacts off if we need space. These reset every month. For more information on marketing contacts, [click here](/cgcs-staff-information/hubspot/marketing-emails-hubspot.html)
@@ -176,7 +177,8 @@ Summer Semester:
 5. Student Data Privacy is a primary concern. Make sure this is at the forefront of what you are doing.
 6. Seek ways to serve other staff members. This role is fluid and enables you to do some tasks intermittently.
 7. Be flexible.
-8. When importing multiple checkbox properties (like mission trip attendance), it overrides the selections already made. This is important to note. You WILL LOSE the data you already have if you import only the new data! To avoid this, add a semicolon in front of the first selection you want to add to the property!
+8. **When importing multiple checkbox properties (like mission trip attendance), it overrides the selections already made. This is important to note. You WILL LOSE the data you already have if you import only the new data! To avoid this, add a semicolon in front of the first selection you want to add to the property!**
+9. Be as secure as possible for missionaries with prayer cards. We want to make sure we do not compromise them!
 
 ---
 
