@@ -17,7 +17,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Calling (5)
+    Calling (6)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
@@ -39,7 +39,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Evangelism (22)
+    Evangelism (23)
   </summary>
 
 #### July 2020: Episode 7 [Sharing Jesus without Freaking Out](https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ){:target="_blank"}
@@ -86,13 +86,15 @@ permalink: sentlife
 
 #### May 2024: Episode 125 [Leveraging Your Summer for the Great Commission](https://open.spotify.com/episode/2pBlKQvoYb8AEpt6xTY4g7?si=cgOEoImKRcOiPOjvR6ZxKg){:target="_blank"}
 
+#### November 2024: Episode 139 [Current Trends in Evangelism with Tim Dowdy](https://open.spotify.com/episode/1EZA8z5zuaAo6KNxLQxMut?si=bc08b4b8134c4918){:target="_blank"}
+
 ---
 
 </details>
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (5)
+    Engaging Cross-Culturally (6)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -113,7 +115,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Discipleship (3)
+    Discipleship (6)
   </summary>
 
 #### October 2021: Episode 51 [Using Bible in Disciple-Making](https://open.spotify.com/episode/2tZcQEynY2xmSfsCnJGZo8?si=vgL-h6J1SaqVIADjA5cxGw){:target="_blank"}
@@ -126,7 +128,7 @@ permalink: sentlife
 
 #### October 2024: Episode 133 [How do we Measure Discipleship? with Walter Bowen](https://open.spotify.com/episode/2lPxDFcEKRHHXGqDkxtVRX?si=uy_APRzISmqJvcUYi-Znvw){:target="_blank"}
 
-#### October 2024: Episode 133 [How do we Measure Discipleship? Part 2 with Walter Bowen](https://open.spotify.com/episode/1FqAOg71zImsPUi5tfS2Cd?si=CA62HoBtTBmDFGWiL3NJsQ){:target="_blank"}
+#### October 2024: Episode 134 [How do we Measure Discipleship? Part 2 with Walter Bowen](https://open.spotify.com/episode/1FqAOg71zImsPUi5tfS2Cd?si=CA62HoBtTBmDFGWiL3NJsQ){:target="_blank"}
 
 ---
 
@@ -159,7 +161,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Leadership Development (4)
+    Leadership Development (5)
   </summary>
 
 #### September 2020 Episode 16 [Are You a Potential Church Planter?](https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw)
@@ -169,6 +171,8 @@ permalink: sentlife
 #### October 2023: Episode 103 [How Does Church Growth Fuel Sending? With Andrew Hopper](https://open.spotify.com/episode/1vyJai1uAuTwEgal9LyHMD?si=OyBmiyZMQTOci0fchgV9sg){:target="_blank"}
 
 #### December 2023: Episode 110 [The Crucial Role of the Church in Developing Missionaries with Meridith Graves](https://open.spotify.com/episode/4nzidLOCX40sDjLtW92nIS?si=mBMF9HEZTIOjZb19OvSpoA){:target="_blank"}
+
+#### November 2024: Episode 137 [Exploring Leadership Styles with Jimbo Stewart](https://open.spotify.com/episode/5HfaKrF8DPLJNux3sMN8CS?si=c2ce4900426b4acf){:target="_blank"}
 
 ---
 
@@ -211,9 +215,20 @@ permalink: sentlife
 
 #### March 2024: Episode 117 [How to Talk to Our Kids about the Great Commission with Meredith Cook](https://open.spotify.com/episode/181OfybJL9jYL7WpxDYeND?si=0BCBKr6PQ_-_thVlN456Wg){:target="_blank"}
 
+#### September 2024: Episode 130 [The Missional Significance of Associations with Bob Bickford](https://open.spotify.com/episode/0arj5gCJxTXLr616f9hz2j?si=4c5c584fa94d4920){:target="_blank"}
+
+---
+
+</details>
+
+<details closed markdown="block">
+  <summary>
+    Missionary Stories (2)
+  </summary>
+
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
 
-#### September 2024: Episode 130 [The Missional Significance of Associations with Bob Bickford](https://open.spotify.com/episode/0arj5gCJxTXLr616f9hz2j?si=4c5c584fa94d4920){:target="_blank"}
+#### November 2024: Episode 138 [Lessons from the Mission Field with Walter Bowen](https://open.spotify.com/episode/2PLByU9CAc5YmtpJT5QcB8?si=f86375c99a2d4a10){:target="_blank"}
 
 ---
 
@@ -273,7 +288,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (17)
+    Theology and Missions (19)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -320,7 +335,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Prayer (5)
+    Prayer (6)
   </summary>
 
 #### February 2021: Episodes 33 and 34 How can I serve with Missionaries Through Prayer?
@@ -399,7 +414,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Cooperation/SBC (6)
+    Cooperation/SBC (7)
   </summary>
  
 
