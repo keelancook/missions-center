@@ -139,6 +139,7 @@ List any frequently used documents, books, websites, or regulations that are ess
 * Admissions - Stealey Hall
 * Financial Aid - Ledford
 * HR - Stealey Hall
+* IT - Stealey Hall
 
 [Campus Map](/files/continuity-files/CampusMap.jpeg){: .btn }
 
