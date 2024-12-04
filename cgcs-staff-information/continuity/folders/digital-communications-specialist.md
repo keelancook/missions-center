@@ -157,21 +157,21 @@ List any frequently used documents, books, websites, or regulations that are ess
 [Publication/Website, Link, Notes]: #
 
 ### IMPORTANT WEBSITES:
-The CGCS website: [https://www.thecgcs.org/](https://www.thecgcs.org/){:target="_blank"}
+The CGCS website: [https://www.thecgcs.org/](https://www.thecgcs.org/){:target="_blank"}  
 HootSuite: [https://hootsuite.com/](https://hootsuite.com/){:target="_blank"}
-- You will use this to schedule posts on Facebook.
+- You will use this to schedule posts on Facebook.  
 Adobe Express: [https://new.express.adobe.com/](https://new.express.adobe.com/){:target="_blank"}
 - This is the website you will use to create graphics.
 - There are folders of graphics I have already made for you (GMW 2025).
-- You will also edit the podcast graphic each week with this website.
+- You will also edit the podcast graphic each week with this website.  
 Flickr: [https://www.flickr.com/photos/southeastern/albums](https://www.flickr.com/photos/southeastern/albums){:target="_blank"}
-- This is the main photography website for SEBTS. You will find all the pictures from events here.
+- This is the main photography website for SEBTS. You will find all the pictures from events here.  
 Smugmug: [https://www.smugmug.com/](https://www.smugmug.com/){:target="_blank"}
-- Another photography website. This one is older, so I mainly use this for the photos for our articles. PASSWORD: $outh3astern1950
+- Another photography website. This one is older, so I mainly use this for the photos for our articles. PASSWORD: $outh3astern1950  
 Comms Website: [https://www.sebtscomm.com/](https://www.sebtscomm.com/){:target="_blank"}
-- The SEBTS and Judson Communications Style Guide. You will find all the logos, colors, and fonts we are allowed to use. You can also submit your Communications requests here. (Graphics, Photography, Campus Wide Emails, etc.)
-Grammarly: [https://app.grammarly.com/](https://app.grammarly.com/){:target="_blank"}
-- This has been very helpful for editing our articles. I use it each time I edit an article.
+- The SEBTS and Judson Communications Style Guide. You will find all the logos, colors, and fonts we are allowed to use. You can also submit your Communications requests here. (Graphics, Photography, Campus Wide Emails, etc.)  
+Grammarly: [https://app.grammarly.com/](https://app.grammarly.com/){:target="_blank"}  
+- This has been very helpful for editing our articles. I use it each time I edit an article.  
 IMB Prayer Site: [https://www.imb.org/prayer-list/?searchtype=today&id=prayer-request-761bb5ee-000e-4c1d-ab35-79bbea27b76e:](https://www.imb.org/prayer-list/?searchtype=today&id=prayer-request-761bb5ee-000e-4c1d-ab35-79bbea27b76e:){:target="_blank"}
 
 ### IMPORTANT SPREADSHEETS:
