@@ -17,7 +17,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Calling (6)
+    Calling (7)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
@@ -31,6 +31,8 @@ permalink: sentlife
 #### October 2023: Episode 104 [How do I get from Calling to the Mission Field? With Rick Fraley](https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg){:target="_blank"}
 
 #### August 2024: Episode 128 [Before You Go with Dr. Matthew Bennett](https://open.spotify.com/episode/6C7bfdj1uBQ6fVjSHUARsY?si=3a23bba1570a4dd4){:target="_blank"}
+
+#### December 2024: Episode 140 [Knowing and Doing the Will of God](https://open.spotify.com/episode/6rlgqz6nSB6sYX2GzCZXkr?si=_Kcq-ixPTXGAJhiIzI_nVQ){:target="_blank"}
 
 
 ---
@@ -180,7 +182,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Interviews (16)
+    Interviews (17)
   </summary>
 
 #### July 2020: Episode 8 [One Hope](https://open.spotify.com/episode/2ZPgfYNUNdCelQtUbcYsxj?si=bEISbQ9PTQSwYMJvO5qHng){:target="_blank"}
@@ -216,6 +218,8 @@ permalink: sentlife
 #### March 2024: Episode 117 [How to Talk to Our Kids about the Great Commission with Meredith Cook](https://open.spotify.com/episode/181OfybJL9jYL7WpxDYeND?si=0BCBKr6PQ_-_thVlN456Wg){:target="_blank"}
 
 #### September 2024: Episode 130 [The Missional Significance of Associations with Bob Bickford](https://open.spotify.com/episode/0arj5gCJxTXLr616f9hz2j?si=4c5c584fa94d4920){:target="_blank"}
+
+#### December 2024: Episode 141 [The Lasting Legacy of Lottie Moon with Dr. Danny Akin](https://open.spotify.com/episode/61e2iQIEZLOMnOHxnIVhlE?si=-b5a9XsiQIObZexQSZ4gDQ){:target="_blank"}
 
 ---
 
