@@ -227,12 +227,16 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Stories (2)
+    Missionary Stories (4)
   </summary>
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
 
 #### November 2024: Episode 138 [Lessons from the Mission Field with Walter Bowen](https://open.spotify.com/episode/2PLByU9CAc5YmtpJT5QcB8?si=f86375c99a2d4a10){:target="_blank"}
+
+#### February 2025: Episode 143 [Stories of the Sent: Japan with Daniel Rice](https://open.spotify.com/episode/0EtwWp7Q7asq784h1hu30Q?si=GW1wcO9fQQuCcuS4tZfn8A){:target="_blank"}
+
+#### February 2025: Episode 145 [Stories of the Sent: Navigating Culture Shock with Julie](https://open.spotify.com/episode/4cfRhZqFqZztPJnP9QuMQp?si=v76YbRw4RDWI6JLmqA2drA){:target="_blank"}
 
 ---
 
@@ -332,6 +336,8 @@ permalink: sentlife
 #### July 2024: Episode 127 [Diaspora Missions](https://open.spotify.com/episode/3W1c7tZOwmUBu3DOTDFfdx?si=t3FqVQgQQAObW1B6RTkiXg){:target="_blank"}
 
 #### September 2024: Episode 132 [Challenges and Opportunities in North American Missions with Trevin Wax](https://open.spotify.com/episode/3ZhszAiUJz4pT8Rbqmz5iP?si=bjqbhFGgSB6n-W_89mAB0A){:target="_blank"}
+
+#### February 2025: Episode 144 [Beyond Borders: Virtual Reality and Digital Engagement in Japen with Daniel Rice](https://open.spotify.com/episode/6Bx8RmY9AE1FhfLRXwZCvE?si=t_2H0nQ7Rm-coIS-i2MgVg){:target="_blank"}
 
 ---
 
@@ -470,6 +476,8 @@ permalink: sentlife
 #### October 2022: Episode 73 [Reboot: Mapping the Future](https://open.spotify.com/episode/7E0JOw7zdoVemoTmlzdOli?si=Vjxy7E8tR2mDkL7lbC4gNg){:target="_blank"}
 
 #### February 2024: Episode 114 [The Questions Students are Asking about Missions](https://open.spotify.com/episode/32ePZ0rUrlU2wFonUX6WMB?si=wF4HXXyaTyqcSe6qvnNc2w){:target="_blank"}
+
+#### February 2025: Episode 142 [You Don't Want to Miss This Season of The Sent Life!](https://open.spotify.com/episode/5H3fvSocBDnw4c3pxfjQ1W?si=RPYTk59BSpy5egbu9JgyUg){:target="_blank"}
 
 ---
 
