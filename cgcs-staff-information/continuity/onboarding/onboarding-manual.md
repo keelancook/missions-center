@@ -39,7 +39,7 @@ The mission of the CGCS exists to mobilize and equip students, faculty, and staf
 The 5-Year plan of the CGCS can be found [here.](/files/5-Year%20Plan.pdf){:target="_blank"} 
 
 ## Who are the current staff members at the CGCS?
-The CGCS has 9 staff members. For an overview of our staff, [click here.](https://www.thecgcs.org/about/){:target="_blank"} On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.
+The CGCS has 10 staff members. For an overview of our staff, [click here.](https://www.thecgcs.org/about/){:target="_blank"} On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.
 
 ## What tools are currently used by the CGCS?
 The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, Workflowy, HedgeDoc, Nextcloud, Paycom, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
@@ -100,7 +100,95 @@ Why yes! Keelan enjoys a quiz put out by Predictable Success that looks at manag
 
 [Predictable Success Quiz](https://predictablesuccess.com/styles-quiz/){: .btn }{:target="_blank"}
 
-For more information on the Predictable Success Quiz, [click here](https://workflowy.com/s/predictable-success/XpjM85gk55HKKGmM).
+### Predictable Success Resources
+
+- [Learning Center Home > Predictable Success - predictablesuccess.com](https://predictablesuccess.com/online-learning-center/)
+- **==Explainer Videos by Scale Architects==**
+  - *Scale Architects appears to be some consulting firm that relies heavily on Predictable Success in their consulting. I assume they are some licensed coach in the process and getting a kickback off any sales of the courses. However, it also appears they've taken large portions of the material and broken it down into 3-4 minute videos which are pretty helpful for getting a flyover of this whole thing for free.*
+  - [Scale Architects](https://invidious.snopyta.org/channel/UChLj9yjac5P7UMFxoWuG8Zw?page=3)
+  - [Promo - The 7 Stages of the Corporate Lifecycle](https://invidious.snopyta.org/watch?v=L4-bf-zhc3M)
+  - Leadership Types
+    - Visionary Videos
+      - [Introducing the Visionary Leader - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=A-6RbvGtIyA)
+      - [Getting to know the Visionary - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=wB6pVgJo-nk)
+      - [Visionaries struggle IN teams - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=RbkGDu9cwls)
+      - [Becoming a brilliant Visionary - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=ZQTkaKlnajw)
+    - Operator Videos
+      - [Introducing the Operator Leader - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=jfoqBiOkiuU)
+        - Notes
+          - Hamster Wheel
+          - Moves quickly from task to task instead of focusing on what is important/personal growth
+      - [Getting to know the Operator - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=Y186ghHmCW8)
+        - Notes
+          - Takes ideas to implementation
+          - Focused on finishing and fixing
+          - Endorphins come from checking off a task list
+          - Never ending to do list
+          - Support visionaries and prefer it that way
+          - Want to take action now
+          - Natural born fire fighters
+          - Tell me what to do and don't watch
+          - Get the job done but it's not pretty
+      - [The challenges of leadership Operator - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=rQ2g9sAqOnE)
+        - Notes
+          - Least likely to play nice with others- gets stuff done no matter what collateral damage
+          - Actively avoid meetings
+          - Annoyed at visionary's ideas and processor's need for precision
+          - Overcommit
+          - Self importance and esteem comes from being needed and productive
+          - Rarely slows down to find a repeatable solution
+          - Difficult to delegate
+          - Bottleneck for the team- burns candle at both ends yet can't keep up
+      - [Becoming a Brilliant Operator - Invidious - invidious.snopyta.org](https://invidious.snopyta.org/watch?v=2qxIJV--sLM)
+        - Notes
+          - Show up
+            - Make talking to others a checklist item
+            - Engage- not simply be present
+          - Shift focus to team-based results (in my case, family)
+            - Shift mindset to my own results to family achieving their results
+            - My part extends to the work of the whole
+          - Learn to love the system
+            - Make it up as you go doesn't scale- have to implement systems and processes
+            - The right system is better than no system at all 
+            - We, not I
+            - Stop resisting new ways of doing things
+    - Processor Videos
+      - [Introducing the Processor Leader](https://invidious.snopyta.org/watch?v=iexVATeFsHg)
+      - [Getting to know the Processor](https://invidious.snopyta.org/watch?v=5Fi3JoOfsFQ)
+      - [The challenges of Processor leadership](https://invidious.snopyta.org/watch?v=x6GAVUJQ72Y)
+      - [Becoming a brilliant Processor ](https://invidious.snopyta.org/watch?v=xzs-QgX_ds4)
+    - Synergist Videos
+      - [Introducing the Synergist Leader](https://invidious.snopyta.org/watch?v=5JVOj2Dz_Tg)
+      - [Getting to know the Synergist](https://invidious.snopyta.org/watch?v=Hku-c0kQPZ4)
+      - [The challenges of Synergist leadership](https://invidious.snopyta.org/watch?v=vYYrAURRWhc)
+      - [Becoming a brilliant Synergist](https://invidious.snopyta.org/watch?v=orrnSxfTpF8)
+    - Team Dynamics
+      - [Building a brilliant leadership team](https://invidious.snopyta.org/watch?v=qRMghOXq0Bw)
+      - [How to get the right people in the right seats](https://invidious.snopyta.org/watch?v=GVVG_bt2XYA)
+      - [Five ways to solve your people problems ](https://invidious.snopyta.org/watch?v=TJA5451vans)
+      - [The first step to solving your people problems](https://invidious.snopyta.org/watch?v=Mt0ygc0loMA)
+      - [Do your leaders know the 20 most powerful words in business](https://invidious.snopyta.org/watch?v=jirsEPIQjzQ)
+      - [How to architect leadership](https://invidious.snopyta.org/watch?v=Ag9f2CJlGQQ)
+      - [The 9 essential skills for 21st century leadership](https://invidious.snopyta.org/watch?v=f2q0jF_xFi8)
+      - [Fast track cross functionality with a cross functional team](https://invidious.snopyta.org/watch?v=DCxtpIUqbQA)
+      - [How to get everyone thinking like leaders](https://invidious.snopyta.org/watch?v=4pbpBSqOEh0)
+      - [What leaders do you need on the team](https://invidious.snopyta.org/watch?v=e03fVaTGUqc)
+  - Decision-making Videos
+    - [Where are you making decisions](https://invidious.snopyta.org/watch?v=r4CmbDxUPfE)
+    - [The incredible power of team based decision making](https://invidious.snopyta.org/watch?v=mCeL_PefBss)
+    - [Five ways to align every person and every action within your company](https://invidious.snopyta.org/watch?v=5W8xGch7HCk)
+    - [How to tune the engine of your decision making machine ](https://invidious.snopyta.org/watch?v=BVwI4e0tRAY)
+  - Methods, Strategies, and Tactics
+    - [Why setting Strategies isn’t your job as the leader](https://invidious.snopyta.org/watch?v=ldmjYBwPjXw)
+    - [The glorious freedom in letting go of Tactics](https://invidious.snopyta.org/watch?v=PQXEDNLZpxM)
+    - [How your employees can be happier AND more productive](https://invidious.snopyta.org/watch?v=mT3W-h7XgLo)
+  - Delegation
+    - [Five ways to truly empower your people](https://invidious.snopyta.org/watch?v=a87wfeMBUiI)
+    - [Why delegating didn’t work and how to fix it](https://invidious.snopyta.org/watch?v=rA7fXN0a1H4)
+    - [Don’t delegate unless you also schedule time for feedback](https://invidious.snopyta.org/watch?v=RdPlnNsd5xU)
+    - [To delegate effectively, start small ](https://invidious.snopyta.org/watch?v=gYq_cfXFqis)
+    - [Why your expectations are the problem, not your people](https://invidious.snopyta.org/watch?v=6p2DRXQPKcI)
+
 
 ## What expectations do you have of me as an employee?
 As an office, we have certain expectations of our employees. In your job description, you will see your personal responsibilities and expectations. These are sectioned off and found under job purpose, essential responsibilities, other responsibilities, knowledge and skills, public contact, physical demands, and working conditions. On top of these expectations, the office and school also have some general expectations of you as an employee.
