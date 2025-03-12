@@ -14,7 +14,7 @@ has_toc: false
 # Onboarding Manual
 {: .no_toc }
 
-**Last Update:** September 2023
+**Last Update to this Page:** March 2025
 
 ---
 
@@ -36,16 +36,16 @@ At its core, the Center for Great Commission Studies is the missions hub of Sout
 The mission of the CGCS exists to mobilize and equip students, faculty, and staff in the fulfillment of the Great Commission. We accomplish this in the classroom, in our community, and among the nations in partnership with local churches, state conventions, NAMB, and the Company.
 
 ## What does the 5-year plan of the CGCS look like?
-The 5-Year plan of the CGCS can be found [here.](/files/5-Year%20Plan.pdf){:target="_blank"} 
+The 5-Year plan of the CGCS can be found [here.](https://hackmd.io/@cgcs/SyM-yyZEye){:target="_blank"} 
 
 ## Who are the current staff members at the CGCS?
 The CGCS has 10 staff members. For an overview of our staff, [click here.](https://www.thecgcs.org/about/){:target="_blank"} On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.
 
 ## What tools are currently used by the CGCS?
-The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, Workflowy, HedgeDoc, Nextcloud, Paycom, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
+The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, Workflowy, HackMD, Nextcloud, Paycom, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
 
 ### Todoist
-Todoist is a task management software that the CGCS uses to designate and organize tasks. For features and more information about Todoist, [click here.](https://todoist.com/features){:target="_blank"} You can create your own login and profile for free! It is easy to use, intuitive, and has great features. If you don't have a task manager, I would recommend this one to you!
+Todoist is a task management software that the you can use to designate and organize tasks. For features and more information about Todoist, [click here.](https://todoist.com/features){:target="_blank"} You can create your own login and profile for free! It is easy to use, intuitive, and has great features. If you don't have a task manager, I would recommend this one to you!
 
 ### HubSpot
 HubSpot is a software that connects a team's marketing and sales tools to a CRM Database. **[Click here](https://knowledge.hubspot.com/get-started){:target="_blank"}** for a link to HubSpot's knowledge base to get started. HubSpot has an incredible knowledge base themselves that enables people to seek out answers easily. Be sure to make use of this material! For other information on The CGCS Docs about HubSpot, follow [this link.](/cgcs-staff-information/hubspot/hubspot.html)
@@ -57,10 +57,10 @@ WordPress is where we currently host our [marketing site.](thecgcs.org){:target=
 GitHub is the host of our documentation site: [The CGCS Docs.](missions.center){:target="_blank"} This is a free online site builder that allows developers to communicate with one another as they build sites and host information. There is a wide range of templates and possibilities for GitHub. To learn more, [click here.](/cgcs-staff-information/github/github.html)
 
 ### Workflowy
-Workflowy is a tool that Keelan uses to host random sets of information that you might utilize while in the office. It is a free organizational tool that allows you to take notes, make lists, collaborate, and brainstorm. It is basically a digital notebook with endless cascading options that allow you to zoom in on one topic or look at many topics at the same time. To learn more about Workflowy, [click here.](https://workflowy.com/learn/){:target="_blank"}
+Workflowy is a tool that Keelan uses to host sets of information that you will utilize while in the office. It is a free organizational tool that allows you to take notes, make lists, collaborate, and brainstorm. It is basically a digital notebook with endless cascading options that allow you to zoom in on one topic or look at many topics at the same time. To learn more about Workflowy, [click here.](https://workflowy.com/learn/){:target="_blank"} Before creating your profile, have someone in the office send you a referral link.
 
-### HedgeDoc
-HedgeDoc is a GitHub built tool that lets you utilize markdown in a note-taking software. Keelan utilizes this to hold some working documents for the CGCS. To find out more about HedgeDoc, [click here.](https://docs.hedgedoc.org/){:target="_blank"}
+### HackMD
+HackMD is a tool that lets you utilize markdown in a note-taking/documentation software. Keelan utilizes this to hold some working documents for the CGCS. To find out more about HackMD, [click here.](https://hackmd.io/c/tutorials/%2Fs%2Ftutorials/){:target="_blank"}
 
 ### Nextcloud
 Nextcloud is another tool that Keelan uses as a storage space for documentation. They have their own "office" of applications like Microsoft and Google. He may add you as a user to this tool, depending on your role. For more information about Nextcloud, [click here.](https://nextcloud.com/about/){:target="_blank"}
