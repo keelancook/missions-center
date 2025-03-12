@@ -100,6 +100,8 @@ Why yes! Keelan enjoys a quiz put out by Predictable Success that looks at manag
 
 [Predictable Success Quiz](https://predictablesuccess.com/styles-quiz/){: .btn }{:target="_blank"}
 
+For more information on the Predictable Success Quiz, [click here](https://workflowy.com/s/predictable-success/XpjM85gk55HKKGmM).
+
 ## What expectations do you have of me as an employee?
 As an office, we have certain expectations of our employees. In your job description, you will see your personal responsibilities and expectations. These are sectioned off and found under job purpose, essential responsibilities, other responsibilities, knowledge and skills, public contact, physical demands, and working conditions. On top of these expectations, the office and school also have some general expectations of you as an employee.
 
