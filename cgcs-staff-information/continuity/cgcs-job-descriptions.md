@@ -37,7 +37,7 @@ Below are the current job descriptions for employees within the CGCS. This page 
 [Word File](/files/job-descriptions/admin-assitant-to-director/ADMINISTRATIVE%20ASSISTANT%20TO%20DIRECTOR%20AND%20GENERAL%20OFFICE.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/admin-assitant-to-director/ADMINISTRATIVE%20ASSISTANT%20TO%20DIRECTOR%20AND%20GENERAL%20OFFICE.pdf){: .btn }{:target="_blank"}
 
-### Digital Communication Specialist
+### Digital Communication Specialist (Split in two)
 
 [Word File](/files/job-descriptions/digital-communications-specialist/Digital%20Communication%20Specialist.docx){: .btn .mr-2 }
 [PDF Version](/files/job-descriptions/digital-communications-specialist/Digital%20Communication%20Specialist.pdf){: .btn }{:target="_blank"}

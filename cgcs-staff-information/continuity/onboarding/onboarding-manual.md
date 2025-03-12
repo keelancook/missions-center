@@ -42,7 +42,7 @@ The 5-Year plan of the CGCS can be found [here.](https://hackmd.io/@cgcs/SyM-yyZ
 The CGCS has 10 staff members. For an overview of our staff, [click here.](https://www.thecgcs.org/about/){:target="_blank"} On this site, we also have the [job descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html) and [job responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html) of each staff member, as well as [continuity folders](/cgcs-staff-information/continuity/continuity.html) for each staff member. Feel free to peruse these descriptions and roles as you acclimate to the CGCS.
 
 ## What tools are currently used by the CGCS?
-The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, Workflowy, HackMD, Nextcloud, Paycom, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
+The tools we currently use in the CGCS are Todoist, HubSpot, WordPress, GitHub, Workflowy, HackMD, Nextcloud, Paycom, Gravity Forms, CampusNet, and PowerCampus. See below for a short description of each one and links to these tools in greater detail.
 
 ### Todoist
 Todoist is a task management software that the you can use to designate and organize tasks. For features and more information about Todoist, [click here.](https://todoist.com/features){:target="_blank"} You can create your own login and profile for free! It is easy to use, intuitive, and has great features. If you don't have a task manager, I would recommend this one to you!
@@ -67,6 +67,9 @@ Nextcloud is another tool that Keelan uses as a storage space for documentation.
 
 ### Paycom
 Paycom is the software SEBTS utilizes for employee services. This is where you will clock in, clock out, submit time-off requests, and more. To log on to Greenshades on your computer, follow [this link.](https://www.pay.sebts.edu){:target="_blank"}
+
+### Gravity Forms
+Gravity Forms is a forms application accessible through WordPress. We utilize this because it is free and integrates with our public facing site. It is simple to use and has a lot of functionality for free!
 
 
 ### Other Tools

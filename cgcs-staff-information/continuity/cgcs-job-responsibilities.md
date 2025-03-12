@@ -48,7 +48,7 @@ To direct the CGCS in becoming the flagship missions center for the SBC. The dir
 * Work with local churches in developing missional culture and missional activity.
 * Serve as a resource for missions knowledge and missions strategy for students, professors, and local churches.
 
-### Associate Director - 
+### Associate Director - Walter Bowen
 
 #### Role:
 To provide leadership, direction, and oversight of key mobilization and student initiatives. This includes aiding in the pathways initiative and facilitating the SEBTS mission trip strategy.
@@ -120,7 +120,7 @@ To be the administrative aid to Keelan as the director of the CGCS and as a prof
     * This automatically uploads the podcast to other platforms.
 * Oversee and arrange travel needs for Keelan.
 
-### Digital Communications Specialist - Meridith Graves
+### Digital Communications Specialist - Split in Two
 
 #### Role:
 To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This is a hybrid role that is mostly behind the camera but does interact with the above to produce material for the CGCS.
@@ -142,7 +142,7 @@ To be the voice of the CGCS through social media, the CGCS's blog, and other dig
 * Create graphics or assist in graphic design for the CGCS. 
 
 
-### Database Coordinator - Lane Willis
+### Database Coordinator - Harold Kinsman
 
 #### Role:
 To oversee the formation of our database (HubSpot) and to help weave HubSpot into our workflow. I also do a myriad of other tasks that the director wants me to do, such as developing our documentation on GitHub.
@@ -159,6 +159,7 @@ To oversee the formation of our database (HubSpot) and to help weave HubSpot int
 * Work with Digital Media Specialist and Admin Assistant to create forms for our website through Gravity Forms on WordPress.
 * Work with denominational partners to build pathways in HubSpot for students to follow while at SEBTS.
 * Build the CGCS documentation page on GitHub.
+* Help run the digital and physical prayer card initiatives.
 * During my dead time, I seek to serve the director and other staff in any way possible.
 
 ### Student Mobilizer - Chloe Rutherford
