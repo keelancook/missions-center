@@ -106,7 +106,7 @@ Why yes! Keelan enjoys a quiz put out by Predictable Success that looks at manag
 ### Predictable Success Resources
 
 - [Learning Center Home > Predictable Success - predictablesuccess.com](https://predictablesuccess.com/online-learning-center/)
-- **==Explainer Videos by Scale Architects==**
+- **Explainer Videos by Scale Architects**
   - *Scale Architects appears to be some consulting firm that relies heavily on Predictable Success in their consulting. I assume they are some licensed coach in the process and getting a kickback off any sales of the courses. However, it also appears they've taken large portions of the material and broken it down into 3-4 minute videos which are pretty helpful for getting a flyover of this whole thing for free.*
   - [Scale Architects](https://invidious.snopyta.org/channel/UChLj9yjac5P7UMFxoWuG8Zw?page=3)
   - [Promo - The 7 Stages of the Corporate Lifecycle](https://invidious.snopyta.org/watch?v=L4-bf-zhc3M)
