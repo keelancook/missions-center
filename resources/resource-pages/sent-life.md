@@ -117,7 +117,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Discipleship (6)
+    Discipleship (7)
   </summary>
 
 #### October 2021: Episode 51 [Using Bible in Disciple-Making](https://open.spotify.com/episode/2tZcQEynY2xmSfsCnJGZo8?si=vgL-h6J1SaqVIADjA5cxGw){:target="_blank"}
@@ -131,6 +131,8 @@ permalink: sentlife
 #### October 2024: Episode 133 [How do we Measure Discipleship? with Walter Bowen](https://open.spotify.com/episode/2lPxDFcEKRHHXGqDkxtVRX?si=uy_APRzISmqJvcUYi-Znvw){:target="_blank"}
 
 #### October 2024: Episode 134 [How do we Measure Discipleship? Part 2 with Walter Bowen](https://open.spotify.com/episode/1FqAOg71zImsPUi5tfS2Cd?si=CA62HoBtTBmDFGWiL3NJsQ){:target="_blank"}
+
+#### March 2025: Episode 146 [Discipling and Mobilizing Retirees](https://open.spotify.com/episode/2EqsBgpVSHvKMUNoXKG0pl?si=4TJaAuNmQuOeke-Paln1wA){:target="_blank"}
 
 ---
 
@@ -163,7 +165,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Leadership Development (5)
+    Leadership Development (6)
   </summary>
 
 #### September 2020 Episode 16 [Are You a Potential Church Planter?](https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw)
@@ -175,6 +177,8 @@ permalink: sentlife
 #### December 2023: Episode 110 [The Crucial Role of the Church in Developing Missionaries with Meridith Graves](https://open.spotify.com/episode/4nzidLOCX40sDjLtW92nIS?si=mBMF9HEZTIOjZb19OvSpoA){:target="_blank"}
 
 #### November 2024: Episode 137 [Exploring Leadership Styles with Jimbo Stewart](https://open.spotify.com/episode/5HfaKrF8DPLJNux3sMN8CS?si=c2ce4900426b4acf){:target="_blank"}
+
+#### March 2025: Episode 148 [Training for a Theological Endeavor](https://open.spotify.com/episode/5vx5hYML72TTMFEYUH5GPR?si=XZIyWJ-iRYKm38i2o-ARbQ){:target="_blank"}
 
 ---
 
@@ -227,7 +231,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Stories (4)
+    Missionary Stories (5)
   </summary>
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
@@ -238,6 +242,7 @@ permalink: sentlife
 
 #### February 2025: Episode 145 [Stories of the Sent: Navigating Culture Shock with Julie](https://open.spotify.com/episode/4cfRhZqFqZztPJnP9QuMQp?si=v76YbRw4RDWI6JLmqA2drA){:target="_blank"}
 
+#### March 2025: Episode 149 [Stories of the Sent: Missions in Beautiful but Dark Places with Phil Bartuska](https://open.spotify.com/episode/30QruP85yoYYoTY4tIBrVw?si=u3pQ4bq-TpC3jCdjbBkuHA){:target="_blank"}
 ---
 
 </details>
@@ -296,7 +301,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (19)
+    Theology and Missions (20)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -338,6 +343,8 @@ permalink: sentlife
 #### September 2024: Episode 132 [Challenges and Opportunities in North American Missions with Trevin Wax](https://open.spotify.com/episode/3ZhszAiUJz4pT8Rbqmz5iP?si=bjqbhFGgSB6n-W_89mAB0A){:target="_blank"}
 
 #### February 2025: Episode 144 [Beyond Borders: Virtual Reality and Digital Engagement in Japen with Daniel Rice](https://open.spotify.com/episode/6Bx8RmY9AE1FhfLRXwZCvE?si=t_2H0nQ7Rm-coIS-i2MgVg){:target="_blank"}
+
+#### March 2025: Episode 147 [Maximizing the Moment: Missions and the Smartphone Generation](https://open.spotify.com/episode/7mewHEfLGH49R2HF2c8d3U?si=GtXTHVaNQmKK4IkAPVBmEg){:target="_blank"}
 
 ---
 
