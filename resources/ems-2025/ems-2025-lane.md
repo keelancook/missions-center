@@ -4,7 +4,7 @@ layout: page
 title: EMS References
 author: Lane Willis
 date: 2025-04-03
-parent: ems-2025
+parent: resources
 nav_order: 1
 permalink: ems2025
 
