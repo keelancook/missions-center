@@ -1,12 +1,11 @@
- ---
+---
 
 layout: page
-title: EMS References
+title: References
 author: Lane Willis
-date: 2025-04-03
-parent: resources
+date: 2025-04-02
+parent: Resources
 nav_order: 1
-permalink: ems2025
 
 ---
 
