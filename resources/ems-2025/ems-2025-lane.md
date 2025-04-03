@@ -9,6 +9,7 @@ nav_order: 1
 
 ---
 
+
 # References
 
 - Chalmers, David J. Reality+: Virtual Worlds and the Problems of Philosophy. Reprint edition. New York: W. W. Norton & Company, 2023. 
