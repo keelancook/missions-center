@@ -10,4 +10,4 @@ permalink: logan
 
 ---
 
-## [PDF of My Notes](/resources/ems-2025/EMS%20Notes%20Outline.pdf)
+## [Appointing Elders in New Churches: How Quickly and How Qualified Notes](/resources/ems-2025/EMS%20Notes%20Outline.pdf)
