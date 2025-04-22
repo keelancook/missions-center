@@ -40,7 +40,12 @@ nav_order: 1
    * Some locations require visas, immunizations, and more.  You will be informed of these requirements once you apply for a trip. Make sure your passport is up to date before applying.
 8. Pack well. The trip leader/professor will provide a packing guide.
 9. Promote your trip to others and invite them to join you in praying for you, your team, and those to whom you will minister on the trip. 
-10. A fund-raising template can be provided upon request to help raise funds for your trip.  
+10. A fund-raising template can be provided upon request to help raise funds for your trip.
+11. For international trips: If you are not cleared through the IMB's GO Method, the following apply:
+   * The student will not be able to go on the trip.
+   * The student will not be refunded their deposit or any payments made towards the trip. In addition, the student will be responsible for any pre-trip expenses that have been incurred on their behalf – such as non-refundable plane tickets and pre-paid ground expenses.
+   * The student will fail the course if they do not withdraw from registration.
+12. If you are unable to go for other unforeseen reasons (e.g., too sick to travel, death in the family, etc.), you will be responsible for expenses already incurred and should withdraw from the course. Be sure to inform the CGCS about your circumstances and discuss the next steps towards a future trip.
 
 ## During the Trip
 
@@ -61,6 +66,7 @@ nav_order: 1
 10. Do not be a cause of conflict but seek cooperation and love with all you interact with.
 11. You are on a trip representing SEBTS and the CGCS. Do not hurt the reputation of the school while on the field.
 12. Abide by all the policies in the student handbook. These are not removed while on a mission trip with the school.
+13. In the unlikely event that you are physically unable to travel back home with the team (e.g., too sick, detained by authorities, etc.), the faculty member or team leader is responsible for the entire team and may have to leave you on location with the field personnel until you can travel back by yourself.  
 
 ## Post-Trip
 
@@ -70,6 +76,7 @@ nav_order: 1
 2. Turn in all the other assignments that are due as required in the syllabus.
 3. Praise the Lord for what He did during your time on the mission trip.
 4. Share stories with others to encourage them!
+5. Remember that mission trips are courses/classes for which you will be registered.  They are Pass/Fail.  A Pass will not necessarily improve your GPA, but a Fail will negatively impact it.   
 
 ---
 
