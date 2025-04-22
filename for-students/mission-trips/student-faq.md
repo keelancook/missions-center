@@ -124,7 +124,7 @@ nav_order: 2
 ### Are there scholarships for mission trips?
    * Yes and no. All mission trips are scholar-shipped in that we subsidize a large chunk of the cost for each student on every trip. There is additional funding available for minority students who apply and are accepted into the Kingdom Diversity Missions Initiative program.
 
-## Can I use Keesee Grant funds to pay for my mission trip?
+### Can I use Keesee Grant funds to pay for my mission trip?
    * Yes! SEBTS mission trips are classes and can count as Keesee eligible enrollment so long as they go towards the completion of your academic plan. However, since tuition is free for all mission trips and travel costs are not billed to your student account, you will have to take a few steps to use your Keesee Grant funds to pay for the trip. As long as there is no outstanding monthly payment plan, any disbursed scholarship funds (or student overpayments) that results in a credit balance on your account can be refunded to you via a Check Request or a direct deposit from the Accounting Office. You could then use this money to pay for your SEBTS mission trip.
 
 ### What is the Kingdom Diversity Missions Initiative (KDMI)?
