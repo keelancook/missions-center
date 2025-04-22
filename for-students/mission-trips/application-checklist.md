@@ -26,7 +26,9 @@ Below is a checklist of information that you will need before you submit a missi
 - [ ] Student ID
 - [ ] Date of Birth
 - [ ] Citizenship
-- [ ] Passport Number, Country, Photo, and Expiration Date (If an international trip only)
+- [ ] Real ID (For those going on a domestic trip who do not have a passport)
+- [ ] Passport Number, Country, Photo, and Expiration Date (If an international trip, or if you do not have a Real ID for a domestic trip)
+    - [ ] You will You will need to upload a photo of your passport! Make sure you have this file available.
 - [ ] Medical Conditions
 - [ ] Why do you want to go on the trip? Have you ever been on a mission trip?
 - [ ] Emergency Contact Information (Name, Relationship, Number, and Email)
