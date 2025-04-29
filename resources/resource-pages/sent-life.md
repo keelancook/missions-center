@@ -17,7 +17,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Calling (7)
+    Calling (8)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
@@ -34,6 +34,7 @@ permalink: sentlife
 
 #### December 2024: Episode 140 [Knowing and Doing the Will of God](https://open.spotify.com/episode/6rlgqz6nSB6sYX2GzCZXkr?si=_Kcq-ixPTXGAJhiIzI_nVQ){:target="_blank"}
 
+#### April 2025: Episode 152 [Missions as a Family Calling with Phil Bartuska](https://open.spotify.com/episode/6nZtc9H0RfS3pg43ZXhHJw?si=E58DUS8NReuhdiK33W3nRw){:target="_blank"}
 
 ---
 
@@ -231,7 +232,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Stories (5)
+    Missionary Stories (6)
   </summary>
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
@@ -243,13 +244,16 @@ permalink: sentlife
 #### February 2025: Episode 145 [Stories of the Sent: Navigating Culture Shock with Julie](https://open.spotify.com/episode/4cfRhZqFqZztPJnP9QuMQp?si=v76YbRw4RDWI6JLmqA2drA){:target="_blank"}
 
 #### March 2025: Episode 149 [Stories of the Sent: Missions in Beautiful but Dark Places with Phil Bartuska](https://open.spotify.com/episode/30QruP85yoYYoTY4tIBrVw?si=u3pQ4bq-TpC3jCdjbBkuHA){:target="_blank"}
+
+#### April 2025: Episode 153 [Calling, Singleness, and Medical Missions with Dr. Rebekah Naylor](https://open.spotify.com/episode/4JDkI6vSzPknAYyQ2KntdY?si=ZqRyWGTyRFia59GP0Tjj9Q){:target="_blank"}
+
 ---
 
 </details>
 
 <details closed markdown="block">
   <summary>
-    Short-Term Mission Trips (7)
+    Short-Term Mission Trips (9)
   </summary>
 
 #### June 2020: Episode 2 [Critical Questions for STMs](https://open.spotify.com/episode/05UFbBuu6jsYNtFc1CJXY1?si=i2ggBgqPTUCmVKvOMyT2-Q){:target="_blank"}
@@ -265,6 +269,10 @@ permalink: sentlife
 #### April 2024: Episode 120 [The Value of STMs with Chloe and William](https://open.spotify.com/episode/455tqdodxbMTNms0ScrXf3?si=-KXbdU4TSE2jF0kw-5-ijQ){:target="_blank"}
 
 #### April 2024: Episode 121 [The Value of STMs with Walter Bowen](https://open.spotify.com/episode/0bz74DoLcbDueTqKUVAfGr?si=rs3xwDnhSryV4HeeJ5VveA){:target="_blank"}
+
+#### April 2025: Episode 150 [How Short-Term Teams Benefit Long-Term Strategy](https://open.spotify.com/episode/7yVozOPYWWSH6O8c4Y2IkZ?si=ETCGjioXSYOj8rTbMIKV8Q){:target="_blank"}
+
+#### April 2025: Episode 151 [Mission Trips from the Students' Perspective](https://open.spotify.com/episode/5La9ZVlQtVAqsY7QXosmkA?si=NUbQBZ5uSVCPMvrpcsmCYQ){:target="_blank"}
 
 ---
 
