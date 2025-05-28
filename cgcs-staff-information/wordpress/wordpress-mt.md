@@ -25,7 +25,7 @@ Gravity Forms holds the mission trip applications and the BLANK applications. We
 * Mission Trip Application without Flight for Stateside Trips
     * Each of these is a blank application that users can duplicate to create new applications. Each of these the proper questions, conditional logic, notifications, and confirmations set up.
 * The Mission Trip Application for all Mission Trips
-    * Labeled MT: [Location] Time of Year (SB, WB, FB, Summer) and Year
+    * Labeled MT: {{Year}} {{Break(SB, WB, FB, Summer)}} - {{Location}}
     * They are labeled this way to easily organize and identify the trip without having to open the application.
 
 ### What do we need in order to properly update the blank forms?
@@ -38,6 +38,7 @@ Gravity Forms holds the mission trip applications and the BLANK applications. We
 * The date we are going to be opening the application (the day the application is going live!)
 * If the trip has a flight or not associated with it.
 * If the trip will be SEBTS-hosted, or church-hosted (like the Faith trip).
+* The ministry focus of the trip (CMT, mercy min, women's min, etc)
 
 There are various spots throughout the application that need updating:
 
