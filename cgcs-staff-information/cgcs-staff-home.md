@@ -17,11 +17,11 @@ This is the parent page for documentation within the CGCS. It includes navigatio
 
 * [GitHub Flowchart:](/cgcs-staff-information/github-flowchart.html) This is a larger breakdown of the pages on this site. These pages are unlinked. Basically this is a large table of contents.
 * [CGCS Office Space Breakdown](/cgcs-staff-information/cgcs-space-breakdown.html)
-* [Onboarding](/cgcs-staff-information/continuity/onboarding/onboarding.html)
-  1. [Onboarding Manual](/cgcs-staff-information/continuity//onboarding/onboarding-manual.html)
-  2. [Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html)
-  3. [CGCS Job Descriptions](/cgcs-staff-information/continuity/cgcs-job-descriptions.html)
-  4. [CGCS Job Responsibilities](/cgcs-staff-information/continuity/cgcs-job-responsibilities.html)
+* [Onboarding](/cgcs-staff-information/onboarding/onboarding.html)
+  1. [Onboarding Manual](/cgcs-staff-information/onboarding/onboarding-manual.html)
+  2. [Staff Expectations](/cgcs-staff-information/onboarding/staff-expectations.html)
+  3. [CGCS Job Descriptions](/cgcs-staff-information/onboarding/cgcs-job-descriptions.html)
+  4. [CGCS Job Responsibilities](/cgcs-staff-information/onboarding/cgcs-job-responsibilities.html)
 * [Continuity Folder](/cgcs-staff-information/continuity/continuity.html)
   1. [Director](/cgcs-staff-information/continuity/folders/director.html)
   2. [Associate Director](/cgcs-staff-information/continuity/folders/associate-director.html)

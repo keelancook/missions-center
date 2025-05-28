@@ -19,13 +19,15 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
 1. For Students: This page is the top page for students overall.
    1. Great Commission Pathways: This page introduces visitors to pathways and enables them to navigate between the choices.
       1. International Missions
+         1. International Missions FAQ
       2. North American Church Planting
       3. Replanting/Revitalization
    2. Mission Trips: This page introduces students to mission trip documentation and enables them to navigate between the subpages.
-      1. Mission Trips >> Student Expectations
-      2. Mission Trips >> Student FAQ
+      1. Student Expectations
+      2. Student FAQ
+      3. Application Checklist
    3. Student Degrees: This page is the introductory/landing page for missions degrees. There will be FAQs and other generic advice on pursuing degrees.
-      1. Mission Degrees
+      1. Mission Degrees Information
       2. Mission Degrees FAQ
    4. Student Practicums: This page introduces students to the idea of practicums, gives FAQs, and offers available opportunities.
       1. Practicum FAQ
@@ -33,9 +35,12 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
    5. Student Resources
 2. For Faculty: This page is the top page for faculty overall.
    1. Mission Trips: This page introduces faculty to mission trip documentation and enables them to navigate between the subpages.
-      1. Mission Trips >> Professor Expectations
-      2. Mission Trips >> Professor FAQ
-      3. Example Syllabus
+      1. Professor Expectations
+      2. Professor FAQ
+      3. Initial Proposal
+      4. Detailed Prospectus
+      5. Example Syllabus
+   2. Faculty Resources
 3. For Partners: This page introduces the idea of denominational partnerships in documentation and enables them to navigate between the subpages.
    1. Company
    2. NAMB
@@ -49,7 +54,10 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
          3. How can a church become partners with NC Baptist?
       4. Does my church need to be revitalized?
       5. What does it mean to replant a church?
-4. Reading List: This page hosts reading list resources for students, churches, and denominational partners.
+4. Resources
+   1. Reading List: This page hosts reading list resources for students, churches, and denominational partners.
+   2. Podcast List
+   3. The Sent Life: This page categorizes all our Sent Life Podcasts.
 5. CGCS Main Website Link: This links directly to the CGCS Main Website at www.thecgcs.org.
 
 ## Hidden Pages
