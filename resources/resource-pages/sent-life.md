@@ -181,6 +181,8 @@ permalink: sentlife
 
 #### March 2025: Episode 148 [Training for a Theological Endeavor](https://open.spotify.com/episode/5vx5hYML72TTMFEYUH5GPR?si=XZIyWJ-iRYKm38i2o-ARbQ){:target="_blank"}
 
+#### April 2025: Episode 154 [Sending Healthy and Sustainable Missionaries with Scott Ray](https://open.spotify.com/episode/6zA52cd8sxDSxoAatqgjnC?si=olHihpwJQySbcYDoTmMQKQ){:target="_blank"}
+
 ---
 
 </details>
@@ -246,6 +248,10 @@ permalink: sentlife
 #### March 2025: Episode 149 [Stories of the Sent: Missions in Beautiful but Dark Places with Phil Bartuska](https://open.spotify.com/episode/30QruP85yoYYoTY4tIBrVw?si=u3pQ4bq-TpC3jCdjbBkuHA){:target="_blank"}
 
 #### April 2025: Episode 153 [Calling, Singleness, and Medical Missions with Dr. Rebekah Naylor](https://open.spotify.com/episode/4JDkI6vSzPknAYyQ2KntdY?si=ZqRyWGTyRFia59GP0Tjj9Q){:target="_blank"}
+
+#### May 2025: Episode 156 [Stories of the Sent: The Cost of Conversoin with Owen and Myla Stoddard](https://open.spotify.com/episode/15zV72HIKNKG8hFu8b3fMA?si=4t6I8KHNTzelO2at0r4H2A){:target="_blank"}
+
+#### May 2025: Episode 157 [Our Circumstances Changed, Our Calling Didn't: When Health Forced us to Leave](https://open.spotify.com/episode/5ACA4FUmVKQ5olgNWt5GUi?si=tfNYWxcnRhSTHfTWMGUIqg){:target="_blank"}
 
 ---
 
@@ -353,6 +359,8 @@ permalink: sentlife
 #### February 2025: Episode 144 [Beyond Borders: Virtual Reality and Digital Engagement in Japen with Daniel Rice](https://open.spotify.com/episode/6Bx8RmY9AE1FhfLRXwZCvE?si=t_2H0nQ7Rm-coIS-i2MgVg){:target="_blank"}
 
 #### March 2025: Episode 147 [Maximizing the Moment: Missions and the Smartphone Generation](https://open.spotify.com/episode/7mewHEfLGH49R2HF2c8d3U?si=GtXTHVaNQmKK4IkAPVBmEg){:target="_blank"}
+
+#### May 2025: Episode 155 [Am I Really Responsible for the Whole World?](https://open.spotify.com/episode/1VeGVgTdxfvI1hPbFrfBpX?si=9XfRUwjKS56Msualk_gXEw){:target="_blank"}
 
 ---
 
