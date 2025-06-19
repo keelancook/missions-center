@@ -145,7 +145,7 @@ To be the voice of the CGCS through social media, the CGCS's blog, and other dig
 ### Database Coordinator - Harold Kinsman
 
 #### Role:
-To oversee the formation of our database (HubSpot) and to help weave HubSpot into our workflow. I also do a myriad of other tasks that the director wants me to do, such as developing our documentation on GitHub.
+To oversee the formation of our databases (HubSpot and Prayer Cards) and to help weave HubSpot into our workflow. I also do a myriad of other tasks that the director wants me to do, such as developing our documentation on GitHub.
 
 #### Responsibilities:
 * Ensure HubSpot is up-to-date with accurate student information.
@@ -157,9 +157,10 @@ To oversee the formation of our database (HubSpot) and to help weave HubSpot int
     * This also means that I try to make as accurate as possible the numbers we have sent historically. These are harder to maintain than those of current students.
 * Onboard new employees in the CGCS to HubSpot and other various tools. I do this in tandem with Admin Assistant and Director.
 * Work with Digital Media Specialist and Admin Assistant to create forms for our website through Gravity Forms on WordPress.
-* Work with denominational partners to build pathways in HubSpot for students to follow while at SEBTS.
+* Work with denominational partners and the associate director to build pathways in HubSpot for students to follow while at SEBTS.
 * Build the CGCS documentation page on GitHub.
 * Help run the digital and physical prayer card initiatives.
+* Ensure the prayer card database in Excel and on WordPress is up to date.
 * During my dead time, I seek to serve the director and other staff in any way possible.
 
 ### Student Mobilizer - Chloe Rutherford

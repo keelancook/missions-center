@@ -39,6 +39,9 @@ Job Descriptions:
 Job Responsibilities:  
 [Job Responsibilities](https://missions.center/cgcs-staff-information/continuity/cgcs-job-responsibilities.html#database-coordinator---lane-willis){: .btn }{:target="_blank"} 
 
+## Brief Description
+The Database Coordinator role maintains critical databases for the CGCS. These databases include our student repository on HubSpot and our prayer card repository on Excel/WordPress.
+
 ## Tasks
 Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks. These can include meetings to attend, reports and due dates, milestones, or subscription renewal dates. Include details about how to accomplish these tasks.
 
@@ -47,31 +50,34 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
    * This includes maintaining duplicate contacts and ensuring contact information is accurate for students.
    * Create/maintain reports in HubSpot to make sure they are functioning.
    * This also includes making sure that the Company information is accurate in our system.
+   * Maintain deals for our mobilization/pathway efforts.
    * Maintain Marketing Contacts
 * Documentation Site Upkeep
    * The documentation site at missions.center is maintained by this role. This includes creating new pages and updating old ones.
-* Prayer Card Support
-   * Work with students to accumulate prayer cards for our office. We want digital versions and physical copies.
-   * Check the form entries to see who has submitted prayer card updates.
+* Prayer Card Database Upkeep
+   * Work with students/alumni to accumulate prayer cards for our office. We want digital versions and physical copies.
+   * Check the form entries in WordPress/Gravity Forms to see who has submitted prayer card updates/requests.
+* Commissioning Chapel Communication
+   * Due to the heavy involvement of this role with prayer cards, the communication with those going overseas for Commissioning Chapel 2025 fell on me. Moving forward, some of this may be split between other roles.
 
 ### Daily Tasks
 * Check to make sure HubSpot is running smoothly.
 * Check to make sure missions.center is running and accessible.
-* Check the deals in HubSpot to ensure the pipelines are running.
 
 ### Weekly Tasks
 * Manage duplicates.
    * [How to Video for Duplicates](https://scribehow.com/shared/Manage_Duplicate_Contacts_in_HubSpot_Account__YUI7VfDjRrGnruuC3P1DaQ?referrer=sidekick/){:target="_blank"}
-* Make sure that forms are migrating over from Gravity Forms.
 * Check to see how other staff members are utilizing HubSpot and look for staff who may be logged out or not utilizing the program.
    * <a href="https://scribehow.com/shared/Checking_Stats__1kbCUQ_KTEW1WZ_DdgZzUQ" target="_blank">Checking Stats</a>
 * Meet with the IMB Mag role, AD, and other mobilizers to input meetings on the deal pages.
    * This may also include adding pertinent notes about meetings or on student pages.
 * Check reports in HubSpot. Ensure their accuracy.
-* Update Mission Trip Interest Form in HubSpot. This form is accessible throughout the year and is utilized for sending out interest emails. Make sure contacts are always updated.
+* Create and upkeep any forms the offices uses in WordPress or HubSpot.
+* Check the deals in HubSpot to ensure the pipelines are running.
 
 ### Monthly Tasks
 * Check marketing contacts at the end of the month. Make sure we are not over our limit. Turn some marketing contacts off if we need space. These reset every month. For more information on marketing contacts, [click here](/cgcs-staff-information/hubspot/marketing-emails-hubspot.html)
+* Check on prayer card status and communicate with new people interested in prayer cards.
 
 ### Semester Tasks
 * Update HubSpot with new student information.
@@ -81,9 +87,9 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
 * Input data about mission trips into HubSpot.
    * This will be students who go on trips and professors who lead trips.
       * For information on importing, [click here.](/cgcs-staff-information/hubspot/import-export-hubspot.html)
-   * Student trip participation is marked in a property.
-      * Make sure that you do not overwrite the property, but that you add to it. See lessons learned to read more about this.
-   * Professor trip participation is marked in a property and in meetings. This helps with reporting and tracking who has led trips in the past.
+   * Mission Trips are held in HubSpot as an object called Courses.
+      * Students and professors are associated with trips.
+      * Each trip also has properties within the course that detail the trip itself.
 * Contact students who are going and organize prayer cards.
 
 ## Points of Contact
@@ -106,7 +112,8 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
 | HubSpot Support Line | 1-888-HUBSPOT x3 | 1-888-482-7768 x3 |
 
 ### In-house
-* Your direct supervisor for HubSpot and the documentation website is the Associate Director.
+* Your direct supervisor for HubSpot and pathways is the Associate Director.
+* Your direct supervisor for prayer cards is the Director.
 * Your direct supervisor for your hours and HR is the office manager.
 * You will work together with other team members on projects throughout your time in the office.
 
@@ -116,6 +123,7 @@ Create a list of daily, weekly, monthly, semesterly, and mission-critical tasks.
    * For updates on student information, the first place to contact is IT. Dai Oliveira has pulled these reports lately. However, Will Johnston at the Registrar was also very helpful in populating student information and can be contacted as a last resort.
 * With the development of pathways and pipelines, this role also involves contact with members of Company, NAMB, and NC Baptists. These are our denominational partners, and we are seeking to build sending pathways in tandem with these organizations.
    * Since these contacts may be changing, you will need to do some research on who to contact at the Company, NAMB, and NC Baptists. Keelan helped me find these contacts and can help you whenever they are needed.
+* This role involves contact with current missionaries (students and alumni) and involves discussion about prayer cards.
 * This role also has contact with HubSpot, from contract teams to success and aid teams, to troubleshooting teams. All of these offices at HubSpot are here to help you in this role, pointing you in the right direction and to articles that may help with your issues and needs.
 
 ## References
@@ -125,16 +133,20 @@ List any frequently used documents, books, websites, or regulations that are ess
    * You can also search HubSpot Knowledgebase in Google and find most of your answers there.
 * GitHub: See GitHub page on missions.center for common links.
    * You can also search GitHub's knowledgebase.
-* Regulations surrounding student data and PII are pertinent. Make sure that you are up to date on these.
+* WordPress: The website is hosted here. You will need knowledge of how it works.
+* Regulations surrounding student data and PII are pertinent. Make sure that you are up to date on these. (SEBTS has a training program called KnowBe4 that will be helpful here.)
 * Regulations for forms, opt-in, GDPR, etc when conducting surveys and sending emails are in place. Currently, all students at SEBTS have clearance to receive emails from SEBTS. This allows us to send them emails and use their information.
 * Deduply: Deduply is an integration with HubSpot that helps with duplicate records. It costs money per month, but it can be well worth the time and effort it saves. You will probably only need this in the most dire of circumstances.
+* SEBTS Brand site: [https://www.sebtscomm.com/](https://www.sebtscomm.com/)
+* [WorkFlowy](https://workflowy.com/): Project management site.
+* Adobe Express: Used for prayer cards. You will most likely not have to design these, another person in the office will help you here.
 
 ## Maps and Locations
 * The main location for this role is the CGCS. You may need to know more about campus, but this role is most likely being filled by a student, and there are plenty of people to help you out.
 * GTI: Carson Hall
 * Pastor's Center: Carson Hall
 * Center for Faith and Culture: Carson Hall
-* Distance Learning - Appleby Hall
+* Distance Learning - Stephens Mackie Hall
 * Registrar - Stealey Hall
 * Admissions - Stealey Hall
 * Financial Aid - Ledford
@@ -144,15 +156,17 @@ List any frequently used documents, books, websites, or regulations that are ess
 [Campus Map](/files/continuity-files/CampusMap.jpeg){: .btn }
 
 ## Calendar of Events/Tasks
-This can include subscription renewals and important dates or events in the office.  
+This can include subscription renewals and important dates or events in the office. 
+* See WorkFlowy Calendar for a more detailed calendar.
 
 Fall Semester:
 * In the fall semester, around the beginning of September, you will need to request graduation data and new student data from the IT department.
+   * Hopefully a report will be set up that is ongoing so you will not have to request one.
 * Gathering Chapel
    * This chapel is one of the first chapel services of the fall semester. It highlights Southeastern's desire to GO and is the place where we introduce our lineup for mission trips to the students.
    * You will help develop a form for this service and do whatever the director asks of you for this chapel.
 * HubSpot Renewal
-   * HubSpot renews on the 9th of November for 2023 to 2024. This is subject to change if we decide to renew early. You need to be aware of this date because you will be in charge of aiding the renewal process and communicating with HubSpot.
+   * HubSpot renews on the 9th of November. This is subject to change if we decide to renew early. You need to be aware of this date because you will be in charge of aiding the renewal process and communicating with HubSpot. (Currently, our HubSpot Subscription runs out November 2026.)
 
 Spring Semester:
 * Global Missions Week

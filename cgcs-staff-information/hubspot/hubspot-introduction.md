@@ -61,11 +61,16 @@ You can log in to HubSpot **[here.](https://www.hubspot.com/){:target="_blank"}*
 #### Creating a Contact
 [Click Here for Instructions](https://scribehow.com/shared/Create_new_contact_in_HubSpot_with_specific_details__fQtLbKcLQN-ji5C6pcXebQ){:target="_blank"}
 
+### Courses
+* Courses is a newer object that HubSpot has added. This object holds our mission trip information. Within this object there are specific course properties.
+   * These work similar to contacts.
+* Contacts can be associated to courses.
+
 ### Properties
 *	The fields that we desire to collect data for, such as first name, last name, email, etc.
 
 ### Companies
-*	Work similarly to contacts.
+*	Work similar to contacts.
 *	When entering a company, Hubspot will pull information for the company off the internet so that we do not have to do so.
 *	Contacts can be assigned a primary company.
 *	Companies are normally pulled from the email that we have from the user.
@@ -83,6 +88,9 @@ You can log in to HubSpot **[here.](https://www.hubspot.com/){:target="_blank"}*
 ### Personal Emails
 * Can connect your inbox in Outlook or use the inbox in Hubspot.
 *	Can log and track emails either way.
+
+### Associations
+* Associations are ways to connect different objects to each other. This allows users to update different objects with similar information.
 
 ### Tools
 
@@ -151,6 +159,7 @@ You can log in to HubSpot **[here.](https://www.hubspot.com/){:target="_blank"}*
 
 #### Deals
 * This will host the pipelines/pathways for us.
+* Deals are a distinct object that have their own properties.
 
 ### Service
 * Tickets
