@@ -315,7 +315,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (20)
+    Theology and Missions (21)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -361,6 +361,8 @@ permalink: sentlife
 #### March 2025: Episode 147 [Maximizing the Moment: Missions and the Smartphone Generation](https://open.spotify.com/episode/7mewHEfLGH49R2HF2c8d3U?si=GtXTHVaNQmKK4IkAPVBmEg){:target="_blank"}
 
 #### May 2025: Episode 155 [Am I Really Responsible for the Whole World?](https://open.spotify.com/episode/1VeGVgTdxfvI1hPbFrfBpX?si=9XfRUwjKS56Msualk_gXEw){:target="_blank"}
+
+#### June 2025: Episode 158 [Summer Lecture Series: Is Missions Colonialism?](https://open.spotify.com/episode/6tTxH2Yd6szt7VtN1o124h?si=ttqekJeaTXqNbcxDVEDpqQ){:target="_blank"}
 
 ---
 
