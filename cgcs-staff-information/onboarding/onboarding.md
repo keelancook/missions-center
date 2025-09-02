@@ -18,7 +18,7 @@ One point of note before you whisk off. The staff page is hidden from the public
 
 We are so glad you are here! You may now begin your onboarding process!
 
-[Start Onboarding](/cgcs-staff-information/continuity/onboarding/onboarding-manual.html){: .btn }
+[Start Onboarding](/cgcs-staff-information/onboarding/onboarding-manual.html){: .btn }
 
 ---
 
