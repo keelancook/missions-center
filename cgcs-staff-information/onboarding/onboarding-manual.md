@@ -51,10 +51,10 @@ Todoist is a task management software that the you can use to designate and orga
 HubSpot is a software that connects a team's marketing and sales tools to a CRM Database. **[Click here](https://knowledge.hubspot.com/get-started){:target="_blank"}** for a link to HubSpot's knowledge base to get started. HubSpot has an incredible knowledge base themselves that enables people to seek out answers easily. Be sure to make use of this material! For other information on The CGCS Docs about HubSpot, follow [this link.](/cgcs-staff-information/hubspot/hubspot.html)
 
 ### WordPress
-WordPress is where we currently host our [marketing site.](thecgcs.org){:target="_blank"} We partner with SEBTS and useful group to maintain this site. WordPress is a versatile and easy to use tool that makes managing our own website simple. For more information on WordPress, [click here.](/cgcs-staff-information/wordpress/wordpress.html)
+WordPress is where we currently host our [marketing site.](https://www.thecgcs.org){:target="_blank"} We partner with SEBTS and useful group to maintain this site. WordPress is a versatile and easy to use tool that makes managing our own website simple. For more information on WordPress, [click here.](/cgcs-staff-information/wordpress/wordpress.html)
 
 ### GitHub
-GitHub is the host of our documentation site: [The CGCS Docs.](missions.center){:target="_blank"} This is a free online site builder that allows developers to communicate with one another as they build sites and host information. There is a wide range of templates and possibilities for GitHub. To learn more, [click here.](/cgcs-staff-information/github/github.html)
+GitHub is the host of our documentation site: [The CGCS Docs.](/index.html){:target="_blank"} This is a free online site builder that allows developers to communicate with one another as they build sites and host information. There is a wide range of templates and possibilities for GitHub. To learn more, [click here.](/cgcs-staff-information/github/github.html)
 
 ### Workflowy
 Workflowy is a tool that Keelan uses to host sets of information that you will utilize while in the office. It is a free organizational tool that allows you to take notes, make lists, collaborate, and brainstorm. It is basically a digital notebook with endless cascading options that allow you to zoom in on one topic or look at many topics at the same time. To learn more about Workflowy, [click here.](https://workflowy.com/learn/){:target="_blank"} Before creating your profile, have someone in the office send you a referral link.
@@ -66,7 +66,7 @@ HackMD is a tool that lets you utilize markdown in a note-taking/documentation s
 Nextcloud is another tool that Keelan uses as a storage space for documentation. They have their own "office" of applications like Microsoft and Google. He may add you as a user to this tool, depending on your role. For more information about Nextcloud, [click here.](https://nextcloud.com/about/){:target="_blank"}
 
 ### Paycom
-Paycom is the software SEBTS utilizes for employee services. This is where you will clock in, clock out, submit time-off requests, and more. To log on to Greenshades on your computer, follow [this link.](https://www.pay.sebts.edu){:target="_blank"}
+Paycom is the software SEBTS utilizes for employee services. This is where you will clock in, clock out, submit time-off requests, and more. To log on to Greenshades on your computer, follow [this link.](https://pay.sebts.edu){:target="_blank"}
 
 ### Gravity Forms
 Gravity Forms is a forms application accessible through WordPress. We utilize this because it is free and integrates with our public facing site. It is simple to use and has a lot of functionality for free!
@@ -79,7 +79,7 @@ Some other tools you may hear thrown around are CampusNet and PowerCampus. We wo
 You will get paid twice a month, with pay periods being two weeks long. The employee website (linked below) lists the pay periods for you, so you know what to expect in this area. You will be able to choose how you will be paid, whether that is in one bank account or multiple. You will set this up with HR as you are joining our team.
 
 ## How do I clock in and clock out?
-You will clock in and clock out on Paycom, the employee software/website that SEBTS uses to keep track of time cards. You can find this site [here.](https://www.pay.sebts.edu){:target="_blank"} Your login information will be your staff email. You will set up a password with Paycom as you are hired.
+You will clock in and clock out on Paycom, the employee software/website that SEBTS uses to keep track of time cards. You can find this site [here.](https://pay.sebts.edu){:target="_blank"} Your login information will be your staff email. You will set up a password with Paycom as you are hired.
 
 ## What is the office atmosphere like?
 The office atmosphere is laid back and jovial. Here at the CGCS, we want to see God glorified and students challenged to reach the nation. We foster an atmosphere of curiosity and open doors. We work as a team and each staff member has their hand in different pieces of the puzzle.
@@ -196,7 +196,7 @@ Why yes! Keelan enjoys a quiz put out by Predictable Success that looks at manag
 ## What expectations do you have of me as an employee?
 As an office, we have certain expectations of our employees. In your job description, you will see your personal responsibilities and expectations. These are sectioned off and found under job purpose, essential responsibilities, other responsibilities, knowledge and skills, public contact, physical demands, and working conditions. On top of these expectations, the office and school also have some general expectations of you as an employee.
 
-[Staff Expectations](/cgcs-staff-information/continuity/onboarding/staff-expectations.html){: .btn }
+[Staff Expectations](/cgcs-staff-information/onboarding/staff-expectations.html){: .btn }
 
 ---
 
