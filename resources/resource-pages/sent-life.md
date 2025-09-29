@@ -104,7 +104,7 @@ permalink: sentlife
 
 #### October 2021: Episode 52 [Sharing the Gospel with our Muslim Neighbors](https://open.spotify.com/episode/1brIEMEQ9VuT2em8A8IdHS?si=YjrjAOiRRDqa3V-a9jUXKg){:target="_blank"}
 
-#### December 2021: Episode 57 [Reaching People from Different Cultures](https://open.spotify.com/episode/7E9Z1nBaNquyukdXQzFkZa?si=NSHqI56yR62VIVJd1nd0QQ)
+#### December 2021: Episode 57 [Reaching People from Different Cultures](https://open.spotify.com/episode/7E9Z1nBaNquyukdXQzFkZa?si=NSHqI56yR62VIVJd1nd0QQ){:target="_blank"}
 
 #### March 2023: Episode 93 [Evangelizing our Foreign-Born Neighbors](https://open.spotify.com/episode/3pAnN7ngFDwMiDCBavOq8u?si=6IY-NrKXS-6BDvj3UxZoaA){:target="_blank"}
 
@@ -118,7 +118,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Discipleship (7)
+    Discipleship (9)
   </summary>
 
 #### October 2021: Episode 51 [Using Bible in Disciple-Making](https://open.spotify.com/episode/2tZcQEynY2xmSfsCnJGZo8?si=vgL-h6J1SaqVIADjA5cxGw){:target="_blank"}
@@ -135,13 +135,17 @@ permalink: sentlife
 
 #### March 2025: Episode 146 [Discipling and Mobilizing Retirees](https://open.spotify.com/episode/2EqsBgpVSHvKMUNoXKG0pl?si=4TJaAuNmQuOeke-Paln1wA){:target="_blank"}
 
+#### September 2025: Episode 161 [I Shared the Gospel… Now What?](https://open.spotify.com/episode/1lOhOCp2bTlwwxlKzEyGPj?si=t8WWXeYMTpWIQfXZpLdq1g){:target="_blank"}
+
+#### September 2025: Episode 162 [Why the Next Generation Is Returning to Church with Keelan Cook and Scott Hildreth](https://open.spotify.com/episode/6MRS2pk6dtPMkCqYH3mcYb?si=PEFUeH5hQWykdBwrgOvCog){:target="_blank"}
+
 ---
 
 </details>
  
 <details closed markdown="block">
   <summary>
-    Church Planting (7)
+    Church Planting (8)
   </summary>
 
 #### August 2020: Episode 12 [House Church Matters](https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ){:target="_blank"}
@@ -158,7 +162,9 @@ permalink: sentlife
 
 #### May 2021: Episode 44 [All Churches Can and Should Plant New Churches](https://open.spotify.com/episode/4Ao7gB8odY8s4TxgnbFWeL?si=x8qDbKunQBqusgeS0P0BLA){:target="_blank"}
 
-#### February 2024: Episode 116 [How SendNC Helps Churches Plant Churches](https://open.spotify.com/episode/15S3IDCR9HCWq1zGTkUt8e?si=IbDlAIhIQMq2ZX-mcagDJA)
+#### February 2024: Episode 116 [How SendNC Helps Churches Plant Churches](https://open.spotify.com/episode/15S3IDCR9HCWq1zGTkUt8e?si=IbDlAIhIQMq2ZX-mcagDJA){:target="_blank"}
+
+#### September 2025: Episode 163 [Passing the Baton: Raising Up Leaders on the Mission Field with Keelan Cook and Scott Hildreth](https://open.spotify.com/episode/7qsQkL2b5ngz4IYLb7b45k?si=1Lq2_c5zQiCD9aMzttna7Q){:target="_blank"}
 
 ---
 
@@ -166,10 +172,10 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Leadership Development (6)
+    Leadership Development (7)
   </summary>
 
-#### September 2020 Episode 16 [Are You a Potential Church Planter?](https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw)
+#### September 2020 Episode 16 [Are You a Potential Church Planter?](https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw){:target="_blank"}
 
 #### December 2022: Episode 82 [Equipping Leaders for the Missionary Task](https://open.spotify.com/episode/0RURoUi8wfCQiIvupJt6NX?si=676fQe4vQKyhWJEGkFXpiA){:target="_blank"}
 
@@ -234,7 +240,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Stories (6)
+    Missionary Stories (8)
   </summary>
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
@@ -286,14 +292,14 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Care (9)
+    Missionary Care (10)
   </summary> 
 
-#### November 2020: Episode 23 [Missionary Care and Counseling](https://open.spotify.com/episode/039oTSOUaD31h6j39a5Lcz?si=Ut1H9qLzSNe-It9d1aMf2w)
+#### November 2020: Episode 23 [Missionary Care and Counseling](https://open.spotify.com/episode/039oTSOUaD31h6j39a5Lcz?si=Ut1H9qLzSNe-It9d1aMf2w){:target="_blank"}
 
-#### February 2021: Episode 31 [Missionaries Need the Bible](https://open.spotify.com/episode/3ABYf2St4xZqCClLxSgz0e?si=78uzjYZxRjavM2EOTFpo9g)
+#### February 2021: Episode 31 [Missionaries Need the Bible](https://open.spotify.com/episode/3ABYf2St4xZqCClLxSgz0e?si=78uzjYZxRjavM2EOTFpo9g){:target="_blank"}
 
-#### October 2022: Episode 76 [Realities of Overseas Missions with Carol Ghattas](https://open.spotify.com/episode/0hLdaGNPztXsn0sl1wMBqb?si=mWZuvX29R3GhPTtSm6eg7Q)
+#### October 2022: Episode 76 [Realities of Overseas Missions with Carol Ghattas](https://open.spotify.com/episode/0hLdaGNPztXsn0sl1wMBqb?si=mWZuvX29R3GhPTtSm6eg7Q){:target="_blank"}
 
 #### November 2022: Episodes 78-81 Caring for the Mobilized 
 
@@ -309,13 +315,15 @@ permalink: sentlife
 
 #### November 2023: Episode 108 [Identifying and Addressing Burnout in Ministry with Dr. Tate Cockrell](https://open.spotify.com/episode/4m2mpvuuwa5Cs41Na6uaFR?si=MQelIgs3RxudN98Idyd6yA){:target="_blank"}
 
+#### July 2025: Episode 159 [Missionary Resilience and a Theology of Risk with Rick Fraley](https://open.spotify.com/episode/6ml0ia2F3EhPL7TKxPVsUJ?si=zQFogmlASM2IfISmgICQxg){:target="_blank"}
+
 ---
 
 </details>
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (21)
+    Theology and Missions (24)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -364,6 +372,8 @@ permalink: sentlife
 
 #### June 2025: Episode 158 [Summer Lecture Series: Is Missions Colonialism?](https://open.spotify.com/episode/6tTxH2Yd6szt7VtN1o124h?si=ttqekJeaTXqNbcxDVEDpqQ){:target="_blank"}
 
+#### August 2025: Episode 160 [Returning Is Part of the Missionary Journey](https://open.spotify.com/episode/2gcZwZZaP62YW6QP08oZTS?si=x8_MqStAQgaHsMlBKlHOVQ){:target="_blank"}
+
 ---
 
 </details>
@@ -377,7 +387,7 @@ permalink: sentlife
 
 ##### [Part 1](https://open.spotify.com/episode/1xxDbpM1MgiwUl9OL299p1?si=rkDVvZwKQn6jHE0RuvhWkA){:target="_blank"}
 
-##### [Part 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd?si=J3zPNemlQsKBTsSyqmBjvg)
+##### [Part 2](https://open.spotify.com/episode/6Ak1D09zjRUJobb6XXNAjd?si=J3zPNemlQsKBTsSyqmBjvg){:target="_blank"}
 
 #### March 2021: Episode 37 [Do You Talk about Spiritual Warfare? With Dr. Lawless](https://open.spotify.com/episode/7qKny9vpWwgj7A8uzBiphS?si=2hHTUzFKQpiYFG37sAmQxg){:target="_blank"}
 
@@ -449,7 +459,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Cooperation/SBC (7)
+    Cooperation/SBC (8)
   </summary>
  
 
@@ -467,13 +477,15 @@ permalink: sentlife
 
 #### October 2024: Episode 136 [Raising Support for Missions with Drew Davis](https://open.spotify.com/episode/69vNauj1qJE8aq5RjVYeHM?si=JIARKP_aQAqqtwiMiuFtyg){:target="_blank"}
 
+#### September 2025: Episode 164 [An Update on Southern Baptist Cooperation with Jeff Iorg](https://open.spotify.com/episode/4mbfpl3YbQkBYNEcNsciiJ?si=vr8JegkKQiuBi462NLsMXQ){:target="_blank"}
+
 ---
 
 </details>
 
 <details closed markdown="block">
   <summary>
-    Misc (13)
+    Misc (14)
   </summary>
 
 #### August 2020: Episode 13 [Gentrification](https://open.spotify.com/episode/2o0NveJuwFNbqFMwzp24Ht?si=BzlWX6r_QfuCc-j2xzKeMg\){:target="_blank"}
