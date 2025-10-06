@@ -64,6 +64,8 @@ On the admin side of WordPress:
     * Add the donate/pay link as a second button.
     * Label this button "Donate or Pay"
     * Ensure the proper graphic has already been uploaded and a layout has been created for the trip. This was probably done when the graphics for trips were received.
+
+
 ---
 
 [Return to WordPress Home](/cgcs-staff-information/wordpress/wordpress.html)
