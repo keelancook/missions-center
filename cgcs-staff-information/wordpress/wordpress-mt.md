@@ -25,10 +25,10 @@ Gravity Forms holds the mission trip applications and the BLANK applications. We
 * Mission Trip Application without Flight for Stateside Trips
     * Each of these is a blank application that users can duplicate to create new applications. Each of these the proper questions, conditional logic, notifications, and confirmations set up.
 * The Mission Trip Application for all Mission Trips
-    * Labeled MT: {{Year}} {{Break(SB, WB, FB, Summer)}} - {{Location}}
+    * Labeled MT: [Year] [Break(SB, WB, FB, Summer)] - [Location]
     * They are labeled this way to easily organize and identify the trip without having to open the application.
 
-### What do we need in order to properly update the blank forms?
+### What do we need in order to properly update the blank forms (HubSpot and GravityForm)?
 
 * Timing of Trip (Fall Break, Winter Break, Spring Break, Summer Break)
 * Exact Dates of Trip (leaving and returning)
@@ -38,7 +38,8 @@ Gravity Forms holds the mission trip applications and the BLANK applications. We
 * The date we are going to be opening the application (the day the application is going live!)
 * If the trip has a flight or not associated with it.
 * If the trip will be SEBTS-hosted, or church-hosted (like the Faith trip).
-* The ministry focus of the trip (CMT, mercy min, women's min, etc)
+    * Church-hosted information is needed for setting up trip application on the CGCS website and specific church-hosted applications on GravityForm.
+* The ministry focus of the trip (CMT, mercy min, women's min, etc) (Needed for HubSpot)
 
 There are various spots throughout the application that need updating:
 
@@ -48,11 +49,21 @@ There are various spots throughout the application that need updating:
 
 In the application itself (under the edit page):
 3. The amount for the deposit at the top needs to be changed.
-4. The location of the trip in the question "Where is this trip going?"
+4. The location of the trip in the question "Is this trip International or North American?"
 5. In the Financial liability section, the amount of the trip, the deposit, and the financial deadlines all need to be updated.
 6. In the indemnity Agreement and Release, the location, term (FB, WB, SB, Summer), and exact dates need to be updated.
     * **When updating these, always save the form at the top of the page to enact the changes.**
 
+### What else do we need to do for a trip to go live?
+On the admin side of WordPress:
+1. Create a page for the application and add the application form to that page.
+    * This can be done by duplicating a template page or duplicating a prior trip page.
+2. Update thecgcs.org/trips page.
+    * Add the application link as a link to create the button.
+    * Label the button "Apply here!".
+    * Add the donate/pay link as a second button.
+    * Label this button "Donate or Pay"
+    * Ensure the proper graphic has already been uploaded and a layout has been created for the trip. This was probably done when the graphics for trips were received.
 ---
 
 [Return to WordPress Home](/cgcs-staff-information/wordpress/wordpress.html)
