@@ -19,6 +19,10 @@ Professors, for more information, check out the [Professor Expectation page](/fo
 
 Students, feel free to check out the [Student Expectations page](/for-students/mission-trips/student-expectations.html) and [Student FAQ page](/for-students/mission-trips/student-faq.html).
 
-### [Download PDF Syllabus Here](/files/Mission%20Trip%20Syllabus%20Template.pdf){:target="_blank"}
+### [Download International PDF Syllabus Template Here](/files/6990.Mission%20Trip%20Syllabus%20Template-2.pdf){:target="_blank"}
 
-### [Download Word Document Syllabus Here](/files/Mission%20Trip%20Syllabus%20Template.docx)
+### [Download International Word Document Syllabus Template Here](/files/6990.Mission%20Trip%20Syllabus%20Template-2.docx)
+
+### [Download North American PDF Syllabus Teamplate Here](/files/syllabus.template-mis6991mis3991.pdf){:target="_blank"}
+
+### [Download North American Word Document Syllabus Template Here](/files/syllabus.template-mis6991mis3991.docx)

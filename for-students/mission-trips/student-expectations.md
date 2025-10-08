@@ -40,7 +40,7 @@ nav_order: 1
    * Some locations require visas, immunizations, and more.  You will be informed of these requirements once you apply for a trip. Make sure your passport is up to date before applying.
 8. Pack well. The trip leader/professor will provide a packing guide.
 9. Promote your trip to others and invite them to join you in praying for you, your team, and those to whom you will minister on the trip. 
-10. A fund-raising template can be provided upon request to help raise funds for your trip.
+10. Upon request, a fundraising template can be provided to help raise funds for your trip.
 11. For international trips: If you are not cleared through the IMB's GO Method, the following apply:
    * The student will not be able to go on the trip.
    * The student will not be refunded their deposit or any payments made towards the trip. In addition, the student will be responsible for any pre-trip expenses that have been incurred on their behalf – such as non-refundable plane tickets and pre-paid ground expenses.
@@ -52,9 +52,9 @@ nav_order: 1
 ---
 
  1. Have quiet time every morning before going out to do ministry.
- 2. Keep a daily journal. In most cases, this is required as part of the syllabus. 
+ 2. Keep a daily journal. In most cases, this is a required part of the syllabus. 
     * The journal will include a witnessing log, noteworthy events, insights, and praises.
-    * Journaling is to be a practice of expectation, thanksgiving, and prayer in your lives. 
+    * Journaling should be a practice of expectation, thanksgiving, and prayer. 
     * You will submit the journal in CampusNet after the trip is complete.
  3. Write a donor letter to thank those who made going more affordable for SEBTS students.
  4. Fully participate in all activities.
@@ -64,7 +64,7 @@ nav_order: 1
  8. Partner well with local workers and nationals in ministry.
  9. If instructed, take photos and videos to send to the CGCS Communication Specialist.
 10. Do not be a cause of conflict but seek cooperation and love with all you interact with.
-11. You are on a trip representing SEBTS and the CGCS. Do not hurt the reputation of the school while on the field.
+11. You are on a trip representing SEBTS and the CGCS. Do not hurt the reputation of the school while on the field. More importantly, you represent Christ, so only do what brings honor to his name.
 12. Abide by all the policies in the student handbook. These are not removed while on a mission trip with the school.
 13. In the unlikely event that you are physically unable to travel back home with the team (e.g., too sick, detained by authorities, etc.), the faculty member or team leader is responsible for the entire team and may have to leave you on location with the field personnel until you can travel back by yourself.  
 

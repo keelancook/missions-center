@@ -15,8 +15,8 @@ permalink: staff
 
 This is the parent page for documentation within the CGCS. It includes navigation links below to take you to any of the pages that you may need! Hope this simple site helps you with continuity and enables you to find workflows and manuals quickly!
 
-* [GitHub Flowchart:](/cgcs-staff-information/github-flowchart.html) This is a larger breakdown of the pages on this site. These pages are unlinked. Basically this is a large table of contents.
-* [CGCS Office Space Breakdown](/cgcs-staff-information/cgcs-space-breakdown.html)
+* [GitHub Flowchart:](/cgcs-staff-information/general-information/github-flowchart.html) This is a larger breakdown of the pages on this site. These pages are unlinked. Basically this is a large table of contents.
+* [CGCS Office Space Breakdown](/cgcs-staff-information/general-information/cgcs-space-breakdown.html)
 * [Onboarding](/cgcs-staff-information/onboarding/onboarding.html)
   1. [Onboarding Manual](/cgcs-staff-information/onboarding/onboarding-manual.html)
   2. [Staff Expectations](/cgcs-staff-information/onboarding/staff-expectations.html)
