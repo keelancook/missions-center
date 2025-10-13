@@ -197,7 +197,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Interviews (17)
+    Interviews (18)
   </summary>
 
 #### July 2020: Episode 8 [One Hope](https://open.spotify.com/episode/2ZPgfYNUNdCelQtUbcYsxj?si=bEISbQ9PTQSwYMJvO5qHng){:target="_blank"}
@@ -235,6 +235,8 @@ permalink: sentlife
 #### September 2024: Episode 130 [The Missional Significance of Associations with Bob Bickford](https://open.spotify.com/episode/0arj5gCJxTXLr616f9hz2j?si=4c5c584fa94d4920){:target="_blank"}
 
 #### December 2024: Episode 141 [The Lasting Legacy of Lottie Moon with Dr. Danny Akin](https://open.spotify.com/episode/61e2iQIEZLOMnOHxnIVhlE?si=-b5a9XsiQIObZexQSZ4gDQ){:target="_blank"}
+
+#### October 2025: Episode 166 [When Team Feels Like Family with Elizabeth Andrews](https://open.spotify.com/episode/2GpeFfrxdXS2Qd4fuLHbkv?si=P_Zi2p1pRZmwmiBeUTD64w){:target="_blank"}
 
 ---
 
