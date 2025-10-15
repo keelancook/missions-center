@@ -44,7 +44,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Evangelism (23)
+    Evangelism (24)
   </summary>
 
 #### July 2020: Episode 7 [Sharing Jesus without Freaking Out](https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ){:target="_blank"}
@@ -92,6 +92,8 @@ permalink: sentlife
 #### May 2024: Episode 125 [Leveraging Your Summer for the Great Commission](https://open.spotify.com/episode/2pBlKQvoYb8AEpt6xTY4g7?si=cgOEoImKRcOiPOjvR6ZxKg){:target="_blank"}
 
 #### November 2024: Episode 139 [Current Trends in Evangelism with Tim Dowdy](https://open.spotify.com/episode/1EZA8z5zuaAo6KNxLQxMut?si=bc08b4b8134c4918){:target="_blank"}
+
+#### October 2025: Episode 167 [Am I Called to Persuade People to Believe? with Walter Bowen](https://open.spotify.com/episode/2L7pZaKxNMFkC4m058yzxC?si=i9uQjInzSzeEJAFdB_aDuQ){:target="_blank"}
 
 ---
 
