@@ -331,7 +331,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (24)
+    Theology and Missions (25)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -382,6 +382,7 @@ permalink: sentlife
 
 #### August 2025: Episode 160 [Returning Is Part of the Missionary Journey](https://open.spotify.com/episode/2gcZwZZaP62YW6QP08oZTS?si=x8_MqStAQgaHsMlBKlHOVQ){:target="_blank"}
 
+#### October 2025: Episode 169 [What About the Places We Can’t Go?](https://open.spotify.com/episode/1LYf6C4O8DhPxrzWHrnRWy?si=efjpjlt2QEmIfqdrgYypSg){:target="_blank"}
 ---
 
 </details>
