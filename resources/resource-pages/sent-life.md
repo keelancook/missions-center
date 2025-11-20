@@ -17,7 +17,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Calling (9)
+    Calling (10)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
@@ -37,6 +37,8 @@ permalink: sentlife
 #### April 2025: Episode 152 [Missions as a Family Calling with Phil Bartuska](https://open.spotify.com/episode/6nZtc9H0RfS3pg43ZXhHJw?si=E58DUS8NReuhdiK33W3nRw){:target="_blank"}
 
 #### October 2025: Episode 165 [How Are Southern Baptists Reaching Unreached & Unengaged People Groups? with John Pratt](https://open.spotify.com/episode/5M64rBdB3KdiC8rc3y7ETL?si=LfSI4WHTTF-68RhK8SPisA){:target="_blank"}
+
+#### November 2025: Episode 172 [A Scary Task: Raising Kids to Obey the Great Commission with Meredith Cook](https://open.spotify.com/episode/23eIoEhvB63tNf5yXVtN6E?si=uNgLsRmVTB6ENgpi6dnynw){:target="_blank"}
 
 ---
 
