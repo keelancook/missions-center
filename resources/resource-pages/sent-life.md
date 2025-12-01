@@ -103,7 +103,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (8)
+    Engaging Cross-Culturally (9)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -121,6 +121,8 @@ permalink: sentlife
 #### November 2025: Episode 170 [How Do I Find People Groups in My City?](https://open.spotify.com/episode/43pGol6Ga0ANQz1CKSrHlP?si=j_PLVr70STKQo6SkrEOHpA){:target="_blank"}
 
 #### November 2025: Episode 171 [Language Learning: An Act of Love with Dr. Todd Borger](https://open.spotify.com/episode/1aba1WBkcK3LnZAJ8UIAnt?si=Y6nDvOFVT668UYyzwA30bw){:target="_blank"}
+
+#### November 2025: Episode 173 [Should Missionaries Celebrate American and Christian Holidays on the Field?](https://open.spotify.com/episode/59KLx1iO6wuUC9N8fc8pbB?si=kHifnRaVSj-GpJPEB_cluA) {:target="_blank"}
 
 ---
 
