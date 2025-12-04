@@ -391,6 +391,8 @@ permalink: sentlife
 #### August 2025: Episode 160 [Returning Is Part of the Missionary Journey](https://open.spotify.com/episode/2gcZwZZaP62YW6QP08oZTS?si=x8_MqStAQgaHsMlBKlHOVQ){:target="_blank"}
 
 #### October 2025: Episode 169 [What About the Places We Can’t Go?](https://open.spotify.com/episode/1LYf6C4O8DhPxrzWHrnRWy?si=efjpjlt2QEmIfqdrgYypSg){:target="_blank"}
+
+#### December 2025: Episode 174 [What Does the Christmas Story Teach Us About God’s Mission?](https://open.spotify.com/episode/73pC4GkZy5TGUD6oIL6RmH?si=v6J0itEjTf6h6fYqZysPTA){:target="_blank"}
 ---
 
 </details>
