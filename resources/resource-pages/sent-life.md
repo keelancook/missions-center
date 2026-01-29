@@ -339,7 +339,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (25)
+    Theology and Missions (26)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -393,6 +393,8 @@ permalink: sentlife
 #### October 2025: Episode 169 [What About the Places We Can’t Go?](https://open.spotify.com/episode/1LYf6C4O8DhPxrzWHrnRWy?si=efjpjlt2QEmIfqdrgYypSg){:target="_blank"}
 
 #### December 2025: Episode 174 [What Does the Christmas Story Teach Us About God’s Mission?](https://open.spotify.com/episode/73pC4GkZy5TGUD6oIL6RmH?si=v6J0itEjTf6h6fYqZysPTA){:target="_blank"}
+
+#### January 2026: Episode 175 [Why Eschatology Matters for Missions](https://open.spotify.com/episode/0dAFlTh2SYkHYuT3hgZ85x?si=1QUuo33CS3OX_WiAGOwKrQ){:target="_blank"}
 ---
 
 </details>
