@@ -124,6 +124,8 @@ permalink: sentlife
 
 #### November 2025: Episode 173 [Should Missionaries Celebrate American and Christian Holidays on the Field?](https://open.spotify.com/episode/59KLx1iO6wuUC9N8fc8pbB?si=kHifnRaVSj-GpJPEB_cluA) {:target="_blank"}
 
+#### February 2026: Episode 176 [Engaging Young Muslims in America with Dr. Ant Greenham](https://open.spotify.com/episode/6YuRB5k5EYOPjneNUYdWmi?si=2simTq1qSx-nPqC-UZQ0eQ){:target="_blank"}
+
 ---
 
 </details>
