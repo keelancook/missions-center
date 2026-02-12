@@ -46,7 +46,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Evangelism (24)
+    Evangelism (25)
   </summary>
 
 #### July 2020: Episode 7 [Sharing Jesus without Freaking Out](https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ){:target="_blank"}
@@ -97,6 +97,7 @@ permalink: sentlife
 
 #### October 2025: Episode 167 [Am I Called to Persuade People to Believe? with Walter Bowen](https://open.spotify.com/episode/2L7pZaKxNMFkC4m058yzxC?si=i9uQjInzSzeEJAFdB_aDuQ){:target="_blank"}
 
+#### February 2026: Episode 177 [Do I Need to Earn the Right to Share the Gospel?](https://open.spotify.com/episode/1Ufcq1mIwQ4qwDs6VaJZ6c?si=wIc1lB-VRoCqLL2jGMZb9A){:target="_blank"}
 ---
 
 </details>
