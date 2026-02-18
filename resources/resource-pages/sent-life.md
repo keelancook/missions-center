@@ -104,7 +104,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (9)
+    Engaging Cross-Culturally (10)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -126,6 +126,8 @@ permalink: sentlife
 #### November 2025: Episode 173 [Should Missionaries Celebrate American and Christian Holidays on the Field?](https://open.spotify.com/episode/59KLx1iO6wuUC9N8fc8pbB?si=kHifnRaVSj-GpJPEB_cluA) {:target="_blank"}
 
 #### February 2026: Episode 176 [Engaging Young Muslims in America with Dr. Ant Greenham](https://open.spotify.com/episode/6YuRB5k5EYOPjneNUYdWmi?si=2simTq1qSx-nPqC-UZQ0eQ){:target="_blank"}
+
+#### February 2026: Episode 178 [Leveraging Ramadan for the Gospel](https://open.spotify.com/episode/7o3whiXVZBjMjxuBQU15o3?si=Pty04jC_TXSPTLM4Pz1Z7Q){:target="_blank"}
 
 ---
 
