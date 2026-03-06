@@ -340,6 +340,8 @@ permalink: sentlife
 
 #### October 2025: Episode 168 [From Strangers… to Journeyman Partners with Lydia and Jane](https://open.spotify.com/episode/6Ol0mnCOV6Kp9rfz9WB6hA?si=xyeDCn1OTfWewLvT0SgWzA){:target="_blank"}
 
+#### March 2026: Episode 180 [When the Missionary Isn’t Seeing Results](https://open.spotify.com/episode/0paK0KyHlxrtTelBlZKDYf?si=gwlE-1_TSQu8uTgXi2DORQ){:target="_blank"}
+
 ---
 
 </details>
