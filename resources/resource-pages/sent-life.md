@@ -342,6 +342,8 @@ permalink: sentlife
 
 #### March 2026: Episode 180 [When the Missionary Isn’t Seeing Results](https://open.spotify.com/episode/0paK0KyHlxrtTelBlZKDYf?si=gwlE-1_TSQu8uTgXi2DORQ){:target="_blank"}
 
+#### March 2026: Episode 181 [Community and Accountability on the Mission Field](https://open.spotify.com/episode/23VybUo5mN89jlWbxhYyfa?si=HXfMJxKxSpagXboqdMsv3Q){:target="_blank"}
+
 ---
 
 </details>
