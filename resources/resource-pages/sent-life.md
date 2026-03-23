@@ -406,6 +406,8 @@ permalink: sentlife
 #### December 2025: Episode 174 [What Does the Christmas Story Teach Us About God’s Mission?](https://open.spotify.com/episode/73pC4GkZy5TGUD6oIL6RmH?si=v6J0itEjTf6h6fYqZysPTA){:target="_blank"}
 
 #### January 2026: Episode 175 [Why Eschatology Matters for Missions](https://open.spotify.com/episode/0dAFlTh2SYkHYuT3hgZ85x?si=1QUuo33CS3OX_WiAGOwKrQ){:target="_blank"}
+
+#### March 2026: Episode 182 [How Does Theological Ed Fit in the Missionary Task? with Dr. Will Brooks](https://open.spotify.com/episode/72Zy9UojbOJNiutNHEYr6e?si=fVmo5NJWSTKNBCMpR8zzNA){:target="_blank"}
 ---
 
 </details>
