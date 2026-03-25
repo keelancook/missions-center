@@ -255,6 +255,8 @@ permalink: sentlife
 
 #### October 2025: Episode 166 [When Team Feels Like Family with Elizabeth Andrews](https://open.spotify.com/episode/2GpeFfrxdXS2Qd4fuLHbkv?si=P_Zi2p1pRZmwmiBeUTD64w){:target="_blank"}
 
+#### March 2026: Episode 183 [Open and Unreached: Taking the Gospel to Japan with Brandon and Arriah](https://open.spotify.com/episode/5RAkpelR3sAZKadCjqI952?si=_Bt79v4wSvS36WLCo4SIpw){:target="_blank"}
+
 ---
 
 </details>
