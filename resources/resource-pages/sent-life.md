@@ -104,7 +104,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (11)
+    Engaging Cross-Culturally (12)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -130,6 +130,8 @@ permalink: sentlife
 #### February 2026: Episode 178 [Leveraging Ramadan for the Gospel](https://open.spotify.com/episode/7o3whiXVZBjMjxuBQU15o3?si=Pty04jC_TXSPTLM4Pz1Z7Q){:target="_blank"}
 
 #### February 2026: Episode 179 [Reaching Mormons with the Gospel with Jason Parker and Daniel Williams](https://open.spotify.com/episode/0vMXhILB3jglG9SwdPBjeT?si=t5wzkSaSS2q0xQpTRN3Zvg){:target="_blank"}
+
+#### April 2026: Episode 184 [Are Muslims Leaving Islam? with Dr. Ant Greenham](https://open.spotify.com/episode/2yUOpr5LnFDfUjRniPQZUB?si=ZWhcUXEzQpK9EvaYsDKEzg){:target="_blank"}
 
 ---
 
