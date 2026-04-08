@@ -104,7 +104,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (12)
+    Engaging Cross-Culturally (13)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -133,6 +133,7 @@ permalink: sentlife
 
 #### April 2026: Episode 184 [Are Muslims Leaving Islam? with Dr. Ant Greenham](https://open.spotify.com/episode/2yUOpr5LnFDfUjRniPQZUB?si=ZWhcUXEzQpK9EvaYsDKEzg){:target="_blank"}
 
+#### April 2026: Episode 185 [Sharing the Gospel with Your Muslim Neighbors with Dr. Greg Mathias](https://open.spotify.com/episode/0Y5H3tDAZjtCHHAaYijxNX?si=Z3L8zRjuRz-_DUjYRZKGiw){:target="_blank"}
 ---
 
 </details>
