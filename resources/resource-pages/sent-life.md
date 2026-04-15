@@ -518,6 +518,7 @@ permalink: sentlife
 
 #### September 2025: Episode 164 [An Update on Southern Baptist Cooperation with Jeff Iorg](https://open.spotify.com/episode/4mbfpl3YbQkBYNEcNsciiJ?si=vr8JegkKQiuBi462NLsMXQ){:target="_blank"}
 
+#### April 2026: Episode 186 [A Great Commission Legacy with Dr. Danny Akin](https://open.spotify.com/episode/1YSPpHZFKH5pK77N5nUiQB?si=KEW73Cr8QBSvsPABq4O7WA){:target="_blank"}
 ---
 
 </details>
