@@ -413,6 +413,8 @@ permalink: sentlife
 #### January 2026: Episode 175 [Why Eschatology Matters for Missions](https://open.spotify.com/episode/0dAFlTh2SYkHYuT3hgZ85x?si=1QUuo33CS3OX_WiAGOwKrQ){:target="_blank"}
 
 #### March 2026: Episode 182 [How Does Theological Ed Fit in the Missionary Task? with Dr. Will Brooks](https://open.spotify.com/episode/72Zy9UojbOJNiutNHEYr6e?si=fVmo5NJWSTKNBCMpR8zzNA){:target="_blank"}
+
+#### April 2026: Episode 186 [How Visual Arts Reveal and Shape a Culture’s Affections with Walter Bowen](https://open.spotify.com/episode/694CCq40HwSmqeral2Opfn?si=-9XAyvmoSF61DzJxOPJ51w){:target="_blank"}
 ---
 
 </details>
