@@ -104,7 +104,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (13)
+    Engaging Cross-Culturally (14)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -167,7 +167,7 @@ permalink: sentlife
  
 <details closed markdown="block">
   <summary>
-    Church Planting (8)
+    Church Planting (9)
   </summary>
 
 #### August 2020: Episode 12 [House Church Matters](https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ){:target="_blank"}
@@ -194,7 +194,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Leadership Development (7)
+    Leadership Development (8)
   </summary>
 
 #### September 2020 Episode 16 [Are You a Potential Church Planter?](https://open.spotify.com/episode/4PbAC5qyQYqJGc3omP3PYn?si=5RQHKnKeS8eLpWgtRncXLw){:target="_blank"}
@@ -211,13 +211,15 @@ permalink: sentlife
 
 #### April 2025: Episode 154 [Sending Healthy and Sustainable Missionaries with Scott Ray](https://open.spotify.com/episode/6zA52cd8sxDSxoAatqgjnC?si=olHihpwJQySbcYDoTmMQKQ){:target="_blank"}
 
+#### April 2026: Episode 188 [How Can Churches Prepare Their Missionary Candidates? with Alan Garnett](https://open.spotify.com/episode/5GmcoXUnvRnQoigoElMLsz?si=85UReyRiQGKVrYhz7FjTaw){:target="_blank"}
+
 ---
 
 </details>
 
 <details closed markdown="block">
   <summary>
-    Interviews (18)
+    Interviews (20)
   </summary>
 
 #### July 2020: Episode 8 [One Hope](https://open.spotify.com/episode/2ZPgfYNUNdCelQtUbcYsxj?si=bEISbQ9PTQSwYMJvO5qHng){:target="_blank"}
@@ -318,7 +320,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Care (11)
+    Missionary Care (14)
   </summary> 
 
 #### November 2020: Episode 23 [Missionary Care and Counseling](https://open.spotify.com/episode/039oTSOUaD31h6j39a5Lcz?si=Ut1H9qLzSNe-It9d1aMf2w){:target="_blank"}
@@ -355,7 +357,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (26)
+    Theology and Missions (29)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -421,7 +423,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Prayer (6)
+    Prayer (7)
   </summary>
 
 #### February 2021: Episodes 33 and 34 How can I serve with Missionaries Through Prayer?
@@ -444,7 +446,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Global Church (17)
+    Global Church (18)
   </summary>
 
 #### June 2020: Episode 3 [The Persecuted Church](https://open.spotify.com/episode/7L4ZrWBaoDi0JD0e4vxDtA?si=cHAapRS5R0e5UkSMZe5QoQ){:target="_blank"}
@@ -500,7 +502,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Cooperation/SBC (8)
+    Cooperation/SBC (9)
   </summary>
  
 
