@@ -351,6 +351,8 @@ permalink: sentlife
 
 #### March 2026: Episode 181 [Community and Accountability on the Mission Field](https://open.spotify.com/episode/23VybUo5mN89jlWbxhYyfa?si=HXfMJxKxSpagXboqdMsv3Q){:target="_blank"}
 
+#### May 2026: Episode 189 [Caring Well for Third-Culture Kids with Dr. Kristin Kellen](https://open.spotify.com/episode/0X70JFkkvQh9XLll0pYMkS?si=uBXf6hvRS5Sslxan70H0xw){:target="_blank"}
+
 ---
 
 </details>
