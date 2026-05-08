@@ -320,7 +320,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Care (14)
+    Missionary Care (15)
   </summary> 
 
 #### November 2020: Episode 23 [Missionary Care and Counseling](https://open.spotify.com/episode/039oTSOUaD31h6j39a5Lcz?si=Ut1H9qLzSNe-It9d1aMf2w){:target="_blank"}
