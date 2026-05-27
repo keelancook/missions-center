@@ -268,7 +268,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Stories (8)
+    Missionary Stories (10)
   </summary>
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
@@ -286,6 +286,10 @@ permalink: sentlife
 #### May 2025: Episode 156 [Stories of the Sent: The Cost of Conversoin with Owen and Myla Stoddard](https://open.spotify.com/episode/15zV72HIKNKG8hFu8b3fMA?si=4t6I8KHNTzelO2at0r4H2A){:target="_blank"}
 
 #### May 2025: Episode 157 [Our Circumstances Changed, Our Calling Didn't: When Health Forced us to Leave](https://open.spotify.com/episode/5ACA4FUmVKQ5olgNWt5GUi?si=tfNYWxcnRhSTHfTWMGUIqg){:target="_blank"}
+
+#### May 2026: Episode 190 [Lilias Trotter: An Artist’s Eye and a Missionary’s Heart](https://open.spotify.com/episode/6X3ro8Ll22pAfwm0WeakIo){:target="_blank"}
+
+#### May 2026: Episode 191 [Stories of the Sent: Animism and Syncretism in Sub-Saharan Africa](https://open.spotify.com/episode/34bSmtOJ5VmybhVmVXgAgj){:target="_blank"}
 
 ---
 
@@ -359,7 +363,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (29)
+    Theology and Missions (30)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -418,7 +422,10 @@ permalink: sentlife
 
 #### March 2026: Episode 182 [How Does Theological Ed Fit in the Missionary Task? with Dr. Will Brooks](https://open.spotify.com/episode/72Zy9UojbOJNiutNHEYr6e?si=fVmo5NJWSTKNBCMpR8zzNA){:target="_blank"}
 
-#### April 2026: Episode 186 [How Visual Arts Reveal and Shape a Culture’s Affections with Walter Bowen](https://open.spotify.com/episode/694CCq40HwSmqeral2Opfn?si=-9XAyvmoSF61DzJxOPJ51w){:target="_blank"}
+#### April 2026: Episode 187 [How Visual Arts Reveal and Shape a Culture’s Affections with Walter Bowen](https://open.spotify.com/episode/694CCq40HwSmqeral2Opfn?si=-9XAyvmoSF61DzJxOPJ51w){:target="_blank"}
+
+#### May 2026: Episode 192 [Summer Lecture Series: Understanding and Using Worldview Frameworks in Missions](https://open.spotify.com/episode/5tuE302UahP5PqaIAMcWPG){:target="_blank"}
+
 ---
 
 </details>
