@@ -26,7 +26,7 @@ This flowchart is an unlinked table of contents that gives the staff a way to se
       1. Student Expectations
       2. Student FAQ
       3. Application Checklist
-   3. Student Degrees: This page is the introductory/landing page for missions degrees. There will be FAQs and other generic advice on pursuing degrees.
+   3. Mission Degrees: This page is the introductory/landing page for missions degrees. There will be FAQs and other generic advice on pursuing degrees.
       1. Mission Degrees Information
       2. Mission Degrees FAQ
    4. Student Practicums: This page introduces students to the idea of practicums, gives FAQs, and offers available opportunities.
@@ -82,7 +82,7 @@ CGCS Staff: This page is the navigation page for CGCS Staff to find documentatio
    4. GitHub Home
       1. Introduction
       2. What is a repository?
-      3. Do you know about the period?
+      3. GitHub.dev: Do you know about the period?
       4. What is markdown?
       5. How do I make this a website?
    5. HubSpot Home

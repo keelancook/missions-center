@@ -123,7 +123,7 @@ permalink: sentlife
 
 #### November 2025: Episode 171 [Language Learning: An Act of Love with Dr. Todd Borger](https://open.spotify.com/episode/1aba1WBkcK3LnZAJ8UIAnt?si=Y6nDvOFVT668UYyzwA30bw){:target="_blank"}
 
-#### November 2025: Episode 173 [Should Missionaries Celebrate American and Christian Holidays on the Field?](https://open.spotify.com/episode/59KLx1iO6wuUC9N8fc8pbB?si=kHifnRaVSj-GpJPEB_cluA) {:target="_blank"}
+#### November 2025: Episode 173 [Should Missionaries Celebrate American and Christian Holidays on the Field?](https://open.spotify.com/episode/59KLx1iO6wuUC9N8fc8pbB?si=kHifnRaVSj-GpJPEB_cluA){:target="_blank"}
 
 #### February 2026: Episode 176 [Engaging Young Muslims in America with Dr. Ant Greenham](https://open.spotify.com/episode/6YuRB5k5EYOPjneNUYdWmi?si=2simTq1qSx-nPqC-UZQ0eQ){:target="_blank"}
 
@@ -455,7 +455,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Global Church (18)
+    Global Church (17)
   </summary>
 
 #### June 2020: Episode 3 [The Persecuted Church](https://open.spotify.com/episode/7L4ZrWBaoDi0JD0e4vxDtA?si=cHAapRS5R0e5UkSMZe5QoQ){:target="_blank"}
