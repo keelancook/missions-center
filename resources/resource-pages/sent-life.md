@@ -511,7 +511,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Cooperation/SBC (9)
+    Cooperation/SBC (11)
   </summary>
  
 
@@ -532,6 +532,11 @@ permalink: sentlife
 #### September 2025: Episode 164 [An Update on Southern Baptist Cooperation with Jeff Iorg](https://open.spotify.com/episode/4mbfpl3YbQkBYNEcNsciiJ?si=vr8JegkKQiuBi462NLsMXQ){:target="_blank"}
 
 #### April 2026: Episode 186 [A Great Commission Legacy with Dr. Danny Akin](https://open.spotify.com/episode/1YSPpHZFKH5pK77N5nUiQB?si=KEW73Cr8QBSvsPABq4O7WA){:target="_blank"}
+
+#### June 2026: Episode 193 [How to Be Praying for the 2026 SBC Annual Meeting](https://open.spotify.com/episode/5gXfo8MjAGc1AbkNsXxMbG){:target="_blank"}
+
+#### June 2026: Episode 194 [Together on God’s Mission: A Reminder of How and Why Southern Baptists Cooperate](https://open.spotify.com/episode/1QjAI7wpFgn7WJNbHmoa8g){:target="_blank"}
+
 ---
 
 </details>
