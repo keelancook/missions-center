@@ -104,7 +104,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (14)
+    Engaging Cross-Culturally (15)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -134,6 +134,9 @@ permalink: sentlife
 #### April 2026: Episode 184 [Are Muslims Leaving Islam? with Dr. Ant Greenham](https://open.spotify.com/episode/2yUOpr5LnFDfUjRniPQZUB?si=ZWhcUXEzQpK9EvaYsDKEzg){:target="_blank"}
 
 #### April 2026: Episode 185 [Sharing the Gospel with Your Muslim Neighbors with Dr. Greg Mathias](https://open.spotify.com/episode/0Y5H3tDAZjtCHHAaYijxNX?si=Z3L8zRjuRz-_DUjYRZKGiw){:target="_blank"}
+
+#### July 2026: Episode 197 [Sharing the Gospel with Your Hindu Neighbors with Dr. Anna Daub](https://open.spotify.com/episode/0NKkbLjY8dCRoEdsfEZhs1){:target="_blank"}
+
 ---
 
 </details>
@@ -268,7 +271,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Stories (10)
+    Missionary Stories (11)
   </summary>
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
@@ -290,6 +293,8 @@ permalink: sentlife
 #### May 2026: Episode 190 [Lilias Trotter: An Artist’s Eye and a Missionary’s Heart](https://open.spotify.com/episode/6X3ro8Ll22pAfwm0WeakIo){:target="_blank"}
 
 #### May 2026: Episode 191 [Stories of the Sent: Animism and Syncretism in Sub-Saharan Africa](https://open.spotify.com/episode/34bSmtOJ5VmybhVmVXgAgj){:target="_blank"}
+
+#### June 2026: Episode 195 [Annie Armstrong: A Girl Who Helped the Gospel Go Forward with Ryan Martin](https://open.spotify.com/episode/2g9tZLcuMtGQ7Ubx5LiH5I){:target="_blank"}
 
 ---
 
@@ -455,7 +460,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Global Church (17)
+    Global Church (18)
   </summary>
 
 #### June 2020: Episode 3 [The Persecuted Church](https://open.spotify.com/episode/7L4ZrWBaoDi0JD0e4vxDtA?si=cHAapRS5R0e5UkSMZe5QoQ){:target="_blank"}
@@ -491,6 +496,8 @@ permalink: sentlife
 #### August 2023: Summer Episode, [From the Four Corners: WMU](https://open.spotify.com/episode/0AlR0pqgUKyUs4egHHo9av?si=BgF5GBCcSfiDZ6lRn5Iryg){:target="_blank"}
 
 #### August 2023: Summer Episode, [From the Four Corners: The Unassuming Evangelical Giant](https://open.spotify.com/episode/6KLfuUKIgjgXQP3DdTLQef?si=XkBmsHwqRj2S8mnGtDJP7A){:target="_blank"}
+
+#### June 2026: Episode 196 [The War in Iran from an Iranian Christian’s Perspective with Dr. Kambiz Saghaey](https://open.spotify.com/episode/0pBzjRcKjyfvBAlbmHN2Bo){:target="_blank"}
 
 ---
 
