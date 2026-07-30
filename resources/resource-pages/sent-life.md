@@ -98,13 +98,14 @@ permalink: sentlife
 #### October 2025: Episode 167 [Am I Called to Persuade People to Believe? with Walter Bowen](https://open.spotify.com/episode/2L7pZaKxNMFkC4m058yzxC?si=i9uQjInzSzeEJAFdB_aDuQ){:target="_blank"}
 
 #### February 2026: Episode 177 [Do I Need to Earn the Right to Share the Gospel?](https://open.spotify.com/episode/1Ufcq1mIwQ4qwDs6VaJZ6c?si=wIc1lB-VRoCqLL2jGMZb9A){:target="_blank"}
+
 ---
 
 </details>
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (15)
+    Engaging Cross-Culturally (16)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -136,6 +137,8 @@ permalink: sentlife
 #### April 2026: Episode 185 [Sharing the Gospel with Your Muslim Neighbors with Dr. Greg Mathias](https://open.spotify.com/episode/0Y5H3tDAZjtCHHAaYijxNX?si=Z3L8zRjuRz-_DUjYRZKGiw){:target="_blank"}
 
 #### July 2026: Episode 197 [Sharing the Gospel with Your Hindu Neighbors with Dr. Anna Daub](https://open.spotify.com/episode/0NKkbLjY8dCRoEdsfEZhs1){:target="_blank"}
+
+#### July 2026: Episode 198 [Using Bridges and Redemptive Analogies in Cross-Cultural Evangelism](https://open.spotify.com/episode/2H7OhNLY2e1YplT4i8Ouwq){:target="_blank"}
 
 ---
 
@@ -271,7 +274,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Missionary Stories (11)
+    Missionary Stories (12)
   </summary>
 
 #### March 2024: Episode 118 [Language Learning and Missions with George Watts](https://open.spotify.com/episode/1iVvxMwqaMeYtj5V3lYLm7?si=SVOQHWcwTZOSQGjew6QfNQ){:target="_blank"}
@@ -295,6 +298,8 @@ permalink: sentlife
 #### May 2026: Episode 191 [Stories of the Sent: Animism and Syncretism in Sub-Saharan Africa](https://open.spotify.com/episode/34bSmtOJ5VmybhVmVXgAgj){:target="_blank"}
 
 #### June 2026: Episode 195 [Annie Armstrong: A Girl Who Helped the Gospel Go Forward with Ryan Martin](https://open.spotify.com/episode/2g9tZLcuMtGQ7Ubx5LiH5I){:target="_blank"}
+
+#### July 2026: Episode 199 [Sustainable Sacrifice: Principles for Long-Lasting Missionary Service](https://open.spotify.com/episode/4JkDDuIF2TWTxJUVZpUsx2){:target="_blank"}
 
 ---
 
@@ -361,6 +366,8 @@ permalink: sentlife
 #### March 2026: Episode 181 [Community and Accountability on the Mission Field](https://open.spotify.com/episode/23VybUo5mN89jlWbxhYyfa?si=HXfMJxKxSpagXboqdMsv3Q){:target="_blank"}
 
 #### May 2026: Episode 189 [Caring Well for Third-Culture Kids with Dr. Kristin Kellen](https://open.spotify.com/episode/0X70JFkkvQh9XLll0pYMkS?si=uBXf6hvRS5Sslxan70H0xw){:target="_blank"}
+
+#### July 2026: Episode 201 [Missionaries as Members: The Sending Church’s Role in Supporting Sent Ones](https://open.spotify.com/episode/5jyuu9eylkq1uMUWl4ur5A){:target="_blank"}
 
 ---
 
@@ -550,7 +557,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Misc (14)
+    Misc (15)
   </summary>
 
 #### August 2020: Episode 13 [Gentrification](https://open.spotify.com/episode/2o0NveJuwFNbqFMwzp24Ht?si=BzlWX6r_QfuCc-j2xzKeMg\){:target="_blank"}
@@ -580,6 +587,8 @@ permalink: sentlife
 #### February 2024: Episode 114 [The Questions Students are Asking about Missions](https://open.spotify.com/episode/32ePZ0rUrlU2wFonUX6WMB?si=wF4HXXyaTyqcSe6qvnNc2w){:target="_blank"}
 
 #### February 2025: Episode 142 [You Don't Want to Miss This Season of The Sent Life!](https://open.spotify.com/episode/5H3fvSocBDnw4c3pxfjQ1W?si=RPYTk59BSpy5egbu9JgyUg){:target="_blank"}
+
+#### July 2026: Episode 200 [Our 200th Episode! Answering Questions from Returned Journeymen](https://open.spotify.com/episode/66vcFhY2wQZqZpUR7joXHT){:target="_blank"}
 
 ---
 
