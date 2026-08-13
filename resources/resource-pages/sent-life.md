@@ -28,7 +28,7 @@ permalink: sentlife
 
 #### March 2022: Episode 64 [Calling Out the Called](https://open.spotify.com/episode/42KvB3ZTHFQvI0Wod5XXmO?si=7fcWCsVbQYWaAXscdzvmEQ){:target="_blank"}
 
-#### October 2023: Episode 104 [How do I get from Calling to the Mission Field? With Rick Fraley](https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg){:target="_blank"}
+#### October 2023: Episode 104 [How do I get from Calling to the Mission Field? With Rick F](https://open.spotify.com/episode/3FXAt3SXWtOxRXvkE9Qp2M?si=9_hUi-UKSBOjftSsRaRfVg){:target="_blank"}
 
 #### August 2024: Episode 128 [Before You Go with Dr. Matthew Bennett](https://open.spotify.com/episode/6C7bfdj1uBQ6fVjSHUARsY?si=3a23bba1570a4dd4){:target="_blank"}
 
@@ -357,7 +357,7 @@ permalink: sentlife
 
 #### November 2023: Episode 108 [Identifying and Addressing Burnout in Ministry with Dr. Tate Cockrell](https://open.spotify.com/episode/4m2mpvuuwa5Cs41Na6uaFR?si=MQelIgs3RxudN98Idyd6yA){:target="_blank"}
 
-#### July 2025: Episode 159 [Missionary Resilience and a Theology of Risk with Rick Fraley](https://open.spotify.com/episode/6ml0ia2F3EhPL7TKxPVsUJ?si=zQFogmlASM2IfISmgICQxg){:target="_blank"}
+#### July 2025: Episode 159 [Missionary Resilience and a Theology of Risk with Rick F](https://open.spotify.com/episode/6ml0ia2F3EhPL7TKxPVsUJ?si=zQFogmlASM2IfISmgICQxg){:target="_blank"}
 
 #### October 2025: Episode 168 [From Strangers… to Journeyman Partners with Lydia and Jane](https://open.spotify.com/episode/6Ol0mnCOV6Kp9rfz9WB6hA?si=xyeDCn1OTfWewLvT0SgWzA){:target="_blank"}
 

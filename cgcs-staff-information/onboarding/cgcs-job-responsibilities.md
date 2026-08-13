@@ -142,7 +142,7 @@ To be the voice of the CGCS through social media, the CGCS's blog, and other dig
 * Create graphics or assist in graphic design for the CGCS. 
 
 
-### Database Coordinator - Harold Kinsman
+### Database Coordinator
 
 #### Role:
 To oversee the formation of our databases (HubSpot and Prayer Cards) and to help weave HubSpot into our workflow. I also do a myriad of other tasks that the director wants me to do, such as developing our documentation on GitHub.
@@ -163,7 +163,7 @@ To oversee the formation of our databases (HubSpot and Prayer Cards) and to help
 * Ensure the prayer card database in Excel and on WordPress is up to date.
 * During my dead time, I seek to serve the director and other staff in any way possible.
 
-### Student Mobilizer - Chloe Rutherford
+### Student Mobilizer
 
 #### Role:
 To mobilize college and seminary students to take the next step in going with SEBTS and NAMB GenSend.
@@ -177,7 +177,7 @@ To mobilize college and seminary students to take the next step in going with SE
 * Record meetings in HubSpot and log student interactions.
 * Help others in the office with tasks in your spare time.
 
-### CGCS Research Fellow - Maggie
+### CGCS Research Fellow
 
 #### Role:
 To tell the history of the CGCS, Southeastern missionary sending, and other missions history. This is an internship/research role with the intent to produce academic quality research and resources for students and the SBC at large.
@@ -193,7 +193,7 @@ To tell the history of the CGCS, Southeastern missionary sending, and other miss
 * Digitize Sunday School Board training materials.
 * Work with the CGCS staff members to figure out how to tell the story of Southeastern well.
 
-### Company MAG Role - Rick and Nancy Fraley
+### Company MAG Role
 
 #### Role:
 To mobilize college and seminary students to take the next step in going with SEBTS and the Company. This role serves as a liaison between the Company, SEBTS, and the CGCS.
