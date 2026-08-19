@@ -17,7 +17,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Calling (10)
+    Calling (11)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
@@ -39,6 +39,8 @@ permalink: sentlife
 #### October 2025: Episode 165 [How Are Southern Baptists Reaching Unreached & Unengaged People Groups? with John Pratt](https://open.spotify.com/episode/5M64rBdB3KdiC8rc3y7ETL?si=LfSI4WHTTF-68RhK8SPisA){:target="_blank"}
 
 #### November 2025: Episode 172 [A Scary Task: Raising Kids to Obey the Great Commission with Meredith Cook](https://open.spotify.com/episode/23eIoEhvB63tNf5yXVtN6E?si=uNgLsRmVTB6ENgpi6dnynw){:target="_blank"}
+
+#### August 2026: Episode 204 [Identifying the Savior Complex](https://open.spotify.com/episode/4VHCbMJLeUf8kL8uZk908m?si=eHaDCe0iRZybPzMBxMtE9Q){:target="_blank"}
 
 ---
 
@@ -173,7 +175,7 @@ permalink: sentlife
  
 <details closed markdown="block">
   <summary>
-    Church Planting (9)
+    Church Planting (8)
   </summary>
 
 #### August 2020: Episode 12 [House Church Matters](https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ){:target="_blank"}
@@ -225,7 +227,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Interviews (20)
+    Interviews (19)
   </summary>
 
 #### July 2020: Episode 8 [One Hope](https://open.spotify.com/episode/2ZPgfYNUNdCelQtUbcYsxj?si=bEISbQ9PTQSwYMJvO5qHng){:target="_blank"}
@@ -444,7 +446,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Prayer (7)
+    Prayer (6)
   </summary>
 
 #### February 2021: Episodes 33 and 34 How can I serve with Missionaries Through Prayer?
