@@ -17,7 +17,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Calling (11)
+    Calling (12)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
@@ -42,6 +42,7 @@ permalink: sentlife
 
 #### August 2026: Episode 204 [Identifying the Savior Complex](https://open.spotify.com/episode/4VHCbMJLeUf8kL8uZk908m?si=eHaDCe0iRZybPzMBxMtE9Q){:target="_blank"}
 
+#### August 2026: Episode 205 [What Is the Missionary Call?](https://open.spotify.com/episode/7BGremXYS17At4ezeYfpAZ?si=Nou_YtNSTge5WML2Zy8wPA){:target="_blank"}
 ---
 
 </details>
