@@ -310,7 +310,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Short-Term Mission Trips (9)
+    Short-Term Mission Trips (10)
   </summary>
 
 #### June 2020: Episode 2 [Critical Questions for STMs](https://open.spotify.com/episode/05UFbBuu6jsYNtFc1CJXY1?si=i2ggBgqPTUCmVKvOMyT2-Q){:target="_blank"}
@@ -330,6 +330,8 @@ permalink: sentlife
 #### April 2025: Episode 150 [How Short-Term Teams Benefit Long-Term Strategy](https://open.spotify.com/episode/7yVozOPYWWSH6O8c4Y2IkZ?si=ETCGjioXSYOj8rTbMIKV8Q){:target="_blank"}
 
 #### April 2025: Episode 151 [Mission Trips from the Students' Perspective](https://open.spotify.com/episode/5La9ZVlQtVAqsY7QXosmkA?si=NUbQBZ5uSVCPMvrpcsmCYQ){:target="_blank"}
+
+#### September 2026: Episode 206 [Minimizing Security Issues in Short-Term Missions with Stephen Haber](https://open.spotify.com/episode/7Ln0bN2TJGkI3ss4AF5r4m?si=JWnB5gomTFOMKAHWgN72-w){:target="_blank"}
 
 ---
 
