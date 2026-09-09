@@ -374,6 +374,8 @@ permalink: sentlife
 
 #### July 2026: Episode 201 [Missionaries as Members: The Sending Church’s Role in Supporting Sent Ones](https://open.spotify.com/episode/5jyuu9eylkq1uMUWl4ur5A){:target="_blank"}
 
+#### September 2026: Episode 207 [Holy Goodbyes: How to Leave for the Mission Field Well](https://open.spotify.com/episode/3HscJn6L6Q3Bk6Qx1LyIGp?si=u-vhuOt7SmyEceWakdHRog){:target="_blank"}
+
 ---
 
 </details>
