@@ -178,7 +178,7 @@ permalink: sentlife
  
 <details closed markdown="block">
   <summary>
-    Church Planting (8)
+    Church Planting (9)
   </summary>
 
 #### August 2020: Episode 12 [House Church Matters](https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ){:target="_blank"}
@@ -198,6 +198,8 @@ permalink: sentlife
 #### February 2024: Episode 116 [How SendNC Helps Churches Plant Churches](https://open.spotify.com/episode/15S3IDCR9HCWq1zGTkUt8e?si=IbDlAIhIQMq2ZX-mcagDJA){:target="_blank"}
 
 #### September 2025: Episode 163 [Passing the Baton: Raising Up Leaders on the Mission Field with Keelan Cook and Scott Hildreth](https://open.spotify.com/episode/7qsQkL2b5ngz4IYLb7b45k?si=1Lq2_c5zQiCD9aMzttna7Q){:target="_blank"}
+
+#### September 2026: Episode 209 [Beans, Bruins, and Bunker Hill: Church Planting in the Heart of New England with Jon Chasteen](https://open.spotify.com/episode/5CTvesQGS6vMairzk8sz4C?si=z7grbi7kR_aJjBTz6DwrhA){:target="_blank"}
 
 ---
 
