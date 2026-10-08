@@ -49,7 +49,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Evangelism (26)
+    Evangelism (27)
   </summary>
 
 #### July 2020: Episode 7 [Sharing Jesus without Freaking Out](https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ){:target="_blank"}
@@ -103,6 +103,8 @@ permalink: sentlife
 #### February 2026: Episode 177 [Do I Need to Earn the Right to Share the Gospel?](https://open.spotify.com/episode/1Ufcq1mIwQ4qwDs6VaJZ6c?si=wIc1lB-VRoCqLL2jGMZb9A){:target="_blank"}
 
 #### September 2026: Episode 208 [Sharing the Truth with Religious Relativists](https://open.spotify.com/episode/38HDpzKieXtAoQsZ2XREdn?si=HAxNdS6WSz-mKAtFj1dXiw){:target="_blank"}
+
+#### October 2026: Episode 211 [Engaging Cultural Christianity with the Gospel](https://open.spotify.com/episode/4ttMfRwUFvYpssUqP9SeHi){:target="_blank"}
 
 ---
 
@@ -178,7 +180,7 @@ permalink: sentlife
  
 <details closed markdown="block">
   <summary>
-    Church Planting (9)
+    Church Planting (10)
   </summary>
 
 #### August 2020: Episode 12 [House Church Matters](https://open.spotify.com/episode/5aET3hk30LE69WuZ4evfPI?si=WMx0P1bvSvmW8eicdmIsbQ){:target="_blank"}
@@ -200,6 +202,8 @@ permalink: sentlife
 #### September 2025: Episode 163 [Passing the Baton: Raising Up Leaders on the Mission Field with Keelan Cook and Scott Hildreth](https://open.spotify.com/episode/7qsQkL2b5ngz4IYLb7b45k?si=1Lq2_c5zQiCD9aMzttna7Q){:target="_blank"}
 
 #### September 2026: Episode 209 [Beans, Bruins, and Bunker Hill: Church Planting in the Heart of New England with Jon Chasteen](https://open.spotify.com/episode/5CTvesQGS6vMairzk8sz4C?si=z7grbi7kR_aJjBTz6DwrhA){:target="_blank"}
+
+#### September 2026: Episode 210 [When the Next Gen Helps Plant Churches](https://open.spotify.com/episode/48u6VLRFRH7cfzU5G45is6){:target="_blank"}
 
 ---
 
