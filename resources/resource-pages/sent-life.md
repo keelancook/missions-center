@@ -390,7 +390,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (30)
+    Theology and Missions (31)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -452,6 +452,8 @@ permalink: sentlife
 #### April 2026: Episode 187 [How Visual Arts Reveal and Shape a Culture’s Affections with Walter Bowen](https://open.spotify.com/episode/694CCq40HwSmqeral2Opfn?si=-9XAyvmoSF61DzJxOPJ51w){:target="_blank"}
 
 #### May 2026: Episode 192 [Summer Lecture Series: Understanding and Using Worldview Frameworks in Missions](https://open.spotify.com/episode/5tuE302UahP5PqaIAMcWPG){:target="_blank"}
+
+#### October 2026: Episode 212 [Is the Missionary Role Biblical?](https://open.spotify.com/episode/3wY1YGxBGhqEkXkpDRvYm8?si=2Luls5HEQNOTKBltoPFIsQ){:target="_blank"}
 
 ---
 
