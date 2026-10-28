@@ -91,7 +91,10 @@ nav_order: 2
    * Medicine is common to bring with you on a trip. Each country and airline is different in its policy about medicine. Check with the **[CDC here](https://wwwnc.cdc.gov/travel/page/travel-abroad-with-medicine){:target="_blank"}** to find out more.
 
 ### Will there be medical assistance while we are in-country?
-   * Depending on your destination, medical assistance can be sparse. Professors are advised to plan emergency medical options while in-country. If you are partnering with a team of local workers, they will also know the best way to get medical assistance while in-country. Medical access is different worldwide, so ask your professor about your destination’s health care! 
+   * Depending on your destination, medical assistance can be sparse. Professors are advised to plan emergency medical options while in-country. If you are partnering with a team of local workers, they will also know the best way to get medical assistance while in-country. Medical access is different worldwide, so ask your professor about your destination’s health care!
+
+### Am I required to take vaccines if I go on a trip?
+   * Maybe. There are a couple of reasons you might have to take a vaccine for one of our trips. First, it is mandatory if required to enter the country we are traveling to or to regain entry into the U.S. Second, it is required if strongly recommended by the field team and the CDC because not doing so could put your life at risk (e.g., if we are traveling to a remote area where rabies is prevalent and there is no way to medivac you to a hospital within 24 hours after being bitten).
 
 ### Will I need to learn a new language to go on a mission trip?
    * You will not need to learn a new language to go on a mission trip. We advise you to read a little about the culture you will be interacting with on the mission trip. Your professor should help brief you about common customs and culture before you go on the trip. 
@@ -159,6 +162,8 @@ nav_order: 2
 ### How much does a mission trip normally cost?
    * The cost of a mission trip will differ if it is a North American or international trip. North American trips typically range from $500 to $800. International trips typically range from $2000 to $2500. The cost of the trip will depend on the destination, method of travel, airline fare, and length of trip. All prices are subject to change and are evaluated each year based on the current economic climate.
 
+### Are the costs of vaccines and prophylactic medications (e.g., malaria) covered by what I already paid for the trip?
+   * No. The seminary will not cover the cost of this medical treatment, but many insurance policies do. While we do not pay for vaccines, the CGCS will reimburse up to $100 for required vaccines for a trip. In many cases, this covers the total cost, but some vaccines exceed the CGCS reimbursement amount.
 
 ### How much money should I bring with me on the trip?
    * You should not have to bring a lot of money with you on the trip since the travel, housing, and food costs are covered. If you want to buy souvenirs, you will have to provide your funding. Some countries accept the American dollar, while many countries are converting to cashless payment methods. Bringing a credit/debit card with you is sufficient for most cases. 
