@@ -49,7 +49,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Evangelism (27)
+    Evangelism (30)
   </summary>
 
 #### July 2020: Episode 7 [Sharing Jesus without Freaking Out](https://open.spotify.com/episode/7Jp3g9BdLKpaVhJqVDI4Ju?si=940yJY2tT5e96B2UeKwkjQ){:target="_blank"}
@@ -105,6 +105,12 @@ permalink: sentlife
 #### September 2026: Episode 208 [Sharing the Truth with Religious Relativists](https://open.spotify.com/episode/38HDpzKieXtAoQsZ2XREdn?si=HAxNdS6WSz-mKAtFj1dXiw){:target="_blank"}
 
 #### October 2026: Episode 211 [Engaging Cultural Christianity with the Gospel](https://open.spotify.com/episode/4ttMfRwUFvYpssUqP9SeHi){:target="_blank"}
+
+#### October 2026: Episode 213 [Why Personal Holiness Matters in Evangelism](https://open.spotify.com/episode/6UyNglCViXoukAEX2sGjVn){:target="_blank"}
+
+#### October 2026: Episode 214 [Should Christians Celebrate Halloween?](https://open.spotify.com/episode/56waWEFS4mJ2MS9E7r31yD){:target="_blank"}
+
+#### November 2026: Episode 215 [Is Evangelism a Spiritual Gift?](https://open.spotify.com/episode/2VQbapdDNUDR6Ycp6bVStd){:target="_blank"}
 
 ---
 
