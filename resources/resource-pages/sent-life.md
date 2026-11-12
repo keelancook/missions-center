@@ -17,7 +17,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Calling (12)
+    Calling (13)
   </summary>
 
 #### November 2020: Episode 24 [What are You Going to Do with Your Life with JD Greear](https://open.spotify.com/episode/0Dfe3GcFlkqYuhhSUIYn5Y?si=YWMVdKiQSRyXUqwNs9RmVQ){:target="_blank"}
@@ -40,9 +40,12 @@ permalink: sentlife
 
 #### November 2025: Episode 172 [A Scary Task: Raising Kids to Obey the Great Commission with Meredith Cook](https://open.spotify.com/episode/23eIoEhvB63tNf5yXVtN6E?si=uNgLsRmVTB6ENgpi6dnynw){:target="_blank"}
 
+#### August 2026: Episode 203 [How Do Missionaries Discern Where to Go?](https://open.spotify.com/episode/2frUC1Jju4c6SuoEmOo3Yd){:target="_blank"}
+
 #### August 2026: Episode 204 [Identifying the Savior Complex](https://open.spotify.com/episode/4VHCbMJLeUf8kL8uZk908m?si=eHaDCe0iRZybPzMBxMtE9Q){:target="_blank"}
 
 #### August 2026: Episode 205 [What Is the Missionary Call?](https://open.spotify.com/episode/7BGremXYS17At4ezeYfpAZ?si=Nou_YtNSTge5WML2Zy8wPA){:target="_blank"}
+
 ---
 
 </details>
@@ -398,7 +401,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Theology and Missions (31)
+    Theology and Missions (32)
   </summary>
 
 #### June 2020: Episode 1 [COVID-19 and God’s Mission](https://open.spotify.com/episode/4D3xGFG80sooAHbmG6zGJI?si=a23H6MVHTSiEe3-plOURaQ){:target="_blank"}
@@ -460,6 +463,8 @@ permalink: sentlife
 #### April 2026: Episode 187 [How Visual Arts Reveal and Shape a Culture’s Affections with Walter Bowen](https://open.spotify.com/episode/694CCq40HwSmqeral2Opfn?si=-9XAyvmoSF61DzJxOPJ51w){:target="_blank"}
 
 #### May 2026: Episode 192 [Summer Lecture Series: Understanding and Using Worldview Frameworks in Missions](https://open.spotify.com/episode/5tuE302UahP5PqaIAMcWPG){:target="_blank"}
+
+#### August 2026: Episode 202 [The Flaw of the Excluded Middle: Acknowledging the Supernatural in Missions](https://open.spotify.com/episode/7kXO21KnvRCp7xbMy8sBJ4){:target="_blank"}
 
 #### October 2026: Episode 212 [Is the Missionary Role Biblical?](https://open.spotify.com/episode/3wY1YGxBGhqEkXkpDRvYm8?si=2Luls5HEQNOTKBltoPFIsQ){:target="_blank"}
 
