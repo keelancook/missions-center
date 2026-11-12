@@ -118,7 +118,7 @@ permalink: sentlife
 
 <details closed markdown="block">
   <summary>
-    Engaging Cross-Culturally (16)
+    Engaging Cross-Culturally (17)
   </summary>
 
 #### March 2021: Episode 38 [Go and Tell ESL](https://open.spotify.com/episode/2naT435plkkj9mzN1dMuj0?si=hVQnMpfkSTWYqpYubWjh2Q){:target="_blank"}
@@ -152,6 +152,8 @@ permalink: sentlife
 #### July 2026: Episode 197 [Sharing the Gospel with Your Hindu Neighbors with Dr. Anna Daub](https://open.spotify.com/episode/0NKkbLjY8dCRoEdsfEZhs1){:target="_blank"}
 
 #### July 2026: Episode 198 [Using Bridges and Redemptive Analogies in Cross-Cultural Evangelism](https://open.spotify.com/episode/2H7OhNLY2e1YplT4i8Ouwq){:target="_blank"}
+
+#### November 2026: Episode 216 [What Is Folk Islam?](https://open.spotify.com/episode/36npDwkTKv9xgrY1hePqlX){:target="_blank"}
 
 ---
 
