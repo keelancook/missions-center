@@ -120,7 +120,7 @@ To be the administrative aid to Keelan as the director of the CGCS and as a prof
     * This automatically uploads the podcast to other platforms.
 * Oversee and arrange travel needs for Keelan.
 
-### Digital Communications Specialist - Split in Two
+### Digital Communications Specialist - Split in Two (See Resource Coordinator)
 
 #### Role:
 To be the voice of the CGCS through social media, the CGCS's blog, and other digital platforms. This role includes managing the WordPress site, social media, and contact with students, writers, and professors. This is a hybrid role that is mostly behind the camera but does interact with the above to produce material for the CGCS.
@@ -176,6 +176,18 @@ To mobilize college and seminary students to take the next step in going with SE
 * Encourage students to use their summer to serve the Lord and help fulfill the Great Commission.
 * Record meetings in HubSpot and log student interactions.
 * Help others in the office with tasks in your spare time.
+
+### Resource Coordinator
+
+#### Role:
+To manage resources for CGCS Blogs and Newsletter, and to use analytic tools for promote strategy.
+
+#### Responsibilities:
+* Communicate with blog writers and edit articles before publishing them to the blog.
+* Build the marketing website on WordPress.
+    * Develop pages, posts, and events on the website.
+    * Weave together images, links, forms, and text in a way that is appealing and informative.
+
 
 ### CGCS Research Fellow
 
