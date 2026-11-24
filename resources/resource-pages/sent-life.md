@@ -115,6 +115,8 @@ permalink: sentlife
 
 #### November 2026: Episode 215 [Is Evangelism a Spiritual Gift?](https://open.spotify.com/episode/2VQbapdDNUDR6Ycp6bVStd){:target="_blank"}
 
+#### November 2026: Episode 217 [Why We Don’t Share the Gospel, and How to Grow in Evangelism](https://open.spotify.com/episode/11RdFfKAnrU561rZ5VfKld){:target="_blank"}
+
 ---
 
 </details>
